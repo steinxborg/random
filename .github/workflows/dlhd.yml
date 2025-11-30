@@ -1,0 +1,52 @@
+name: Turnstile Solver
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 */6 * * *'  # Run every 6 hours
+
+jobs:
+  solve-turnstile:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y xvfb chromium-browser
+    
+    - name: Install Python dependencies
+      run: |
+        pip install DrissionPage xvfbwrapper
+    
+    - name: Verify extension exists
+      run: |
+        if [ -d "turnstilePatch" ]; then
+          echo "✓ Extension folder found"
+          ls -la turnstilePatch/
+        else
+          echo "✗ Extension folder not found!"
+          exit 1
+        fi
+    
+    - name: Run Turnstile solver
+      run: |
+        python solver.py
+      timeout-minutes: 10
+    
+    - name: Upload logs on failure
+      if: failure()
+      uses: actions/upload-artifact@v4
+      with:
+        name: error-logs
+        path: |
+          *.log
+          *.html
