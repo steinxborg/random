@@ -25,7 +25,7 @@ jobs:
     
     - name: Install Python dependencies
       run: |
-        pip install DrissionPage xvfbwrapper
+        pip install DrissionPage xvfbwrapper pyvirtualdisplay
     
     - name: Verify extension exists
       run: |
