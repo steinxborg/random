@@ -18,10 +18,17 @@ jobs:
       with:
         python-version: '3.11'
     
+    - name: Set up Chrome (no snap!)
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+        install-chromedriver: true
+        install-dependencies: true
+    
     - name: Install system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y xvfb chromium-browser
+        sudo apt-get install -y xvfb
     
     - name: Install Python dependencies
       run: |
