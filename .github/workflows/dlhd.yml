@@ -32,7 +32,7 @@ jobs:
     
     - name: Install Python dependencies
       run: |
-        pip install DrissionPage xvfbwrapper pyvirtualdisplay
+        pip install DrissionPage xvfbwrapper
     
     - name: Verify extension exists
       run: |
@@ -46,6 +46,9 @@ jobs:
     
     - name: Run Turnstile solver
       run: |
+        export DISPLAY=:99
+        Xvfb :99 -screen 0 1920x1080x24 &
+        sleep 2
         python solver.py
       timeout-minutes: 10
     
