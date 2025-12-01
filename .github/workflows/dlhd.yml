@@ -1,9 +1,9 @@
-name: Turnstile Solver
+name: Solver
 
 on:
   workflow_dispatch:  # Manual trigger
-  schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+  # schedule:
+  #   - cron: '0 */6 * * *'  # Run every 6 hours
 
 jobs:
   solve-turnstile:
@@ -32,7 +32,7 @@ jobs:
     
     - name: Install Python dependencies
       run: |
-        pip install DrissionPage xvfbwrapper
+        pip install DrissionPage xvfbwrapper patchright
     
     - name: Verify extension exists
       run: |
@@ -46,10 +46,7 @@ jobs:
     
     - name: Run Turnstile solver
       run: |
-        export DISPLAY=:99
-        Xvfb :99 -screen 0 1920x1080x24 &
-        sleep 2
-        python solver.py
+        python solver-patchright.py
       timeout-minutes: 10
     
     - name: Upload logs on failure
