@@ -46,7 +46,7 @@ jobs:
     
     - name: Run Turnstile solver
       run: |
-        python solver-patchright.py
+        python solver-patchright.py -x
       timeout-minutes: 10
     
     - name: Upload logs on failure
