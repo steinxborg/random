@@ -2,6 +2,7 @@ from patchright.async_api import async_playwright
 import asyncio
 import logging
 import argparse
+from xvfbwrapper import Xvfb
 
 # Configure logging
 logging.basicConfig(
@@ -11,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 class CloudflareBypass:
-    def __init__(self, max_retries=3, retry_delay=5):
+    def __init__(self, max_retries=5, retry_delay=5):
         self.max_retries = max_retries
         self.retry_delay = retry_delay
     
@@ -137,50 +138,58 @@ async def run():
     parser.add_argument('-x', '--xvfb', action='store_true', help='Run with XVFB (virtual display)')
     args = parser.parse_args()
     
-    bypass = CloudflareBypass(max_retries=3, retry_delay=5)
+    bypass = CloudflareBypass(max_retries=5, retry_delay=5)
     
-    async with async_playwright() as playwright:
-        logger.info("Launching browser...")
-        
-        launch_args = {
-            'user_data_dir': "...",
-            'channel': 'chrome',
-            'headless': False,
-            'no_viewport': True,
-        }
-        
-        # Add XVFB arguments if specified
-        if args.xvfb:
-            logger.info("Running with XVFB (virtual display)")
-            launch_args['args'] = ['--disable-dev-shm-usage', '--no-sandbox']
-        
-        browser = await playwright.chromium.launch_persistent_context(**launch_args)
-        
-        page = await browser.new_page()
-        logger.info("New page created")
-        
-        # Navigate with retry logic
-        success = await bypass.navigate_with_retry(page, "https://dlhd.dad/")
-        
-        if success:
-            logger.info("Successfully loaded page!")
+    # Start XVFB if requested
+    vdisplay = None
+    if args.xvfb:
+        logger.info("Starting XVFB virtual display...")
+        vdisplay = Xvfb(width=1920, height=1080)
+        vdisplay.start()
+        logger.info("XVFB started")
+    
+    try:
+        async with async_playwright() as playwright:
+            logger.info("Launching browser...")
             
-            # Save page content to file
-            try:
-                content = await page.content()
-                with open('dlhd.html', 'w', encoding='utf-8') as f:
-                    f.write(content)
-                logger.info("Page content saved to dlhd.html")
-            except Exception as e:
-                logger.error(f"Failed to save page content: {str(e)}")
+            browser = await playwright.chromium.launch_persistent_context(
+                user_data_dir="data",
+                channel='chrome',
+                headless=False,
+                no_viewport=True,
+            )
             
-            # Keep browser open for inspection
-            await asyncio.sleep(10)
-        else:
-            logger.error("Failed to load page after all retries")
-        
-        await browser.close()
-        logger.info("Browser closed")
+            page = await browser.new_page()
+            logger.info("New page created")
+            
+            # Navigate with retry logic
+            success = await bypass.navigate_with_retry(page, "https://dlhd.dad/")
+            
+            if success:
+                logger.info("Successfully loaded page!")
+                
+                # Save page content to file
+                try:
+                    content = await page.content()
+                    with open('dlhd.html', 'w', encoding='utf-8') as f:
+                        f.write(content)
+                    logger.info("Page content saved to dlhd.html")
+                except Exception as e:
+                    logger.error(f"Failed to save page content: {str(e)}")
+                
+                # Keep browser open for inspection
+                await asyncio.sleep(10)
+            else:
+                logger.error("Failed to load page after all retries")
+            
+            await browser.close()
+            logger.info("Browser closed")
+    finally:
+        # Stop XVFB if it was started
+        if vdisplay:
+            logger.info("Stopping XVFB...")
+            vdisplay.stop()
+            logger.info("XVFB stopped")
 
 if __name__ == "__main__":
     asyncio.run(run())
