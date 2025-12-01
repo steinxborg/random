@@ -1,59 +1,67 @@
 name: Solver
 
 on:
-  workflow_dispatch:  # Manual trigger
-  # schedule:
-  #   - cron: '0 */6 * * *'  # Run every 6 hours
+  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: '0 */6 * * *' # Run every 6 hours
 
 jobs:
   solve-turnstile:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-    
-    - name: Set up Chrome (no snap!)
-      uses: browser-actions/setup-chrome@v1
-      with:
-        chrome-version: stable
-        install-chromedriver: true
-        install-dependencies: true
-    
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y xvfb
-    
-    - name: Install Python dependencies
-      run: |
-        pip install DrissionPage xvfbwrapper patchright
-    
-    - name: Verify extension exists
-      run: |
-        if [ -d "turnstilePatch" ]; then
-          echo "✓ Extension folder found"
-          ls -la turnstilePatch/
-        else
-          echo "✗ Extension folder not found!"
-          exit 1
-        fi
-    
-    - name: Run Turnstile solver
-      run: |
-        python solver-patchright.py -x
-      timeout-minutes: 10
-    
-    - name: Upload logs on failure
-      if: failure()
-      uses: actions/upload-artifact@v4
-      with:
-        name: error-logs
-        path: |
-          *.log
-          *.html
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Set up Chrome (no snap!)
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+          install-chromedriver: true
+          install-dependencies: true
+          
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb
+          
+      - name: Install Python dependencies
+        run: |
+          pip install DrissionPage xvfbwrapper patchright
+          
+      - name: Verify extension exists
+        run: |
+          if [ -d "turnstilePatch" ]; then
+            echo "✓ Extension folder found"
+            ls -la turnstilePatch/
+          else
+            echo "✗ Extension folder not found!"
+            exit 1
+          fi
+          
+      - name: Run Turnstile solver
+        run: |
+          python solver-patchright.py -x
+        timeout-minutes: 10
+        
+      - name: Commit and push dlhd.html
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dlhd.html
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update dlhd.html [skip ci]"
+          git push
+          
+      - name: Upload logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-logs
+          path: |
+            *.log
+            *.html
