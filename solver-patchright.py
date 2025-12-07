@@ -163,7 +163,7 @@ async def run():
             logger.info("New page created")
             
             # Navigate with retry logic
-            success = await bypass.navigate_with_retry(page, "https://dlhd.dad/")
+            success = await bypass.navigate_with_retry(page, "https://daddyhd.com/")
             
             if success:
                 logger.info("Successfully loaded page!")
