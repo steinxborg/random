@@ -1,0 +1,1207 @@
+[
+  {
+    "stream_id": "cc69098aec871ee8bd1bc67db3a0e2bf",
+    "event_name": "Burkina Faso vs Equatorial Guinea",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjqwqzcskzpkxqm4r2vfxemolnie2tc6lrmwuvkzngmw2utuvgqjyw3dtwqmiwm6prtu2wcplnjknf4utwwy5d4nucokrouqpvvkde4qrzigezsnncvkrou4twofbdu7vcogyxlalzhuwv2zkjhkoxmspkvi5dnbkcoka2l2kjfwffsyj5qflj2yj2tyfetjtssjc2e6t542qzlclsmwszkwvjfvoul5vjvkpjerubvj453flrtvyxmnkjmuyumvmj4z42umj6ifbkmsnrtv4u4vlfrwfc2pvkky5q47ubiz6tvakfimjc4ll6quxicskwi2rg4vobivjie4tvjvdhv2lnogoum2jnpfng4nscnxnieurzovkw25klcjldc4twpkitnjrssjzflqt5kfes2tj5fzzq25mgjfetu7jstzhi45lnxzzikmubguyusqnwkv2x46usvfav3bkoqgfpkokbhz2tfalwma"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Burkina Faso vs Equatorial Guinea",
+      "league": "African Cup of Nations",
+      "location": "Casablanca",
+      "venue": "",
+      "timestamp": "2025-12-24T12:30:00",
+      "time_et": "2025-12-24 07:30AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/y38bkz1742102697.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/5y4hdl1728749891.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/4ym3gx1766394405.jpg/medium",
+      "home_team": "Burkina Faso",
+      "away_team": "Equatorial Guinea"
+    }
+  },
+  {
+    "stream_id": "6b8f959cadb0ea02ca8946dd89f8fc20",
+    "event_name": "Côte d’Ivoire vs Mozambique",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopgfgldnjj2ix7ic3t63zatkljtciktlik5pfhdtejsmxg2eftsuj3jemscqfxm24lsdhnddtlbjwsutbmw2f2z23lwhi7dnanruxmutclcnkjgu3kfofc64okvvgvhe5trih4ytelzhuwv2nlfpfuu3fprgzeufkvkhi3ioalvokovlamriyy2kslzrlthvbngjje2m4usa2sytbk2ne4ulgvbugoynyvgsi7dnknkt2jalbuzofiu2tlbtezdcmlz7kg2vavgpgvdcpqciwkucplfkwjc3imzokrakmnjgfhh5akgp34ymnsktz3jcqu5pkctdcx5hfau5akfkkbhdns2gvzfknknmfpj2ombq22z23lwtkbfeolxcz5imqu6r2gs5drosu7dv6kjhvhie7krjexq4sr5pkqs22ufmfxissrtcvcuu5t6okctfaxwgy5essunlfbjevu5hfy35bjoqe2tsqj6o3yynbli"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Ivory Coast vs Mozambique",
+      "league": "African Cup of Nations",
+      "location": "Marrakesh",
+      "venue": "",
+      "timestamp": "2025-12-24T17:30:00",
+      "time_et": "2025-12-24 12:30PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwxuuu1455465643.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jpbvy51742102860.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/3mybe21766394408.jpg/medium",
+      "home_team": "Ivory Coast",
+      "away_team": "Mozambique"
+    }
+  },
+  {
+    "stream_id": "32638627bd30719f1e08eadf4e30086f",
+    "event_name": "Manchester United vs Newcastle United",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonnguyxcrjngh7ienloyktjepubxz4tkmsb5fgx2xlzufy2lqloyktjepucpvxm4anr5xldejpzvwxbmbu2wwow25r2hy3ie4pb3uys2ur2ri5gdfmvoe27svnjvjzhnikcj4avtalzhuwv2nlfpe4wtaqcp2bekquzhu7ddnroswqxdakome4ztdjotw5iljskjgthfesg4fww3hsznfgyuljvkwrktzushy3ktku6sjc4fhmjuvot2omjt2qvkpjrzwvifjtzve5hksprhwqttkkwuzos2smwku7pdkksquyt2tkrig2xk3lrh2bkkrurpkjh4pn6ouwtkmt6pj6s3oroikqukpjzfyy2tjjsn3ow25u2qjjds5kwvzyw24t2rvvifjskre7dlrksquxhcpubfu43mllvp2pg2zjrmvyvm3snxuxh46twpj6ussxwfwcxe4trkfbks3koqzc3sutzfvitm7kbghdhcu"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Manchester United vs Newcastle United",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-26T20:00:00",
+      "time_et": "2025-12-26 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/2o5y691750323730.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/m2kvqf1750320559.jpg/medium",
+      "home_team": "Manchester United",
+      "away_team": "Newcastle United"
+    }
+  },
+  {
+    "stream_id": "a4f9663ebf79f6db80e81ff63cd7a0d1",
+    "event_name": "Lecce vs Como",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonrivoxcwsbhx4w56vkukuw3dtvyilbm5nnnfkwsrjrizpg5xlnoy5d4nucokq2srkfuzfjuyrrjfczlajtcwu2u4twofbdu7pbowaxspjnlu2wlkkvove5m4rzikeuniujhx3kdgkfoe7ds2kfhvnfs4ofuzfetjtssjc2domjs2ovspmslwovsvsntxjd4nvjvkpjeruc5fwy3gjnngiw4lmfngczn2ucuz42stvbjz434srvtj6yenk5svddc6r25fgtsuknij4uktocjjbee4j6pz4wmsufhy44kntzfu2t45ubhw5fnglrfvuwmyjvgvlevjvno2nieurzovkw5nrzqzdisokookjd5fjsihau2mjspuwt5bjzyjdd4rjooj7hfglstkuxtqjvhuwvcljrgu43mwmkikes2zugti3jkmls6fatktj5jj5hktvvmq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Lecce vs Como",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-27T14:00:00",
+      "time_et": "2025-12-27 09:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/l2xc9q1755935962.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/tfnrkl1755934380.jpg/medium",
+      "home_team": "Lecce",
+      "away_team": "Como"
+    }
+  },
+  {
+    "stream_id": "5df715c420742b3ae39304cd953aa528",
+    "event_name": "Senegal vs Botswana",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfiuyysuj5u2xemolo62vd4osjwgqye5tbhfg5lmtv3fmydxushkgzc5m5nv27sskfre6v35mfugtf5ktww2hd4prohfk2tknrogbetbkbfu2wk6ljhv43e4vcryytmskcvhus2rl6nuwu4yjniwks5ho6sjdidjt2qwteucvbqgmxuxlfjezj2ljni3vduut5uktjeprv5koy3glzhy2s2omzlfmul6nkpzzdvdnkqks3vhkcivxh2ol5mwqvdkvb5jbd3ksfggutctn5qy2ynbj6tkdimmuvhiy3ctt6qe6tsqkoqmdfk4lzjkjjslrnofmvs4xguixh25m5nv3jtqkvjjxkumtkp2dfvgkgil2t44jrhfet2tubxzldunvcqkqtnclzlzww3nksou4vkrkkoz63dasbrkfg5fufmjmu2or7bu3im6t6quxicnx2iyww47j6ngs"
+      },
+      {
+        "source_name": "Channel 4 UK",
+        "stream_url": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd",
+        "manifest_keys": "0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfiuyysuj5u2xemolo62vd4osjwgqye5tbwvatkmm5lfjhn7loymmzc5m5nv27sskfre6v35mfugtf5ktww2hd4prohfk2tkpjvfetmwlbhwavnhkvhuy43jtzhzzduouchx5kdcnbjzsvcnm5sxyv2mpk5i5c52r6twvj3ukbokqukuk5meyysntcix4zdkvcoktjfbub7ffjlkmbijvgu2tniewvt6lvkvwxkljnfuxo4or6g2bhfit2vi3knarw5uws2ljnfuws2lx2ji5dfajorj3ik3knjjlpvajoqexikpjoq4cyk4l6oe6wklkvqvots6ykoz2u25ta"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Senegal vs Botswana",
+      "league": "African Cup of Nations",
+      "location": "Tangier",
+      "venue": "",
+      "timestamp": "2025-12-23T15:00:00",
+      "time_et": "2025-12-23 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pxjldf1553207865.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/syo3cz1766394400.jpg/medium",
+      "home_team": "Senegal",
+      "away_team": "Botswana"
+    }
+  },
+  {
+    "stream_id": "ac2e7e2f2dfe34fa0f68a33f748bc6aa",
+    "event_name": "Milan vs Verona",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonnku4xslsbhx4w5rucg2vkm4lozvyxego2ghgwctnfjgcznulvtvwxmor6g2a3djozjgewe2usnjwuk4kf5y4vlknkoj3hcqpzrgixspjnlu2wk6ljjwdauquwoi4ufckguhfesru5kwazcrrruvextcxgpkc2mssjuzzjebvfrgcvu2jziwnkdim5q3rkner6g2u2vhusawdjs4krjvgwdgjsgeyxt6unvkbkm6njj2rq23loiz4u5hmkfwqzs4vcauy2stjzkfgue6yglfzem7ugsfdimnlknzk3cmufgz4s2nj6oxbetcs2ku2u2yk6tu4ydbvvtvwxngucki4xoft2qy2uvavjgflc5dt2iw6uvakngezh2lj5yywxesucqfhhvbrosvdewftsqe2t2lkrfuzpmlmgkvdinkjvlzfjnasfxz4tcqjvju6uu6nwlkcwq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "AC Milan vs Hellas Verona",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-28T11:30:00",
+      "time_et": "2025-12-28 06:30AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/jdrz8k1755935966.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/847mlc1755934383.jpg/medium",
+      "home_team": "AC Milan",
+      "away_team": "Hellas Verona"
+    }
+  },
+  {
+    "stream_id": "8057ff25985b6e0922e4e365ec00a270",
+    "event_name": "Senegal vs Congo DR",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfiuyysuj5u2xemolo7kvkncvkvye4m5tbhfg5lmtv3fmydxushkgzc5m5nv27sskfre6v35mfugtf5ktww2hd4prohfk2tknrogbetbkbfu2wk6ljhv43e4vcryytmskcvhus2rl6nuwu4yjniwks5ho6sjdidjt2qwteucvbqgmxuxlfjezj2ljni3vduut5uktjeprv5koy3glzhy2s2omzlfmul6nkpzzdvdnkqks3vhkcivxh2ol5mwqvdkvb5jbd3ksfggutctn5qy2ynbj6tkdimmuvhiy3ctt6qe6tsqkoqmdfk4lzjkjjslrnofmvs4xguixh25m5nv3jtqkvjjxkumtkp2dfvgkgil2t44jrhfet2tubxzldunvcqkqtnclzlzww3nksou4vkrkkoz63dasbrkfg5fufmjmu2or7bu3im6t6quxicnx2iyww47j6ngs"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Senegal vs DR Congo",
+      "league": "African Cup of Nations",
+      "location": "Tangier",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/bu3wk71766394419.jpg/medium",
+      "home_team": "Senegal",
+      "away_team": "DR Congo"
+    }
+  },
+  {
+    "stream_id": "76f66feeca9ec1d3196b0b17ba4a86de",
+    "event_name": "Liverpool vs Wolverhampton",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonrkwiythmbuhvj23sghfxmvku6awculfj5lwqyslm6mzq73axxffxlvlzkw26xvfuguzbdtjmjugewstpcai3j25kvnv3i4pp5hffe4vtfluytmsmgnvk3e4tsojzhe4tsuhkx2mmffwfi2tu2iwuuumxgvi7d5angt2jelqvbrf7ftbmwmfsztdsnog7kljvgqi62ult6b2szlglrpe3f2omzruxkdou6skbkmprzvj63clm6uewwszs6tvxjc7kb2izfngjzvkveepxjijbkfhkkt2fiuwuzjf4346trhu5icrtrjlzec3loqj5j2sk5q2summxrvj5ifjtzu2rc3ptsrz3esvknswpg47scnw7hsrksovctcqkrwi4xmwj2ofpisvrwuffddrufkezhu5tspj7qeuloguytk2jnljbjfcrrwz4t2lt6quxhnbx2jgffsrtspzyvusvjhjxca"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Liverpool vs Wolverhampton Wanderers",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/7grlrd1750323728.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/7cqe291750320556.jpg/medium",
+      "home_team": "Liverpool",
+      "away_team": "Wolverhampton Wanderers"
+    }
+  },
+  {
+    "stream_id": "edfaabf44a16d575e94f1634fbdd04dd",
+    "event_name": "Algeria vs Sudan",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5nfgythk5pkxemoloxjbh44vgv2mylco55jq4kmmbgvotdtmrowow25r2hy24c5mr4fwxsmrsqj3f2ykf7yxdsvnjvjzhm4ybfvw2spjnlu2wk6ljhwu44mjwjfbkvkr2gxdelamklfszdckwtu2v2pobuz5iljskjgthdukcsfytc2rzmfkummmflg62fjushy3ktku52faxfikfme6ukmkfujkylmr2rwvifjtzvizp2rrrtv2s2nj5qkqtc3kg5jctdkjrjz7icrn6fvzd43uou2evemlkugc4cpjzifhicrksqgyxexr5izswkrjroiwu2nn5owow25u2qjjdvnsspzxhndt6qvpefhtrplytssj5j2bh2ukk5znc4nj6sfotfflnl2ow56kvivfhm7tsquy4emscijwtu7kbki7incl5xj7iklubgu4ucpnwgvzg3d"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Algeria vs Sudan",
+      "league": "African Cup of Nations",
+      "location": "Rabat",
+      "venue": "",
+      "timestamp": "2025-12-24T15:00:00",
+      "time_et": "2025-12-24 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/rrwpry1455460218.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/b2pm8l1728750407.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/sc69ch1766394407.jpg/medium",
+      "home_team": "Algeria",
+      "away_team": "Sudan"
+    }
+  },
+  {
+    "stream_id": "98668569852b6f83c285941a742eb131",
+    "event_name": "Morocco vs Mali",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonnlwq2cykfukxemolpejzj5elozvyxego2ghgwctnfjgcznulvtvwxmor6g2a3djozjgewe2usnjwuk4kf5y4vlknkoj3hcqpzrgixspjnlu2wk6ljjwk7cnsjikvkuorwq4axk4u5kwazcrrruvextcxgpkc2mssjuzzjebvfrgcvu2jziwnkdim5q3rkner6g2u2vhusawdjs4krjvgwdgjsgeyxt6unvkbkm6nkge7aermvie6wkvmsfwqzs4vcauy2smkop2aum7xzqy3evhtwsfbj26ufggfp2okbj2aukuucog3funlsku2u2yk6tu4ydbvvtvwxngucki4xoft2qzbj5dunf2hc5fj6hl4uspkoqj6vcsjpbzfd26vbfvvikylorffdgfkfjj3h44ufgkbpmnr2jffi2wkcsjlj2olrx2cs5ajvhfat45xrq2cwq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Morocco vs Mali",
+      "league": "African Cup of Nations",
+      "location": "Rabat",
+      "venue": "",
+      "timestamp": "2025-12-26T20:00:00",
+      "time_et": "2025-12-26 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/urrruy1455465656.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/w4n4bl1766394416.jpg/medium",
+      "home_team": "Morocco",
+      "away_team": "Mali"
+    }
+  },
+  {
+    "stream_id": "bc289323b3680114d75f694a0610c870",
+    "event_name": "Cameroon vs Gabon",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopfgu2ythkvuhsw4rrzn4fhe5vj4z5j23jnzw5dtvm5kfizt6unsf2z23lwhi67lbmbvikx3klkmjhgmsmv7y7c4okvvgvhe5nsiveyktjnlu2wk6ljhv46fdrrgzeufkvkhh2yemlzfzutlcmzriwvdgqgqgthvbngjje2lmmvg2uukqj2meyytfsvgijh3ivgsi7dnknj3wktlcsvguyvkvm5swdkdptshkg2vavgpgu7esjsjfmykxk5jvhdcvkj7wvekmnjgfhh5ayfrjeyu6t6pzxjs7vbhzk35aj5hfau5akfkhaxlbswpe3dklkvtvrftkpopv2z23lwtkbfd6tsmz3evbt6s2kxfeukiwytcokjhvhie7ktbi5f4rubf2atkysjlvfftnjzkvcuu5t6okdpdbsghj3h22uvkf7i5irnyz5h5bjoqe2tsqx5ojayusm4"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Cameroon vs Gabon",
+      "league": "African Cup of Nations",
+      "location": "Agadir",
+      "venue": "",
+      "timestamp": "2025-12-24T20:00:00",
+      "time_et": "2025-12-24 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/txqspw1455463989.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7y283y1732340182.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/7fw4m61766394410.jpg/medium",
+      "home_team": "Cameroon",
+      "away_team": "Gabon"
+    }
+  },
+  {
+    "stream_id": "03038692f35d8f3fa20e3cc7df73a9b8",
+    "event_name": "Egypt vs South Africa",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoonhwctlfsbhx4w5ovkii7i23xryuy2c4j6gjatcvqzvzbatzukt2jdvdmrowpk44kjiwet2xlf5vez2utpcvwxndr6hyxdsvxktwaw2pt5uvetk6ljhv43e4tsokri4mjwjmaz3gjrrffi2nkwtuyxcrobu2pjerubuz5inzj5hkot2tm2mvoyklsztxbd3kr2kj62fjur7uyzvikrjwmumllrgvoytzr6hgvh44r2rwu4dimkuf7iddufgfawsvmccwvkuqr5vjctdkxslfwyu6kcuvdjesukqzc4kotrjz7icpjzimgymnszfuwwvguroiyulcpgpgtkelt5owow5nmnofmymoukhjrefcu6jg4usnj6oeytssj7bwcw4wtwokbivkl2qu6w6atwovjhkokvive3lcmbpz6t5ktwrzev5hl5yvcu2nugpj7iklocgjfeu4j2tvdgc2"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Egypt vs South Africa",
+      "league": "African Cup of Nations",
+      "location": "Agadir",
+      "venue": "",
+      "timestamp": "2025-12-26T15:00:00",
+      "time_et": "2025-12-26 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/o21g2u1766394413.jpg/medium",
+      "home_team": "Egypt",
+      "away_team": "South Africa"
+    }
+  },
+  {
+    "stream_id": "3fa49a93b360eecb22b8a2d6e742577c",
+    "event_name": "Nigeria vs Tanzania",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzkvgythk5pkxemoloxzzkmvtr4wkye5tbhfg5lmtv3fmydxushkgzc5m5nv27sskfre6v35mfugtf5ktww2hd4prohfk2tknrogbetbkbfu2wk6ljhv43e4vcryytmskcvhus2rl6nuwu4yjniwks5ho6sjdidjt2qwteucvbqgmxuxlfjezj2ljni3vduut5uktjeprv5koy3glzhy2s2omzlfmul6nkpzzdvdnkqks3vhkcivxh2ol5mwqvdkvb5jbd3ksfggutctn5qy2ynbj6tkdimmuvhiy3ctt6qe6tsqkoqmdfk4lzjkjjslrnofmvs4xguixh25m5nv3jtqkvjjxkumtkp2dfvgkgil2t44jrhfet2tubxzldunvcqkqtnclzlzww3nksou4vkrkkoz63dasbrkfg5fufmjmu2or7bu3im6t6quxicnx2iyww47j6ngs"
+      },
+      {
+        "source_name": "Channel 4 UK",
+        "stream_url": "https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd",
+        "manifest_keys": "0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzkvgythk5pkxemoloxzzkmvtr4wkye5tbwvatkmm5lfjhn7loymmzc5m5nv27sskfre6v35mfugtf5ktww2hd4prohfk2tkpjvfetmwlbhwavnhkvhuy43jtzhzzduouchx5kdcnbjzsvcnm5sxyv2mpk5i5c52r6twvj3ukbokqukuk5meyysntcix4zdkvcoktjfbub7ffjlkmbijvgu2tniewvt6lvkvwxkljnfuxo4or6g2bhfit2vi3knarw5uws2ljnfuws2lx2ji5dfajorj3ik3knjjlpvajoqexikpjoq4cyk4l6oe6wklkvqvots6ykoz2u25ta"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Nigeria vs Tanzania",
+      "league": "African Cup of Nations",
+      "location": "Fez",
+      "venue": "",
+      "timestamp": "2025-12-23T17:30:00",
+      "time_et": "2025-12-23 12:30PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uovpkm1742103070.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/ofdknh1766394402.jpg/medium",
+      "home_team": "Nigeria",
+      "away_team": "Tanzania"
+    }
+  },
+  {
+    "stream_id": "ee5b31044edd76bca79797d7551bae01",
+    "event_name": "West Ham United vs Fulham",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqviwoumzpbphqw5qvgsi7ie7loauxh37lnmfatkntwiw44snzjn25k6kvwx25ne4uoozexlelrkv4tufkj62oxkvlno2hd4ppnfztkevjnnftjkvuzuf43e4tsojzhe4vcsxeuk3mjpj6uncuzhfpinhpkhy7idju6sjdifzlno2oxlbrzgvct4okfqxs2njuchwvc47so4gq2crmjmy2wsrj5ljkxdxusqktd4onkpzy7tguzrfmtmntnmja2s5mz6jljsonkvjbd3kqgg2nfsotosknimsk5hwc3u4j5hkaum4kjgmcytbrwrjwvclk2gvrimoxkpkbkm6nguixh5nvkpzwwkpl5nzre4zsjqw4ukutviuyucuts5wbgc7ubf2iunkrrl2cx3rkrgj5hm4t2pvbrlcr5qvctszkkrzbj5blnxe6s47uffz3ikox5nzqxfauovffjmokojfu"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "West Ham United vs Fulham",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/6tgke91750323737.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/eaikgf1750320567.jpg/medium",
+      "home_team": "West Ham United",
+      "away_team": "Fulham"
+    }
+  },
+  {
+    "stream_id": "9a4492c88b850a44cd065392b5d7e6fc",
+    "event_name": "Benin vs Botswana",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjiuyzslsbhx4w55vkhy5eu4vfwj5j23jnzw5dtvm5kfizt6unsf2z23lwhi67lbmbvikx3klkmjhgmsmv7y7c4okvvgvhe5nsiveyktjnlu2wk6ljhv46fdrrgzeufkvkhh2yemlzfzutlcmzriwvdgqgqgthvbngjje2lmmvg2uukqj2meyytfsvgijh3ivgsi7dnknj3wktlcsvguyvkvm5swdkdptshkg2vavgpgu7esjsjfmykxk5jvhdcvkj7wvekmnjgfhh5ayfrjeyu6t6pzxjs7vbhzk35aj5hfau5akfkhaxlbswpe3dklkvtvrftkpopv2z23lwtkbfd6tsmz3evbt6s2kxfeukiwytcokjhvhie7ktbi5f4rubf2atkysjlvfftnjzkvcuu5t6okdpdbsghj3h22uvkf7i5irnyz5h5bjoqe2tsqx5ojayusm4"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Senegal vs Botswana",
+      "league": "African Cup of Nations",
+      "location": "Tangier",
+      "venue": "",
+      "timestamp": "2025-12-23T15:00:00",
+      "time_et": "2025-12-23 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/wh8dya1526727459.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/pxjldf1553207865.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/syo3cz1766394400.jpg/medium",
+      "home_team": "Senegal",
+      "away_team": "Botswana"
+    }
+  },
+  {
+    "stream_id": "729776c49486efe70886e1a51c9a0436",
+    "event_name": "Parma vs Fiorentina",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "Bein Sports 2 AU",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbgwq2s2sbhx4w6busvi3ifjr52gqye5tbxfgvkmtwega2d5r6hfwtk3xsygjlnkt6nwcydkkfmwu7c3jn3v2vk3lwry7d4lp2kknkcpjzl2cz3bjzhv43e4tsojzhfit6jiazdajsnvdjszkoiwpftip6h2a2nhusi2a2lomcsvaxm2k5kwjksyjrt3tknar5vi5fe7nb4wks2lkwmuyvlemkgfc2luucuy7dtkt6oi445hlrtvdgnalgrfyvm4r52ezd3kvkii62urxstzpdfhusruxjevk2oi5qspubkexhcqkoolyyerlsqj5jcmkwivrj5in2qkthtjvcfz6xnxt2qwis3dnggkbhmxubn36tm5ubgvcukpt7bgdf4ot5ikrisurrljxdn7ubfvitkptzifk3dbsgi2bi5itwuiyv5iltbe3he6kbhuwt47n2gyzc5iucsuwwevs5rq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Parma vs Fiorentina",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-27T11:30:00",
+      "time_et": "2025-12-27 06:30AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/j106qy1755935969.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/m644rb1755934387.jpg/medium",
+      "home_team": "Parma",
+      "away_team": "Fiorentina"
+    }
+  },
+  {
+    "stream_id": "013a4d0b444c9035ce91153d6a89b667",
+    "event_name": "Angola vs Zimbabwe",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5mfg2cnj6oydds3wwskrhm4twbgdh5fkjhw66e2qjfu22lur2rwixlhlnoy472mlrpfhcldlrhjxh4qtnzy7d4lrzkwu2u4nvoyytcmk5lu2wk6ljhv43fiuoge3esqvkvh4tc5sjhu7dsxmzivnftjosi2a2m6ufuzfevzlvue7e2nkrmiyz2wlsuh5fe7ncu2jd4nvk5gu2cpjomvswsrmjfvytf2t6oi5i3kucuz5osnrnjjwwtfjvfwax4vncai62urjrveyu47ocifxdclukr2lj4rkoqv5q47ubhu4uctubi4iylaloukewmxk5rewunhpcfz6xlhlno2nieejoqzheeouws2desytwf37hcmjzje6u5at7ci7d4vtsofpjszlotfew6etvhfkukstwpzy4mnlsfz7indjsqv6u46sw62dhu7uff2atkoycjgddslrznq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Angola vs Zimbabwe",
+      "league": "African Cup of Nations",
+      "location": "Marrakesh",
+      "venue": "",
+      "timestamp": "2025-12-26T12:30:00",
+      "time_et": "2025-12-26 07:30AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bm2gzt1553208021.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/zargnl1718412654.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/l8bdj31766394411.jpg/medium",
+      "home_team": "Angola",
+      "away_team": "Zimbabwe"
+    }
+  },
+  {
+    "stream_id": "6b32ee8ba7bc02d75fb14240ac962f52",
+    "event_name": "Tunisia vs Uganda",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqrquyztik5pkxemoloykfhfjt5wj5j23jnzw5dtvm5kfizt6unsf2z23lwhi67lbmbvikx3klkmjhgmsmv7y7c4okvvgvhe5nsiveyktjnlu2wk6ljhv46fdrrgzeufkvkhh2yemlzfzutlcmzriwvdgqgqgthvbngjje2lmmvg2uukqj2meyytfsvgijh3ivgsi7dnknj3wktlcsvguyvkvm5swdkdptshkg2vavgpgu7esjsjfmykxk5jvhdcvkj7wvekmnjgfhh5ayfrjeyu6t6pzxjs7vbhzk35aj5hfau5akfkhaxlbswpe3dklkvtvrftkpopv2z23lwtkbfd6tsmz3evbt6s2kxfeukiwytcokjhvhie7ktbi5f4rubf2atkysjlvfftnjzkvcuu5t6okdpdbsghj3h22uvkf7i5irnyz5h5bjoqe2tsqx5ojayusm4"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Tunisia vs Uganda",
+      "league": "African Cup of Nations",
+      "location": "Rabat",
+      "venue": "",
+      "timestamp": "2025-12-23T20:00:00",
+      "time_et": "2025-12-23 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vgb3iv1553368586.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/t1jxy31766394403.jpg/medium",
+      "home_team": "Tunisia",
+      "away_team": "Uganda"
+    }
+  },
+  {
+    "stream_id": "a7c453233e3dde081eec5f38e5ed8290",
+    "event_name": "Torino vs Cagliari",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FOX Deportes",
+        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "manifest_keys": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqrlwqzslkwoydds3x2okfj5etr6wlh5fnz4ybdtwmjuvks37uchgixlhlnoy472mlrpfhcldlrhjxh4qtnzy7d4lrzkwu2vkp5jgdj2ukntfddc4kolfbatjtssjc2e6t6u3s2c4kgkvquc4rvtvexclpjvkpjerubvj5j3umfsvcymzkrgwozmmjntw42uru2f2vj5fuv5wg2nikvpwjf3er2gjxdn5twpkcukttvhfbpesmjq2fjcxtsui2vu6l65zyt2okngfdilknzqwkxewk5uffgfjtgjgi4eurzovkw25t5ggzdmnrstzxjcslckvgts6n5gz4tvakrh2cvgcswlznhslvbjkbfveukk4gs2ltrhfiucutrwgaw3btnhkqtcxl5lu5dgckfjvgtcmlwma"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Torino vs Cagliari",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-27T14:00:00",
+      "time_et": "2025-12-27 09:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/6yblba1755935979.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/7x9c6h1755934398.jpg/medium",
+      "home_team": "Torino",
+      "away_team": "Cagliari"
+    }
+  },
+  {
+    "stream_id": "299e836d1dedfbab2e0709d0b6f64c6b",
+    "event_name": "Nigeria vs Tunisia",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzkvgythk5pkxemoloxzbknerz2f3h5fkjhw66e2qjfu22lur2rwixlhlnoy472mlrpfhcldlrhjxh4qtnzy7d4lrzkwu2u4nvoyytcmk5lu2wk6ljhv43fiuoge3esqvkvh4tc5sjhu7dsxmzivnftjosi2a2m6ufuzfevzlvue7e2nkrmiyz2wlsuh5fe7ncu2jd4nvk5gu2cpjomvswsrmjfvytf2t6oi5i3kucuz5osnrnjjwwtfjvfwax4vncai62urjrveyu47ocifxdclukr2lj4rkoqv5q47ubhu4uctubi4iylaloukewmxk5rewunhpcfz6xlhlno2nieejoqzheeouws2desytwf37hcmjzje6u5at7ci7d4vtsofpjszlotfew6etvhfkukstwpzy4mnlsfz7indjsqv6u46sw62dhu7uff2atkoycjgddslrznq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Nigeria vs Tunisia",
+      "league": "African Cup of Nations",
+      "location": "Fez",
+      "venue": "",
+      "timestamp": "2025-12-27T20:00:00",
+      "time_et": "2025-12-27 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/ptjvsv1766394422.jpg/medium",
+      "home_team": "Nigeria",
+      "away_team": "Tunisia"
+    }
+  },
+  {
+    "stream_id": "2c8f9c231028127d60cdbfb81241d8b2",
+    "event_name": "Udinese vs Lazio",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "Bein Sports 2 AU",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqnjfcz2wmfrkxemolpdzzfnevkv2nalck5njq63knbtvytfljvn3zmdelvtvxlkljnfuws2lq5suwtmssovv3i4pr6fy4vlkxjowcxu3lvkfswk6ljhv43e4tsuj7euquwoh5ek6r5jvdjc4rrugkxdcxgt2jenangpkc2mcj6sv4v3crnfvmz4lkzrh62uosspwrkner56wpjtjk5rfhf2xnfjewz37rzvj7heounvka6k3u2kvhjczkkti6uu7kg5kveepnkiuy2stx2kzpesrukqfdjuousogfrcltrifhhcmufgw5dursfje7jclugufqs3hnzu2rc47lvtvwxlwmfmezevgtcgkuw5fujnxatkrkfhz6uvako6i2w4ntrjksunfrwsuxdoejvhz4ucvtsqe3p4otcgz7hvjjsrfzjfclzxfat2lj6pz4tcqxwlixecrj2qiyxi"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Udinese vs Lazio",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-27T17:00:00",
+      "time_et": "2025-12-27 12:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/4m9f7w1755935983.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/78empt1755934402.jpg/medium",
+      "home_team": "Udinese",
+      "away_team": "Lazio"
+    }
+  },
+  {
+    "stream_id": "cfe965f12c70c2a46ebbd780eeb0553d",
+    "event_name": "Arsenal vs Crystal Palace",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5ogoyslj5u2xemolo7i3feor5wgvh3nj5mfos2vtwiveysuzfn4bkncu6si445fuguzbdtjmjugewstpcai3j25kvnv3i4pp5hffe4vtfluywmsnbggu3e4tsojzhe4tsug6t2mmnhv3i2purvfjhclxgvi7d5angt2jelqvbrf7ftbmwmfsztdsnog7kljvgqi62uosrx2szlglrpe3f2omzruxkdou6skbkmprzvj63clm6uewwszs6rgvikrmg7vdjcmr5vkveepxjijbkfitwp2njk4uougfp2mkjh2avcltrimgxmql6re3ke4uznvnhc4yrvj5ifjtzu2rc3ptsrz3esvknswpg47scn3xhkpjwo2atkrkg7wfdtcvcn2ouvksfj2cywajnh2as2ujvhz5qeumbrkfifiuwvi5j5blpbz4usntspfat2lx5rgfdu3t2qkfi24k6ujxca"
+      },
+      {
+        "source_name": "Sky Sport Premier League DE",
+        "stream_url": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "manifest_keys": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5ogoyslj5u2xemolo7i3feor5wgvh3nj5mfos2vtwiyczeeloxixkunr5n2w7lbmrtewxuypjkv4vc3mkv37qdelvtvwxmop5gfyxstrfrvytu3t6ijw44pr6fy4vlknkog2ymlnjggmv2nlfpfut26nsuixfm4vgjj4ugcm5lvgxctrzlwmukwszuxjenangpkc2mssk4v22cpsngviwemm5lfzkdxuogwrkner6g2votknbhuxgkzljiwes24js5j7heounvkbkm6xkkwnd22k5ggkucnj2kwraepnkiuy2u4t5j3wxmylnhe6wklusi2rkc7yng2ctm4ufhuzhwasznzatsouclvoyslkgtxrc47lvtvwxngucceximtschfstngrsvj5d56joqvaum7kgqu5ptbtbpu5injjsrv4vncr26j6tcvkjgz4ucpociy3em6tsr2cveruwogfrcutwpeytcnjzklzfk4swty4wy"
+      },
+      {
+        "source_name": "ITV 1 UK",
+        "stream_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd",
+        "manifest_keys": "a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5ogoyslj5u2xemolo7i3feor5wgvh3nj5mfos2vtwixo4lblngfxmggmrowpk44kjiwet2xlf5vez2utpcvwxndr6hyxdsvxktwmuk4j2hfuukpk2lfy4ljskjgthfesfug4ytfu5le6zexjzswpe3hoshy3ktku6sjdif2mjqeywezknmfpkdcjzghriupvgkkfflkvkaffjspt6m2vh5imgs2ddgakopuzikpjsq2a3mslnoket47josi5jfbrtau2u3kt2qkthtjpbhfxg4ursnfgvkwncjjhk25trfveukotzj4dd4mroqu2vcnkwi2fkc3xwoj6ue4koqj6uoblofzgtsolfg2cx22ubq4dh2sknhz3icukk7y3dunj2skus5jsktkpdgdlwma"
+      },
+      {
+        "source_name": "Sky Sport Top Event DE",
+        "stream_url": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "manifest_keys": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5ogoyslj5u2xemolo7i3feor5wgvh3nj5mfos2vtwiyczeeloxixkunr5n266sot6bf4t2omknic5uxto3vwxmor6g2bhfinjivc2msu2miyusrmvqezrlknkoj3icpvcpykxlalzhuwv2nlfvfuwdaqjgzdkmmswj2rimevbtfcxcprznfct2wszohc2mssjuzzjernbxgeznhkzhwjf2omvtzgz3ur6g2u2vhusi2bos3mntewwtelofwcwtbmw5kbkm6nks2fj4tp5qf4u3ijogvozkrrrpi5osnkoofes2pjvigyylcswoe5i5blbn2etelyspj5h2qt5ie5in7sgtfys22lgme2tkvsku2wxngucki4xkvlowy5c3ct5fvmufisbmkexv4j2oj6ve4trkfbqeqrsgz7ivaukrzdkfkro5viuvakbiewtstn6fweyslufkkbilcuguf7p2lkfkfgt2lt5gk2wi"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Arsenal vs Crystal Palace",
+      "league": "EFL Cup",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-23T20:00:00",
+      "time_et": "2025-12-23 03:00PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/x4srgf1766135615.jpg/medium",
+      "home_team": "Arsenal",
+      "away_team": "Crystal Palace"
+    }
+  },
+  {
+    "stream_id": "23ffef09f46e364fa282a555f965c3a2",
+    "event_name": "Uganda vs Tanzania",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqnhvsz2vj6oydds3v6oktfm4vf2f3h5fkjhw66e2qjfu22lur2rwixlhlnoy472mlrpfhcldlrhjxh4qtnzy7d4lrzkwu2u4nvoyytcmk5lu2wk6ljhv43fiuoge3esqvkvh4tc5sjhu7dsxmzivnftjosi2a2m6ufuzfevzlvue7e2nkrmiyz2wlsuh5fe7ncu2jd4nvk5gu2cpjomvswsrmjfvytf2t6oi5i3kucuz5osnrnjjwwtfjvfwax4vncai62urjrveyu47ocifxdclukr2lj4rkoqv5q47ubhu4uctubi4iylaloukewmxk5rewunhpcfz6xlhlno2nieejoqzheeouws2desytwf37hcmjzje6u5at7ci7d4vtsofpjszlotfew6etvhfkukstwpzy4mnlsfz7indjsqv6u46sw62dhu7uff2atkoycjgddslrznq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Nigeria vs Tanzania",
+      "league": "African Cup of Nations",
+      "location": "Fez",
+      "venue": "",
+      "timestamp": "2025-12-23T17:30:00",
+      "time_et": "2025-12-23 12:30PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/qruyxr1455466056.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uovpkm1742103070.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/ofdknh1766394402.jpg/medium",
+      "home_team": "Nigeria",
+      "away_team": "Tanzania"
+    }
+  },
+  {
+    "stream_id": "098f88a858bb7cba36302567f5febf59",
+    "event_name": "Nottingham Forest vs Manchester City",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzlwmukskzqhhhfilpa2vdnarz7z4tkmsb3vowcxmvlgculqrvn35jepsrnwgulrqgeja7mio6ehdcexto3vwxmor6g2bhfinjivc2msu2miyusrmvqezrlknkoj3kcqsniigxlalzhuwv2nlfve6tksn6qjcufgj5hyzhn6vbtfcxcprznfct2wszohc2mssjuzzjernbxgeznhkzhwjf3kmfqzgz3ur6g2u2vhusi2bos3mntewwtelofwcwtbmw5kbkm6njhj2uumqjsvau2ztwgvozkrrrpi5osuufge6u2ukcowyytcl2oj2u5algikvhtbnvfu2te7t2puxhv6rwtfys22lgme2tkvsku2wxngucki4xkvlowweyupu5hknhnfsznkax6euffzyt5ajnhj3ptalwlj6tk2jvlwdjvkmg5z7hu5t2pveusnxzogfenakblj4wc7vcofzre6jnke3h2qjsq22wi"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Nottingham Forest vs Manchester City",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T12:30:00",
+      "time_et": "2025-12-27 07:30AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/69h0jk1750323733.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/dxnl6e1750320562.jpg/medium",
+      "home_team": "Nottingham Forest",
+      "away_team": "Manchester City"
+    }
+  },
+  {
+    "stream_id": "98f4a70409351058ab1f7031d973aa78",
+    "event_name": "Burnley vs Everton",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjqwqz2njnlkxemolpajdienr55grh5fnz7xu542nsexk227vzsf2z23lwhi67lbmbvikx3klkmjhgmsmv7y7c4okvvgvhe5pcivpetijnlu2wk6ljhv46ffukij7ierkctl7esqloqzutlcmzriwvdgqgqgthvbngjje2lmmvg2uukqj2meyytfsvgw7e3ivgsi7dnknj3wktlcsvguyvkvm5swdkdptshkg2vavgpgvps4rzhf2u3hmrhyzdcvkj7wvekmnjkkctcpyokyyw2pkbmu3jumk2pf5qsmkgpz2s2njspw4yuplsqzxdklkvtvrftkpopv2z23lwtkbfd6tsmz3esqlgqkcw5dt6jmjhclufkkcs44j5yi5es3ufjfnjnjlrlu6xdpkbkz6s47t2oz434pr2f2ctszukvgcu5alnyu4t46kspewvcnn6izax4sm4"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Burnley vs Everton",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/ti78pk1750323720.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/amutkb1750320549.jpg/medium",
+      "home_team": "Burnley",
+      "away_team": "Everton"
+    }
+  },
+  {
+    "stream_id": "d28bc81a2ac5dd38318077d2dec90bae",
+    "event_name": "Chelsea vs Aston Villa",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "Sky Sport Premier League DE",
+        "stream_url": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "manifest_keys": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopflfk2lijnpkxemolo6i5d5kvgvxa2djkrfzrfuhmrrja3d3vkgy6w5lrwqkq5dbkgoxit2xj5swfglmqk2f2z23lwhi7dnanruxmutclcnkjgu3kfofc64okvvgvhe5ubhxqyszlzhuwv2nlfpfuu2nqwokteu6kbjkve4fkjukovlamriyy2kslzrlthvbngjje2m4usa2sytbk2ne4ulgvbgvqs5yvgsi7dnknkt2jalbuzofiu2tlbtezdcmlz7kg2vavgpguvfkyfsgi2lhkzuftc3imzokrakmnkoj6u2ltrkg2yc4lri2fje3ujp2dis7xwokct2mtzifhh6cmbqzlfknknmfpj2ombq22z23lwtkbfeolxcz5ik4j6qkthner6ukax6akgpvdikoj2qfi4lar2gffikxkkui5ksmr3cvetm6kbh2aucrx6ii7eu3kkskfjtcuktvw3smjrgu4vcmksqmhfnbli"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Chelsea vs Aston Villa",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T17:30:00",
+      "time_et": "2025-12-27 12:30PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/6slojg1750323723.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/42l8201750320551.jpg/medium",
+      "home_team": "Chelsea",
+      "away_team": "Aston Villa"
+    }
+  },
+  {
+    "stream_id": "d5d198c2efb82a8d2dbe67ee971a290d",
+    "event_name": "Zambia vs Comoros",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjgu2w2sj6oydds3x2vkrkunvj7j5j23jnzw5dtvm5kfizt6unsf2z23lwhi67lbmbvikx3klkmjhgmsmv7y7c4okvvgvhe5nsiveyktjnlu2wk6ljhv46fdrrgzeufkvkhh2yemlzfzutlcmzriwvdgqgqgthvbngjje2lmmvg2uukqj2meyytfsvgijh3ivgsi7dnknj3wktlcsvguyvkvm5swdkdptshkg2vavgpgu7esjsjfmykxk5jvhdcvkj7wvekmnjgfhh5ayfrjeyu6t6pzxjs7vbhzk35aj5hfau5akfkhaxlbswpe3dklkvtvrftkpopv2z23lwtkbfd6tsmz3evbt6s2kxfeukiwytcokjhvhie7ktbi5f4rubf2atkysjlvfftnjzkvcuu5t6okdpdbsghj3h22uvkf7i5irnyz5h5bjoqe2tsqx5ojayusm4"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Zambia vs Comoros",
+      "league": "African Cup of Nations",
+      "location": "Casablanca",
+      "venue": "",
+      "timestamp": "2025-12-26T17:30:00",
+      "time_et": "2025-12-26 12:30PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/yvh0al1553349957.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/cpwhxs1553349019.png/medium",
+      "poster": "https://www.thesportsdb.com/images/no_poster.png",
+      "thumbnail": "https://www.thesportsdb.com/images/media/event/thumb/0iwqjl1766394414.jpg/medium",
+      "home_team": "Zambia",
+      "away_team": "Comoros"
+    }
+  },
+  {
+    "stream_id": "93e05ff9d7bda014b4e104b8451e23d9",
+    "event_name": "Brentford vs AFC Bournemouth",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjofkz3fjzuh3h23sghfxpgbx2vxyzssmjnfgwklkjsvrhntygyl3ss3v2v4uxlsoktjfgeyrrtvcz2llz4lveenu5ovkw25onjewtlbu2gzowk3j2nvlqettsojzhe4tsogy2ljmbnvau3auvsklhconvhgtkupr6qgtj3ukbokouksrzpwhj22k5h3rhu7vfu2tiepnj5wev5kkzjwixclvbgvot3qnkpkpjfavghy5otcmbgfrgktlbl2rkcssb6jfjemswte42vkqbjkmt47tgpvbkmrugtze3m4t6pjyt2oubiwzd4qr5ge5ke4vfqvqtennzhey2u6ucuz42lyjznzxfemtjjvkvtiskj2wxm7tzivjhkrjtajkyenj2rvnhszsflkbddnj2q2cvcmt2ozy3tcrsjuzhcujnmfyvm5sc6u5hm6j5fz7iklnvqjfekrunmz5imlkwny44k5ta"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Brentford vs Bournemouth",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/xuchv31750323718.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/wvos1w1750320546.jpg/medium",
+      "home_team": "Brentford",
+      "away_team": "Bournemouth"
+    }
+  },
+  {
+    "stream_id": "c59157e8cae34bce07645536a566247c",
+    "event_name": "Arsenal vs Brighton",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "FUBO SPORTS",
+        "stream_url": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5ogoyslj5u2xemolo6y3jfcun7wozm5tbzig3dltweibcc5v6xgixlhlnoy472mlrpfhcldlrhjxh4qtnzy7d4lrzkwu2u4nvuyyvm3mrlu2wk6ljhv43fiuwrjbh5asfihneuljzjj3dsxmzivnftjosi2a2m6ufuzfevzlvue7e2nkrmiyz2wlsuhxh4tncu2jd4nvk5gu2cpjomvswsrmjfvytf2t6oi5i3kucuz5oulmgif6ykplvqgjkevncai62urjrvfjikmx6ljressjnkewwmrvbfy63csjriz7hkljvgg6w23rviz3j4xk5rewunhpcfz6xlhlno2nieejoqzheeokrf2jfsxt2hmave4joqvjiklts7wdd4mkkovmufbrzmfextot5iflh2lt6pj23tcr2ikfhk2joti2vkorvw2ctsptzkj4s2uxvrizdsorznq"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Arsenal vs Brighton and Hove Albion",
+      "league": "English Premier League",
+      "location": "England",
+      "venue": "",
+      "timestamp": "2025-12-27T15:00:00",
+      "time_et": "2025-12-27 10:00AM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/0sx55k1750323716.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/y9pkef1750320543.jpg/medium",
+      "home_team": "Arsenal",
+      "away_team": "Brighton and Hove Albion"
+    }
+  },
+  {
+    "stream_id": "7213b1bd14e358db2b28ec0c06b6d17d",
+    "event_name": "Pisa vs Juventus",
+    "category": "SOCCER",
+    "category_logo": "https://statics2.tcgfs39a2.xyz/img/webp/icon_st_ftb_active.webp",
+    "league": null,
+    "home_team": null,
+    "home_team_logo": null,
+    "away_team": null,
+    "away_team_logo": null,
+    "poster": null,
+    "timestamp": null,
+    "time_utc": null,
+    "time_et": null,
+    "streams": [
+      {
+        "source_name": "beIN English",
+        "stream_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "proxy_stream_url": null,
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbkwoxuzlzgkxrmqsgqktd4qr2v2mylco55jq4kmmbgvotdtmrowow25r2hy24c5mr4fwxsmrsqj3f2ykf7yxdsvnjvjzhm4ybfvw2spjnlu2wk6ljhwu34sscszzdsqujixqx4ljolfszdckwtu2v2pobuz5iljskjgthdukcsfytc2rzmfkummmflg62fjushy3ktku52faxfikfme6ukmkfujkylmr2rwvifjtzvfg6ewmjqzzisptvtkqtc3kg5jctdkknhfiu2qn2ijoyu4tos2evmwvfhzfq44jsqu3hsljvhw2ymllstzswkrjroiwu2nn5owow25u2qjjdvnsspzxicousofqyvht2h37h2subjuyte7jo7wbetctookiunks2tzyxgakwokatkpjnkexpemsjn2qtnftrmvzju4rw7z7hsmkbgvgt2snzojpg3d"
+      }
+    ],
+    "enriched": true,
+    "sportsdb": {
+      "event_name": "Pisa vs Juventus",
+      "league": "Italian Serie A",
+      "location": "Italy",
+      "venue": "",
+      "timestamp": "2025-12-27T19:45:00",
+      "time_et": "2025-12-27 02:45PM ET",
+      "home_logo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png/medium",
+      "away_logo": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png/medium",
+      "poster": "https://r2.thesportsdb.com/images/media/event/poster/2b0w7t1755935973.jpg/medium",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/event/thumb/u9j5ul1755934390.jpg/medium",
+      "home_team": "Pisa",
+      "away_team": "Juventus"
+    }
+  }
+]
