@@ -1,0 +1,1589 @@
+[
+  {
+    "channel_id": "abc-usa",
+    "channel_name": "ABC USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/abc-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5whphmgqf7k2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvinhjru2q6sqlrufmvsnmwgfytctvbgl3pv2yc6k5l3korufwytitjfzwzmvs6kj3lngucki4xkvlno22wi"
+      },
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium51/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoo5whphmgqf7k2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvfnau2vks4cpuvsfovkntsgewzuvknyknktkrog2bkfeqbuyzduvk5gvqs5hlbquzllhlno2nieurzo4lhvbtnrq"
+      }
+    ]
+  },
+  {
+    "channel_id": "acc-network-hd",
+    "tvg_id": "ACC.Network.us",
+    "channel_name": "ACC Network HD",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/acc-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoo5vxphlljniyfkunuzn4hp25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlvuz7gslk5sgetcwmn5ji2m6vkugvpf6jz3ylat4qfwxy35ikjlgc4etngue5ectlvt2xhdkmjtv3gvetknzoyy"
+      }
+    ]
+  },
+  {
+    "channel_id": "astro-football-my",
+    "channel_name": "Astro Football",
+    "channel_logo": "https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium124/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoo5nwms2msb7xvkuptwokpj25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhjztfmucokfr2oucxmr5e22mnsbvjfjfjn6tu6s2lk5hwctmou6okq6fkvgvgthuorzo3phvbmrfwg2mmucozpes2"
+      }
+    ]
+  },
+  {
+    "channel_id": "astro-grandstand-my",
+    "channel_name": "Astro Grandstand",
+    "channel_logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium123/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoo5nwms2mscah3hfjt6hi7hfjt6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ugut2rk5ggezewmr2knksnnggza2uvobrwnkdalzjvsuksj2pyxptkvcvktktjt2hh5hfdtwjfku3fm6nz7ee3vwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "astro-premier-league-my",
+    "channel_name": "Astro Premier League",
+    "channel_logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium125/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoo5nwms2msbwx3ifiusqi2w6hubwf6tdcskmjrddhkftuwxtyxkii3j25kvnv242sjngwdjuns5qgeucvm5yje2ngustkutljpvi2mu2lkvgzo2slkzjwnafijrgva2vivkuxvkdcjrqy5deotbsfmz2mvvkvwxk5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "astro-premier-league2-my",
+    "channel_name": "Astro Premier League 2",
+    "channel_logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium126/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoo5nwms2msbwx3ifiusqi2w6hubwf6tdcscpjvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qx2lmr5ktiesngtkjjvkxwufcuuvmzjvgs5infrge6fescueytkrnkuhu2dgu5iv22mmr2ozowlcqshf2vk3lvozq"
+      }
+    ]
+  },
+  {
+    "channel_id": "bbc-world-news",
+    "tvg_id": "BBC.NEWS.HD.uk",
+    "channel_name": "BBC World News",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-world-news-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjwhphmekvfxph23zgqjfds5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlohfsysmmkqyyt47lnxe6vdjt2t2vee7ofggmz24tjhfczvimop2q6e4r2h2bdlkjzjl3ddcr6qexie5uvokvj4wn5kj4s5aufhfdhwalshiytclu2tftd5hkkg4jh2mnkpj42crsf5vnds3lzqvewndlzgjkt54nkokrhvjuchze6smnjgikts2jnggezdbpc6gvdu4vchjbknconqwayklljkiozkmrrkf475ar2hwvke4usu3uztdjskvytcnmfuveykrxgue5ectlvtvwxlwmfmezevgtcgjqwq"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-1-au",
+    "channel_name": "BeIN Sports 1 AU",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "manifest_keys": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjixdb4zqfgxvdmprznuyw54wcw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufkydekgggsus6mk42dj4ungjje2m4orikixcmlkhfqvkrrrqvm33ivgsi7dnknktxiuc4vbivqt2rjriwrflbnshkg2vavgpgvittj5rgthsum2qkfkcmlni3vekmnjju4ucokhci3d3bvcoktisvszl2pfoekcoe2s5btwqey3unrwkz3gkzkfgfzc2tjvxv2z23lwtkbfeovwkj7g5btwrvewlbusozlpclkrkfat2qjnhg6w3blorjwvclugf2th4sofku2t45ugpveudpskji6ukok2p2pdvdvbpl3hcnt6pj5h2pjo6znee3mm"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-2-au",
+    "channel_name": "BeIN Sports 2 AU",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
+    "streams": [
+      {
+        "manifest_url": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "manifest_keys": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjixdb4zqfgxvdmprznu2w54wcw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ue6tsxuftwctsplzwjzhe4tsokrh4sqbsgate3kgtfsu4rm6lgq74pubu2pjerubuw4yffkbozuv2vmsvfqtdhxgu2bd3kr2kj62dzmvfuwvmzjrkwiyumkfuxjifjr6hgvh44rzz2oxdhkgm2awnclrkzzd3ujshwvkuqr5vjdpfhs6gkpjfdjosjkvu4r3be7icujoofau44xrqjcxfat2seyvmrlct2q3vavgpgtkelt5o3phvbmrfwg2mmucozpic3x5gz3icnkfiu7h6cmgly5h2qvcrfjdcwtog37iclkrgu7hsqkvwgdemrucr2rhnirrl2qxgcjwoj4ucpjnhz63unrsf2riffjnmjlf3d"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-3-au",
+    "channel_name": "BeIN Sports 3 AU",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
+    "streams": [
+      {
+        "manifest_url": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "manifest_keys": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjixdb4zqfgxvdmprznu4w54wcw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ue6tsxuftwctsplzwjzhe4tsokri4mxvhyy2cvlvvfbjk6k2lgq74pubu2pjerubuw4yffkbozuv2vmsvfqtdhxgu2bd3kr2kj62dzmvfuwvmzjrkwiyumkfuxjifjr6hgvh44rzz2oxdhkgmwpitfsjfv2xt2ukkwvkuqr5vjdpfhsckuyt5gkktwfi43s27e7ikotrjz7icpx2izoyu6unju2wevuni2q3vavgpgtkelt5o3phvbmrfwg2mmucozphmwyrij4usnj6oeytwcsklwetfduwpkfenjj6kwzhkqtwovjhkokxay6ylbj5jkounir2sjww6eugqvcu2nugpj64molsf2dh5ejsuwff3d"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-1-my",
+    "channel_name": "beIN Sports Malaysia",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+    "streams": [
+      {
+        "manifest_url": "https://nfsnew.kiko2.ru/nfs/premium712/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoljixdb4zqfgxvdmprzn4rhfhtscew2c6skmjrddhkftuwxtyxkii3j25kvnv242sjngwdjuns5gf62cwmkbgtjveu2ve22mnqctwkx3btfufyvlkkjnwvqsmjvvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-2-my",
+    "channel_name": "beIN Sports 2 Malaysia",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
+    "streams": [
+      {
+        "manifest_url": "https://nfsnew.kiko2.ru/nfs/premium713/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoljixdb4zqfgxvdmprznu2w6itr3v2wcmk5fzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qs2ojr42betju2sknksnxfgezkcwkjuzo2slkzjwnafikjge42vivkuxvkdcjrqy5deotbsfmz2mvvkvwxk5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "bein-sports-3-my",
+    "channel_name": "beIN Sports 3 Malaysia",
+    "channel_logo": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
+    "streams": [
+      {
+        "manifest_url": "https://nfsnew.kiko2.ru/nfs/premium714/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoljixdb4zqfgxvdmprznu4w6itr3v2wcmk5fzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qs2ojr42betju2sknksnxfgezkcwkjuzo2slkzjwnafikjge62vivkuxvkdcjrqy5deotbsfmz2mvvkvwxk5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "big-ten-network",
+    "tvg_id": "Big.Ten.Network.HD.us2",
+    "channel_name": "Big Ten Network",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopjkvhhmfjnt2xsnar6jkvdnglw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzpvjg4olffu6vsvm522vfdjt2vkq2v5kr7xm4llpj6xq5lrqr2wwvtkusuz7ietngul4umxtokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "cbs-sports-golazo-network",
+    "tvg_id": "plex.tv.CBS.Sports.Golazo.Network.plex",
+    "channel_name": "CBS Sports Golazo USA",
+    "channel_logo": "https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "manifest_keys": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopfwiphmimbuh3d4olpbkvj44sv5j43dmn6hizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwqzk4mk42pjerubu2dj4uxfhu5j2pkntjsv3bjolgo4epnkv37m3ku6sicynglrkfgu2ymzgiytc6p2rwvifjtzvfbdefszhgutczjniyw2dglsuictdktvke4tkoudbzdetbkfh2jhfdmjnfdc54j6oveuu5t5hvg3emr6izktktlbl2ottamgwwow25u2qjjds5ywpkcynhukvjxi4quvhvzqe6kope4ucmtsohcymysbiz6vsruog2phuqyvieyukpubiz6s6arwgzct46ksqkkx22vbpw5hsukfgzzhcpkpay3ik2"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/cbs-sports-golazo-network/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjs4jnowkylkmvlj6zt6u6fvddm4sri2s4djmzjviydkujrjaze4lm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopfwiphmimbuh3d4olpbkvj44sv5j43dmn6hizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwcws4lz3jzkfauoogtdnkqbjfzd44tjkfdc3ivkp2q3u5rzui5c5krwhx5kk6nbkewysxrvtvmxcqpkg2m2ulnkikvi4er5rizhs5nfre6ttemgihtimnugte3dutuv4u2v4rujlwiw3hmrsf4ztrushzdffcugsy5p3emvuf2vk7ljhwuy2umpazld2rsbi2dem7n5uywtdckovfxjtbj5jvg5mruskj7juquwgxkxkzmkofqs4xkftvks2vxgue5ectlvtvwxlwmfmezevgtcgjqwq"
+      }
+    ]
+  },
+  {
+    "channel_id": "cbs-sports-network",
+    "tvg_id": "CBS.Sports.Network.HD.us2",
+    "channel_name": "CBS Sports Network USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopfwiphmimbuh3d4olpe2bd4svj6whh3sqfvzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qu2ur242rkurucvktjnkqsuge2cttf4wzb3yrcaiqxnpv25mtqfpwlff3a5gmzlfau3grrvkqw4vvvtvwxngucki4xoft2qzwyy"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/cbs-sports-network/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtejsqfat5il5skotlmkkikste5rzj2q54rlbhkatlaubfvgzy/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeopfwiphmimbuh3d4olpe2bd4svj6whh3sqfvzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qvkpkfwknhfiucrzy2mnpjiuwyu6uchfevnijspy5ou6twhgrdulvkgx6s5em5fwazkxnbsiyyfiqcvkhfcstzhfddt6kjve4xk5uvmfis2tlgfx5e5fvggjgt2nvb7uwutelvre6ucrkfrwoydruwh2bjmorsqzy74rnbuzwxkrk5tgstszmr2kndupubii3fnfxvgyzelclbnfmt26mvkf5ae5ugi2ffmunkshsys4kwlfpklbukny3ee3o2qjjds5kvnv2xmi"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn",
+    "channel_name": "ESPN USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/espn/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsrjvgv6ylgnfrkcu4auwhz6tu5ukqkdq3ilrhwoy5dmcswpkfary/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb4zpnweyxlhlnoy5d4nubwgs5ssmjmjvje2tnivyul3rzkwu2u7tshzy5s5mrrfqs4olrfvezklr67wth5ankveytdkobfu6z4vlsgwcs3fmkovzpsrr2hi7jumskhme2c5jnhflks3mjruwx2vx5g2rd4or2tjfelumbufcxtdkvifatdhljhxfekrsst2fknbrv3fwterj5pwkvtar5svxeuau2gknh4mj2sko7lgjzugph2ulfluyzdamryzzdmunkskth5aqougjdc3usnjvgu3kbfvm7s5kvnv2xmy"
+      },
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium44/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb4zpnweyxlhlnoy5d4nubwgs5ssmjmjvje2tnivyul3rzkwu2uvuctku6lbj2tvsu2rk6ukoz23vcc2bjvknkfy3ifioriwjem4tffvotdirniuy7s5m5nv3jvasshk3fe7tojgo"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn2",
+    "channel_name": "ESPN2 USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/espn2/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjstksqwmtffmrs2cxt2jsri2u5esnh2s4mqjzg2ouc7trswk2a/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb5hsbzf5pc5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkt6oi63ddmbvewvcxtbugqzs4mlau62m7ubvkutcmxjqvetkwt2gv5c2sjrmfnqu6jziy5dupu2gies4om5hf4vstvbggcwthpsju6tnir6hi5juckbuf6v3amzsvgx2pmfixndumskui7inbvb6uxek4nbqkuvdhjnjkeuwauchkti2nrzh2q7delfqkewldjorvcz3bkb3e3hdkusuz7ietxfuzeuvir2gi5gdekztuzlkvlnov3ga"
+      },
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/ESPN_2/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb5hsbzf5pc5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkugtuzoljmzhuwwkokrfvnc2rnb4gvqfovpe3utlkorufwytitjfzwzmvs6kj3lngucki4xkvlno22wi"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn-deportes",
+    "channel_name": "ESPN Deportes",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/espn-deportes/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjurtngvvjncl6ru4x56jnh2auspjwpfdqdbmkhu7hk2ufli3im5l4/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb4znrrhxkunr6qi4xlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvotcmbiu6vkxlfkwkwuwjn5jbd5akfhwth5axjtzbduvj5uv4tfkkvfu26unr6qi42ulnkihuzsysbiz3js3m5ivax2qpzjktimnugte3dudmrsu42favjmwmtdilfiidjfbushzdffcuf2vcukrkziwmycqm5mfjd35sbhzgucruwu2hpk5jrggavtflzkgc2smln4kni4qkkr2mtmqofvgrdcxk6rvvjvikjlgc4etngue5ectlvt2xhdkmjtv3gvetknzoyy"
+      },
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium375/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb4znrrhxkunr6qi4xlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvosulrsfkwstl6ggiusznc6wtdmqnkk2bjvkxjhfcystknrvtj4qu2kwu6vjvjuz5duolvt2xhdkmjtv3gvetknzoyy"
+      }
+    ]
+  },
+  {
+    "channel_id": "espnews",
+    "channel_name": "ESPNews",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb2wlvgk2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvinhjru2q6sqlrufmvsnmwgfytctvbik5k6jxle4bmvoxjswkyklmshftj2sugjktk25u2qjjds5kvn23hcu"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/espnews/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtfk2rvgw5gjnpz6udykkqz4turuvfzza4wj5qkey3hufmfeuq/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb2wlvgk2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvh44r6okm3djlrsu7gtkk5svcvu6sg4z7idkvjgey2vapzhgkys5lwgv5c2sjrmfnqu6jziy5dupu2gies4om5hf4vstvbggcwthpsju6tnir6hi5juckbuf6v3amzsvgx2plrpxmtmnsgrjeufcuv4u4wmplnif6u2pjzpzyumarwijdimvswoe7aterrhfst27tnjfeu2tl5yjbddkusuz7ietxfuzeuvir2gi5gdekztuzlkvlnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "espnu",
+    "channel_name": "ESPNU USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/ESPN_2/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb4gsbzf5pc5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkugtuzoljmzhuwwkokrfvnc2rnb4gvqfovpe3utlkorufwytitjfzwzmvs6kj3lngucki4xkvlno22wi"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/espnu/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtik6owgs5cmnjz4vt3jwozes4vrrkks3erkjvj2wdatvkuwzi/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb4gsbzf5pc5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkt6oi63ddmbvewvcxtbugqzs4mlau62m7ubvkutcmxjqvetkwl6gv5c2sjrmfnqu6jziy5dupu2gies4om5hf4vstvbggcwthpsju6tnir6hi5juckbuf6v3amzsvgx2plrthmunkskri4ue6vb4wiwmrlzqksvddnbpuwtf7sggy3jvgrzhka7ldnfhvvhtfkjmvcy2zkkbjljdkusuz7ietxfuzeuvir2gi5gdekztuzlkvlnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn-1-br",
+    "channel_name": "ESPN Brazil",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium81/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb4zojfwzfneu5owow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvjk4ddmztuwymokniwitfcu56za2uvuctku2ulpvqwizs3k6qj3c3kjrlgrom6r2hf2z23lwthavkstovizgumlu"
+      },
+      {
+        "manifest_url": "https://mocef38798-sc.hf.space/stream/one/espn1-brazil/master.m3u8?u=user00&p=0c672fa72156d86a7410a250ad029ec95d15d7add80605771eb6837574a7443d",
+        "manifest_keys": "cc1d8219be0130da85e4c4ce73a75abb 8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e10f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75ab",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb4zojfwzfneu5owow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvkq6s3lrp2djffuwrku2cru5z2c2morooj5idkpzjfcyspk6gvotdcrrfuy65jjruj3dm4swshpj3elzqwau24rrvkqw4vzkifreeoucguws5rj2ki2uncuwofixveukhmaum7knizyuspjs5v3emsubfvjhviszlfdfwat5gfbh2stspz7q4orwgzxinftvkvxi5irtbfausptrje6t2on6okhhmskvjwkz43t6ijw3u6jspvgtkmksoxbduqrsqfav5guvrkkumrn2qfetu4kjijzhlnt2lwdhknlktfiw2yvchg5ikoucpz7iktubwvzddbkkpvhhnjroq2fe3nkkofiu2tjrgzy3mwlok2pineuctjmwu6mjxe6tkltzfuytvaxshf3fm3josfdkk7lcnznpsstrju2usojrhmbfmomgqkavvgkwf2jks4nzgj6u2njrkj3if3rwji2tclucqvlekytrohausotrjfbhe5lwea"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn-2-br",
+    "channel_name": "ESPN2 Brazil",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium82/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb5hsb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgvblbnjufmt3ftbhwmucvro4y3edkswqknktkpngfy2sxl5f2nkfijzkwo6tjt2hi4xlhlnoxmykyjsjkngemtbna"
+      },
+      {
+        "manifest_url": "https://mocef38798-sc.hf.space/stream/one/espn2-brazil/master.m3u8?u=user00&p=0c672fa72156d86a7410a250ad029ec95d15d7add80605771eb6837574a7443d",
+        "manifest_keys": "8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb5hsb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgu6dhmjre5hnat6qzldtbls42hiljr2fzzhvaxjfuws2ljnfzos3hk2kwe7ulvfgwrhmntskxi2vgnjhv2zcrnctu5iksynnjaweqr2qi2s53ubhzvicnu2p2qx22twf3yucrt5jvdhcsj66i4yeltoofouvkrorewxgekcpuyue7kkoj634wr6h2bh5ft6uwev46sw7feucsj6ofet2pxzrkdkmqrzivcykms6vj3lktt5jj5hktugow5fuqlrhj2u2skzp2cs23nvij7hkqubgeytodrsmvxhklt6tkfdvhj5n4hh2tkrje6ukpkrwjaxc4tspkqs5kr2uexdvnta"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn-3-br",
+    "channel_name": "ESPN3 Brazil",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium83/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb5isb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgvblbnjufmt3ftbhwmucvro4y3edkswqknktkpngfy2sxl5f2nj5ijzkwo6tjt2hi4xlhlnoxmykyjsjkngemtbna"
+      },
+      {
+        "manifest_url": "https://mocef38798-sc.hf.space/stream/one/espn3-brazil/master.m3u8?u=user00&p=0c672fa72156d86a7410a250ad029ec95d15d7add80605771eb6837574a7443d",
+        "manifest_keys": "eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb5isb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgu6dhmjre5hnat6qzldtbls42hiljr2fzzhvaxjfuws2ljnfzos3hk2kwe7ulvfhgrhmntskxi2vgnjhv2zcrnctu5iksynnjaweqr2qi2s53ubhzvicnu2p2qx22twf3yucrt5jvdhcsj66i4yeltoofouvkrorewxgekcpuyue7kkoj634wr6h2bh5ft6uwev46sw7feucsj6ofet2pxzrkdkmqrzivcykms6vj3lnatvfu7icpucpmfdulszizzjm5vbrktj24ybjjzie4kspezhtnr6mzdifau2n2iysytwkw7im4ufhfctsoj27jnd4skgrvphcxrrjz5d5nta"
+      }
+    ]
+  },
+  {
+    "channel_id": "espn-4-br",
+    "channel_name": "ESPN4 Brazil",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium84/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeoon5yvb5fsb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgvblbnjufmt3ftbhwmucvro4y3edkswqknktkpngfy2sxl5f2njvijzkwo6tjt2hi4xlhlnoxmykyjsjkngemtbna"
+      },
+      {
+        "manifest_url": "https://mocef38798-sc.hf.space/stream/one/espn4-brazil/master.m3u8?u=user00&p=0c672fa72156d86a7410a250ad029ec95d15d7add80605771eb6837574a7443d",
+        "manifest_keys": "1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoon5yvb5fsb5x3hevustv2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgu6dhmjre5hnat6qzldtbls42hiljr2fzzhvaxjfuws2ljnfzos3hk2kwe7ulvfhwrhmntskxi2vgnjhv2zcrnctu5iksynnjaweqr2qi2s53ubhzvicnu2p2qx22twf3yucrt5jvdhcsj66i4yeltoofouvkrorewxgekcpuyue7kkoj634wr6h2bh5ft6uwev46sw7feucsj6ofet2pxzrkdkmqrzivcykms6vj3lkmucp2bicmucq4dfusmktz7j5glghkjis6ofju2t45jnjfct55lwmyzj45uwovqxsyj6g4iunaj2pezhstktawddeskjfvvjvclotj5ennta"
+      }
+    ]
+  },
+  {
+    "channel_id": "fancode-live-1",
+    "channel_name": "Fancode Live 1",
+    "channel_logo": "https://iili.io/KWn2Z0u.png",
+    "streams": [
+      {
+        "manifest_url": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "manifest_keys": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoozguyxcmjrrkxr5esgqfwtc5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhmchj5isxkvsgqzk4nf2ktie4rvujy2m4ozowixsxkrkjqtdcmwkyqx5pxvvi5jfjncuxiusrnckvqt3akwufqvdgocuy7dtkt6oi5i52mfsvzfktjzpgc2tivbriledkvkii62urjs5i3d4vtrikgs5bl2rj2xv7tzij2vfbkrifbp23s6ku5ifaucsjdi4vlrykthtjvcfz6xlhvooguythlwnkjgu3vgpjfo2qjsovive5ufig4yexmgtuxkkmkzrkmuk3n6qfdhe4ufkfktn4sjqwdh5bu2tkpc5btwf34tsut2qeyu2pj27jneulubjj6tnitnpa"
+      }
+    ]
+  },
+  {
+    "channel_id": "fancode-live-2",
+    "channel_name": "Fancode Live 2",
+    "channel_logo": "https://iili.io/KWn2Z0u.png",
+    "streams": [
+      {
+        "manifest_url": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "manifest_keys": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoozguyxcmjrrkxr5esgqfwtk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhmcf2bicxkvsgqzk4mj52o2e4ngoknhfinrswoymwljjwfc2mkjlku6ner6g2u2vhusixbj3cnflu6ttcm6ufkt2monvkbkm6nkqz7hn6jzgfwu2pkgluwutfsvh3y2u4ucqz5hcrj66y4xmwtsqfpjngswtuxdv4kkqu4tcqt6qfbpurlwufct2ojoggu2kmto3vwxngucki4xkvvooi4yvht2u2kv4oukuiw32uknhzys2ljwpxdc24mgqkbh2svkiknhutxsovhhcmkjifiu54rsmf5incu6tkldfgkgkxdhklkcquys2oufyjyva"
+      }
+    ]
+  },
+  {
+    "channel_id": "fox-deportes",
+    "channel_name": "FOX Deportes",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-deportes-flat-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "manifest_keys": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeooz3yfhlvjngxvdmpuchf2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgu6ssjnnzmwcpmbk2owcou6bje2m4usiwrhu7pgugkys4tfgfm2fkjnlvc7nknkt2jenankphozk4m5of3dkslfgfdflcpgpgvengrovkpjlvjzvghfkzmnriwt5kswjlwtm5t2qvcu45j3ai3c24jspkatnirouuxd3rjooe6tstjri2dos3lrtvdgsllzljxdmqtn3kbfeolvkvwxm7xrozbd5buot2evs3ufhf63e7jwpe5icuj6q4jd4yswt2ev46k2j2fhmlynjuws44jzkfavdmlvowcte7lkpfqxctkjp34usrknjuytc5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "fox-news",
+    "tvg_id": "Fox.News.us",
+    "channel_name": "Fox News",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoozlwfhlljnih4xlhlnoy5d4nubwgs5ssmjmjvje2tnivyul3rzkwu2vbu5ggs6dhjvrfkwssk5q2owcvnk5mdsvtxle4bmvonj5yo7twpjzxvc3gjnggfa3jvbhjau25m5n22y24kzqy5iuotcnv4"
+      }
+    ]
+  },
+  {
+    "channel_id": "fox-sports-1-usa",
+    "tvg_id": "Fox.Sports.1.us",
+    "channel_name": "FOX Sports 1 USA",
+    "channel_logo": "https://iili.io/KYJqv0G.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+        "manifest_keys": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeooz3yfhmimbuh3d4olngfxmfoxsw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufkydejsggsus6mk4z5iljskjgthfeqguweykwtjhfczvijvmexofjushy3ktku6sicynglrkfgu2ymzgiytc6p2rwvifjtzvkdduarnhgtis6mvgiw2dglsuictdktwqfctcnjpavxd4rjorkjg5hsgrezev6ugou2tkojngkdps4rsgzktktlbl2ottamgwwow25u2qjjds5ywpkdeu4uktfcwdbusqjbo2ptwp2bhkrkbjhddtalnhj2wnbk5pkks27ywoz7h2sksovetlpszojdkcpksrkfdc2j6h32tu6tzhfhhctts6jbik2"
+      },
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeooz3yfhmimbuh3d4olngfxmfoxsw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ue4wfhtbgwqy2lnb42lkuungpkvkdkkgdxo6eblrgvyzsmpsp2q5fjt6qjg2nij2imhhfdtwjfku3fm6nz7ee3vwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "fox-sports-2-usa",
+    "tvg_id": "Fox.Sports.2.us",
+    "channel_name": "FOX Sports 2 USA",
+    "channel_logo": "https://iili.io/KYJC4V9.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "manifest_keys": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeooz3yfhmimbuh3d4olngvxmfoxsw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufkydekgggsus6mk42dj4ungjje2m4orikixcmlkhfqvkrrrlv433ivgsi7dnknktxiuc4vbivqt2rjriwrflbnshkg2vavgpgvheckzsuwx2vljl2lkcmlni3vekmnjjeyukqjxcf3c4nu6nz7ivdlou2regcubiz5hktjopz234qmjoffgkzkfgfzc2tjvxv2z23lwtkbfeovwkj7g5auoskdj24k2uixo47kfikdhm6kfjmays4rsp2ji2qufrklg4rnzkviu46ugqviun3r2mjng2sk6n2fdsytwhxdh44t2qu5hssubxv2xe3mm"
+      },
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeooz3yfhmimbuh3d4olngvxmfoxsw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ue4wfhtbgwqy2lnb42lkuungpkvkdkkgdxo6eblrgvyzsmpsrkq5fjt6qjg2nij2imhhfdtwjfku3fm6nz7ee3vwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "fubu-sports-1",
+    "channel_name": "Fubo Sports 1",
+    "channel_logo": "https://iili.io/3OfBrVn.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+        "manifest_keys": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoozqvq2ezqfgxvdmprznuyxlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvothjniuxgsmkvsgfc2ongcgteusngokjelinzrglj2wj5sjouk6kwjwo5eprwvgvj5esgqluw3dmzfvuzc3rnqvuylfxkqkthtkj2ovfdecmvifgwm5rvlwkumml2hluvfbjrhvgvcqtvwgeys6tsovhiczscvj4ylnjnguzh46t5fz5punuzoewwsztbgu2vmsvgvv3jvasshf2vk3vvrgfd5hj2tj3jmwlkqf7rfbjooe7iclj2o34yc5s2pu2wsnk5q2nktbxopz5hm6t5jfetn6lrrjdicqk2pfqx5itromjhslkrgz6ucmugwvs"
+      }
+    ]
+  },
+  {
+    "channel_id": "fubu-sports-2",
+    "channel_name": "Fubo Sports 2",
+    "channel_logo": "https://iili.io/3OfBrVn.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+        "manifest_keys": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoozqvq2ezqfgxvdmprznu2xlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvothjniuxgsmkvsgfc2ongcgteusngokjelinzrglj2wj5sjouk6kwjwo5eprwvgvj5esgqluw3dmzfvuzc3rnqvuylfxkqkthtkscskdilqsjuwktu4rvlwkumml2hlutsqjzh2bim4ufxf3f24tsskpikzmflvfelpjwqfjhcmugqexo4luzoewwsztbgu2vmsvgvv3jvasshf2vk3vwfvwxcojzjuxktcuspzdqkujvjz3he4kbil3dmplnhj4wkmusfvhks3nzjvbiksj6qvgtgamkmfws47k5i2sykvtzqxbim4trfvatcokcwvs"
+      }
+    ]
+  },
+  {
+    "channel_id": "laliga-tv-hypermotion-es",
+    "channel_name": "LaLiga TV HYPERMOTION (ES)",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-hypermotion-es.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "manifest_keys": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonrgw4zsuj6ov7mk3yo2kxqfnzbnhfceio2gja4mhu2lzjhnnr2hy3ie4vc5ja7lkugjzbdsqmjte22fkvc5kvd4pubu2pjerocuf22lhtjsv7dc6kjpku3u7vfu2tiepnktxgtfem5lwa2sxrnuvextcxkpzzdvdnkqkthv2kjgi3htcmngfgx5csvuibd3ksfgguusrkhbwbc4qjspkaunhsgtkpegetzfvetnajziuy4mllogfct5js5lwes2ru54ixh25m5nv3jvaqrf2de4qrzkkbimvukofzqu5kjgvjhsqt5ghbfumswtz2u5bkwhvqts4nvf2cvm7tvfz6uf6mclzbh2sunjkqystu6hg6tu4jrge3hssubxjkxmmuchfw"
+      }
+    ]
+  },
+  {
+    "channel_id": "laligatv-uk",
+    "channel_name": "LaLigaTV UK",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/0/0a/LaLigaTV_%282023%29.svg",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+        "manifest_keys": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonrgw4zsuj5ywcw5qyzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvku72slstviu3gkggf6tlhu6bje2m4usiwrhu7pgugkys4tfgfm2fkjnlvc7nknkt2jenankpwys3hvbfvuwmxj6gvkw2tokq2bjncnkvjbd52kcikrhm4k6q2uw5kkjqwyvcpj5iu2u45knyi6xeptzfvvivkr6rjzdwenkpkbkm6nguiw344uoozevktmvtzxh4qtpau2s5akbgj2u2nycky3em5t6rz3i26u6ov43cpjvij4ucnjvj3xferlotu4v5gvghfnj24ycokbhfbtzjzzif4lshi4ukqlfg2myndj6nyq"
+      }
+    ]
+  },
+  {
+    "channel_id": "mlb-network",
+    "tvg_id": "MLB.Network.us",
+    "channel_name": "MLB Network",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mlb-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonn5hrhlljniyfkunuzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvkc54nuvvfkystk5gggtdhu5xkvkdkzdd33owjkbzg5cecowgvktdbkzuko6cosbjv2z23lwthavkstovizgumlu"
+      }
+    ]
+  },
+  {
+    "channel_id": "nba-tv-usa",
+    "tvg_id": "NBA.TV.USA.us",
+    "channel_name": "NBA TV USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://lpnba.akamaized.net/live-pz/q/hls-wvpr/NBATVI/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=246854a4-2cb4-40d4-8c81-da8cd4ec3c9d",
+        "manifest_keys": "1acd2d7afd8cb34099cb832862e3c08d:b85491a27c2852323ac704a07cf7b779",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwhthmfp2owblv4lvtvwxmor56wcydkqvpwuwuysomzezl7r6fy4vlknktyw6k4mctu6vkxlfmwmx2lmg42tiepnkt2jenaxbhftkc7tfifuz5kmrpe27lkzg63zl5ryrvhi2c3mjujus43mwkzyxsnpcii7icyjnqzzh3pofjgeyttjziexgvkrzwh7hepubmmfk3bvn5ews26krwu2usvtkjyuzt3lbq4phepy6vks4tmmbqvox3jvgkincdvrs6fcukymgoj7dsypbgj2xdbknkkstc3lklfy6vixkt2jenaxkuw2xnekfpiszkrlcpvuttgn5mgdc4nvkqvqyf6pvsvwt4jmvivq6ddk5qxbktbropjzje7lb4vyyfklrrh2wsrj5likylqugojbj4pxkoi47tbjopvgtkxkvljve2sndektktbxkqzfournzsvxc5dsj6vay3ykrge27kyjrq3vimsxkrg6tsrpbivsts3kvtwli47nkqzfouqr25ixdlukbqfyz5hu6my3kutqvpyfover25kpheplc52a5tgmgeuytlgtkuy46drsk5jzicymg5kdatxm54fwxktlr5v4vclm57vrsfkswskpj44wcgh3euwtsizdkevqrlwo35kskhgnsnpmzglxkepukqw5el7kft2hhfcx26wne2rj5qe2vfwpvhu2vcpqvivrbcslsrl3qkqjzjgstsrm2yizf4epcagw6uvrn4js2luu2qgnqvat2tkvmemtcshcvdkk5gwffvcp66e4udjjnuuw2klwzvwax2plzhzdkd7u2qzbokokftmbh5cmbgvddmsskljzdu6rsgzgtc6oruj7ie5scrfrilmnjjgfds5knnwozsmk2dg6wcnj5ivgucpts72tek4kkqixivkmgszhfloknggrh44kopj7p3bmkgfdi2urshj3f2zmkci4xkvlnouzhe6n6gfxecpkjkkmv23vcoi3rcut2ovgtsnkni32ymslsqkivfelck2nhewxsoe2uu6jvjvatn6rsjf4unbvcrftdnekfp4fhkskjkf3ga"
+      },
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/NBA_TV/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwhthmfp2owblv4lvtvwxmor56wcydkqvpwuwuysomzezl7r6fy4vlknkq2ppfimruf4t2nlbigqyuwlr5kq2wjxw6lvl5rxjswkyklmshftj2sugjktk25u2qjjds5kvn23hcu"
+      }
+    ]
+  },
+  {
+    "channel_id": "nbc-sports-bay-area",
+    "channel_name": "NBCS Bay Area USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-bay-area-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium755/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeonzwho3ezojpiiw54rwqjyw5qvzgjzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkykplblgovs5u53kjjvkjvuy3edkqjswkymvlrvfctlgmzjzbqcqnkukvknkngph4s5bvgii4ukrmfgjpku5vvozq"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nbc-sports-bay-area/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjustsn2phfhsjk2fegdufkjzhnbt2qfi324sgkvdg5et2tzbjkmsi/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwho3ezojpiiw54rwqjyw5qvzgjzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkucxmjmwiwstmjzzy2mnvkii7icrx6ufwyuvlgtz3c3hk5i2u7ulvkgy7dtitwoijklajnfuxdk6rnjeywcwykpe4umor2h2ndecjohgots6kzj2qtdbljtxze2pjwui7duou2bfa2c7k5qgmzktl5hvwtd7r2uu3c5dugry45ldsfpuwukumfkgit3kmv4z3d2nrsq2itsnx5fv4zc6kbk2cvkru5ofg3nfu2ui5jdkusuw6ykxu5jz2y5gtcuzteteocki4xkvlnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "nbc-sports-boston",
+    "channel_name": "NBCS Boston USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-boston-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium754/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeonzwho3ezojuh5d5kvfn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzifowsulbkvbc2zmz3kutljrwigvevepfrkmtlcj5fvkzlkusnzdovivku2u2m6r2hk3ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nbc-sports-boston/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtbj2okphfbrvnkdfoajvfu6u5btrij5qmqs6kz3hvejrlwfksoly/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwho3ezojuh5d5kvfn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzqu6ycxknmwuvsyl24y3kuqr6qfct3jn5q2m2e7togvqwc4rzqu26unr6hgrhnkr2hxu2fgjwkv6tkwmgifrimpp2hi7jumskhffklrjrowjis5mbkeyttbtsfxrd4or2tjfeneuf2fetkwjvjfeysymotvkzd3uoqz3dmrvgtj64lhmbrv4utdubszev24jn2kkuemvcgi4ungqwfwot2lkzvfuy27kbqwq54unkskth5asnuxrc2mswjjrgemj5rgeym3yvnv2xmy"
+      }
+    ]
+  },
+  {
+    "channel_id": "nbc-sports-california",
+    "channel_name": "NBCS California USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-california-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium755/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeonzwho3ezofphpjfbvkg2tje4lnqgxae3ssgjuw3gjnle62tkscg2oxkvlno2g72sj5gkvgmnl5iwovkwmkbgtjveu2ve22mnqctu4zswkcgv42dcjzlve6cskbigvkfkvgvlsw2sjsjjrgemj5rgeym3yvnv2xmy"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nbc-sports-california/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtbkkqkutfbskvffd53tvjvbhcrjooe5qensbpfdhcxkblwdkfirm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwho3ezofphpjfbvkg2tje4lnqgxae3ssgjuw3gjnle62tkscg2oxkvlno2g72sj5gkvgmnkjmvcwszlz4kbi44ngg2veepociixj2mj6gvpkmorrlfw3tir2f2vdmprzug4xldmzhfs2sykfpiyyfiqcvkhfcstzhfddt6kjve4xk5uvmfis2tlgfx5e5fvggjgt2nvb7uwutelvre6ucrkfrwoydruwhz3jvgrstja73amfgfsyswkbljfkc4j52zdhndt2g2lkvkocivayswlvnf4vdbkfivk5u5u6jj7jvbusgxrj3im5ge6yeyjwggnke3w5nv3jvasshf2vnltsqvu"
+      }
+    ]
+  },
+  {
+    "channel_id": "nbc-sports-philadelphia",
+    "channel_name": "NBCS Philadelphia USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-philadelphia-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium777/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeonzwho3ezqbsxjj44t6qkpc5durwj43dmn6hizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fvgvsznb42betju2sknksnxfgezkdkj5ivpc2nm5fwu5eqvbjfeutkvcvhsz5flrqv3gu2tknvas2wpzovkw25lwma"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nbc-sports-philadelphia/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjs3tsrftifgl6tkbetpkjjj6ve6j2ozzpupmkfu5hnitorv7kkorq/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwho3ezqbsxjj44t6qkpc5durwj43dmn6hizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwcws4lz3jzkfauoogtdnkqbjfzd44tjkfdc3ivkp2q6m5tzui5c5krwhx5kkpmvlvqv2skvuwswdgnrviw2uqvkrziutoroguyylakfowgtfekzpx3ingjwhjhjnjrsbzfelklrowsu3dj5je4zt7sgkkfinfrzhi67smlvivousvlksfcucsmj7yxjvfuwsvdenayfsjc2dkmzugc2tkkbhffqfdvgsi7kunsfjhmy3gjnpzst2ykzrgdftkx2ifgxlhlno2nieejoqzheeotjuq"
+      }
+    ]
+  },
+  {
+    "channel_id": "nbc-universo",
+    "channel_name": "NBC UNIVERSO",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/8/88/Universo_2017.svg",
+    "streams": [
+      {
+        "manifest_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "manifest_keys": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzwhphmgo2dgdqfnv3ff2z23lv7feulcj5lx2ylingl2vhnnuohy7c4okvvgu53fjvrjgwkokfmu22mtjv6z62fjucji42m4ozowixsxmzjvfddhkzokqtvkvgh2bkmpnk7fq7l5pb2xrkuzo5yype4rpzvmpjerubvj5i3mnbsweveumnmfct2wmjghu2fatshi6zdkvbwews3cmknewxswtogzbg3wucki4xkvlnou5qeosbnuzhnktnmy6wvbsjxe2u5atvjfcucpnvqjdfvij2pu2wmtu5gfxp46knfvgve7kfg4eymqlore3jfgvjoknhk3nsofgum4kkov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "nfl-network",
+    "tvg_id": "NFL.Network.us",
+    "channel_name": "NFL Network",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzyg5hlljniyfkunuzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvkc54nuvvfkystk5gggtdhu5xkvkdkzha4powjkbzg5cecowgvktdbkzuko6cosbjv2z23lwthavkstovizgumlu"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nfl-network/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsnmjfwuulkjngvcs3uj2vkstnjvkhfdacokgje4x2sk5qgqzlcna/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzyg5hlljniyfkunuzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvj63csmbse6v2tkzm2oz2vkj72aukpngp2a2vkxsg2mz2olcfvqvkrmrkuw5tkrnvjbkvdsrjg5c4njrqwauk5mngkivs7pwq2mtmosos2tdedskiwuxc5nfjwgt2sjzth7emuukq2ldvjvb2watsslnmfcvcmmbrvctf6scsu3engr2h2s5kqnjsu4ucxjnfwivc2mk7zgtmouziiziumqvvgez2ptfhvqvtcmglgvpuqknowow25u2qiis5bsoii5gtj"
+      }
+    ]
+  },
+  {
+    "channel_id": "nfl-redzone",
+    "tvg_id": "NFL.RedZone.us",
+    "channel_name": "NFL RedZone",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzyg5hmhjnqwlkvjubowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvkc54nuvvfkystk5gggtdhu5xkvkdkzha4povnobrhs2cwj6gvktdbkzuko6cosbjv2z23lwthavkstovizgumlu"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/nfl-redzone/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuljsskoufdmgre6ytnt5g2bhm5t5hvi4k3sgjfcucttorfywfhru/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonzyg5hmhjnqwlkvjubowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvj63csmbse6v2tkzm2oz2vkj72aukpngp2a2vkxsg2mz2olcfvyvlbl5kwo4dkrnvjbkvdsrjg5c4njrqwauk5mngkivs7pwq2mtmosos2tdedskiwuxc5nfjwgt2sjzth7emuukq2lefhuv7ew2tilnjfiwktjnlj4vt7vghvbisntwr2rqcsrrsv4u5ekotuyvc2l5xjbhupr6vi3imuqjqgos23tfhvqvtcmglgvpuqknowow25u2qiis5bsoii5gtj"
+      }
+    ]
+  },
+  {
+    "channel_id": "nhl-network-usa",
+    "channel_name": "NHL Network USA",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/NHL_Network_2012.svg",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/NHL_Network/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeonz3g5hlljniyfkunuzn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzpvjg4olffu6vsvm522vfdjt2vkq2wjkofhnb2lmbsvo2derrlwo35asnu2qtuqkno3phvbmrfwg2mmucozpes2"
+      }
+    ]
+  },
+  {
+    "channel_id": "premier-sports-1",
+    "channel_name": "Premier Sports 1 Ireland",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "manifest_keys": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbofk2ssjnf2xlulvkgy7ds3jsvykulckrfu4uuyvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevnb7y7hlju6sjdidjnzqkkuc5tjlvkzfklbggponjuchwvj5drvuhszkljnkzstcvmrriyuljosqktd4onkpzzdttu5ogoumzjoqgots2kzhxqtninkvjbd3ksg6koxmpkjhvvivelsruxftmj5ge4tm4t5je5rdasjoe7hvfkjki6wspvbxkbkm6nguixh25w6pkczclmnuyzie5s6pzdp2pufhu2tsqkbg4iyeqswqvfkcnuvpklkepnwqkdicut2pz2vlqsfoiytsplgqkgxvkkjn34t2sjwoe2s2tkrxjmyenj6pkhindl6lwg"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/premier-sports-1-ie/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjs6jopviyvbkzi2eutvkoriwtevskuve4ldrnufjislmctvyvy/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbofk2ssjnf2xlulvkgy7ds3jsvykulckrfu4uuyvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevmfwi7hfgtsukbi44xfggmus4j6tkfddbk2kwrpcmnkfy3ifiusqh3kksjvkv4zc3rwhi4v3cxkfwvefkuokffhv6sbjeyxcvm5pwpecljzfxdjsnr2j2lkmmso7yyzcrmfovcx3emzjvoumbssrkdjmokgs2u62qnblf4tsrmriywvs3kga2nkunusji7ierpzruyt2lubgfe2dhmzhgg5eou6uj5d4rssiyjj3im5ge6yeyjwggnke3w5nv3jvasshf2vnltsqvu"
+      }
+    ]
+  },
+  {
+    "channel_id": "premier-sports-2",
+    "channel_name": "Premier Sports 2 Ireland",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "manifest_keys": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbofk2ssjnf2xlulvkgy7ds3jwvykulckrfu4uuyvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevnb7y7hlju6sjdidjnzqkkuc5tjlvkzfklbggponjuchwvj5drvuhszkljnkzstcvmrriyuljosqktd4onkpzzdttu5ogoumzljfvbdcsmfohxh2rnkvjbd3ksg6koxk4jsn2th2yrsrj7c54j6qvfhu5krkj634sloifet47tzlv5im5vbxkbkm6nguixh25w6pkczclmnuyzie5s6pv5qe7ufie4uklksqg2w4yswn2diffujoklj4nofhvetkpkrgfgvocr5oy7ivducpfnevbujrg4ucpjrgvgs2sktav2ys7vbhkuuvjs2lwg"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/premier-sports-2-ie/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsmm6nvuzvelrnkqs3yj2jiyuvevfkklammj5rjwvddtzhgauy/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorbofk2ssjnf2xlulvkgy7ds3jwvykulckrfu4uuyvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevmfwi7hfgtsukbi44xfggmus4j6tkfddbk2kwrpcmnkfy3ifiusqh3kksjvkv4zc3rwfy4v3cxkfwvefkuokffhv6sbjeyxcvm5pwpecljzfxdjsnr2j2lkmmso7yyzcrmfovcx3emzjvoumbssrkdjmovcufc6kqjrjv4t2mlrggi2tbrsckktnfuskjbenaqfqguzcujnfvsuesm5nfbam7t6hzli5ctsiijj3im5ge6yeyjwggnke3w5nv3jvasshf2vnltsqvu"
+      }
+    ]
+  },
+  {
+    "channel_id": "sec-network-usa",
+    "channel_name": "SEC Network USA",
+    "channel_logo": "https://tmsimg.fancybits.co/assets/s89714_ll_h15_aa.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sec-network/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuwu6ofjhczszmkfftnjope6te4jrhz23lbr5rkpi2tt2sjbkfcsy/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfyxphlljniyfkunuzn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzqu6ycxknmwuvsyl24y3kuqr6qfct3jn5q2m2e7togvwvk4rzlge74svkg2m2ulnkihuzsysbiz3js3m5ivax2qpzjktimnugte3dudmrsu42favjmwmtdilfiidjfbushzdffcuf2vctsstzmvmvcslrpwcu3yu2q2dd5juwviw4eqjnrjyvtkkzqixkculn6vbdngrose3d4pxvfwsw2zkjmvwynikjlgc4etngue5ectlvt2xhdkmjtv3gvetknzoyy"
+      },
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium385/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfyxphlljniyfkunuzn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzjuwvknlbkvbc2zmz3kutljrwigvfnaozt2mtlcj5fvkzlkvcujfovivku2u2m6r2hk3ku7tnmu6x23tcjzteu3ra"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-1-nz",
+    "channel_name": "Sky Sport 1 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-1-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuvj2rvvicxrnkz6yv7trjfgvclufhjzqc4sbokquffkgsf7jkprq/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23jrn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbggrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2kslzlkuxdej5jfcvl5vgtjkumusfji67lelvqf4tkmmfkgkt3kjzxe7du5vktizefbofrv4tcoufjfg2slnkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium588/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23jrn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqctknvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-2-nz",
+    "channel_name": "Sky Sport 2 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-2-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-2-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjs6t5hkus5hmgsuxetrkgoffhkttzkj7o3bsbp2es5jjstfzjsmr4/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23jvn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbgwrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2kmtzqkgvspkjujwzlyukhjbe5ar6g2m4thlvpvqvlemjqgit45nc7j3du5rng2bdsqovsfeukomzjfwtkluwkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium589/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23jvn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqctkrvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-3-nz",
+    "channel_name": "Sky Sport 3 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-3-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-3-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuqjosfnjkzrvlz6xf5t5hkat5bkcofc3mpmkkuzi2ttzki4wvclm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23jzn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbhgrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2ksl5le2w2um5hvsu35sgtzkumtufii7qdgnjpfzh22knlwqu2rrr4ixkfgu2ijljcnp5jfszcxubswav3jj2kwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium590/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23jzn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcujnvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-4-nz",
+    "channel_name": "Sky Sport 4 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-4-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-4-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuptvjkgtcuswvjxen7t5hu6tm5t5jj5pdasglezjfktrmvzkvhlm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23j5n4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbhwrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2ksmbqgmvcpmbsvcut6ski2le5avfji7qdgjshvyv5dmkswgt43jvxzzdvcu6qjljnbozjfc2s6mziwautjj2kwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium591/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23j5n4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcujrvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-5-nz",
+    "channel_name": "Sky Sport 5 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-5-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-5-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuwj6ofvhkxrnk2cyv7ufijyum5kkpfg34vlsgu5g2xtrmiywe4me/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23kbn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbigrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2kslvlkmv2uj5ivsvl5vgte3huusfjja4lfnflfwv5dknhu2u2nrs7zdj4oukifbisnqnjfc2sxmnsvdjtkk2kwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium592/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23kbn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcujvvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-6-nz",
+    "channel_name": "Sky Sport 6 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-6-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-6-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjs7t5h2uuvhlssvfetmkfkfgustkfie7pumscgu4t2ujnmf5ivisa/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23kfn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbiwrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2kmtvqkgvvikjtf4zlxr2hjdinar6ukm4ldlvqfwxleknkgmvu5jwakrdu6ukie7d2nqbsgk2sot5hwaukmlkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium593/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23kfn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcujzvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-7-nz",
+    "channel_name": "Sky Sport 7 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-7-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-7-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjusj6rfvh2xsvk2oyv3ufgjytm5j2pe634rlshu5ikxuzmjmwfame/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23kjn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbjgrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2ksmflkmxcuj5i2evl6sgte3kuusfhja4k7nflfyv5dksue2vu6rs7y3j4ouoifbjfgqnivs2s2k5svawlkk2kwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium594/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23kjn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcuj5vkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-8-nz",
+    "channel_name": "Sky Sport 8 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-8-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-8-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtcukp2pg5is2vjwxdrjsqfcusskbkexqenmjpfdjfijstixj45si/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23knn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbjwrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2krkfpvcxvijvkjwzt6jwi2leutt6g2k7snlvofwxljknmgivtijzyktkffroqz7jnborsfeukxmrjkfjkmkkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium595/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23knn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcukbvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-9-nz",
+    "channel_name": "Sky Sport 9 NZ",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-9-nz.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sport-9-nz/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjupj5gvhifilrlkren5j6okbictkkquy4dcmbqvfivfkksv5i5aly/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23krn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mpnbkgrkmvnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2ksmblkgt3emvje4ztxrwt2ndnavfiklqlhnjnvotleknhu4zthsfxz5ke5rsi2djerofrwutc6t5h2cwljmkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium596/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d23krn4tnk5m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnufsvkntvggezewmr2knksnnggza2u7pjrwu2e7tfufyvlkkjnwvqcukfvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-bundesliga",
+    "tvg_id": "Sky.News.HD.uk",
+    "channel_name": "Sky Sport Bundesliga",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-bundesliga-alt-de.png",
+    "streams": [
+      {
+        "manifest_url": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
+        "manifest_keys": "67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23xwikth5arz3wkxs6skmjrddhkftuwxtyxkii3j25kvnv242sjngwdjuns5mvwvu4njxzlhe4tsojzhe4nruu6u2pljsuxjmqjrufg75engvi7d5angtxiuc4u5ivfds7motvuv2pxcpj7kljvgqi62txmzi2uvstmroexkcnk5hxa2u6u6skbkmpr25geycmlcmvgwcxvbugu2uarzgjatfdjnvkvacsuzhz7gngkktyxjm3lzwe6tfajnhvaucpyokvyxfiufkjwwmouwof43natrvj5ifjtzuxqts3tokizgstkvlgreutvnovcusujnifgt6drwly3iu5u5g2exvgt5pmcucokrives47kfyjmw4ttoofsukxrwsfexv4ugqvatsukcqe7qenlrq2fi5dtzlizisolo6v3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-mix-de",
+    "tvg_id": "",
+    "channel_name": "Sky Sport Mix DE",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
+        "manifest_keys": "3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23zcsjgw57ycw2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufkydekgggsus6mk4z5iljskjgthfeqguweykwtjhfczvijvmexofjushy3ktku6sicynglrkfgu2ymzgiytc6p2rwvifjtzvi7jmfrnie2vclmjoiw2dglsuictdkkbhvdicsubygddmqkfikjh5il5l2delrkbheytcnt6qvfpunroizktktlbl2ottamgwwow25u2qjjds5ywpkddcrtwpzwwmouopi43cstrfz4tslkgqg7etbrngj2vvgk6ifphlcyvje6uctj2okauoarroy2s2qu5gfkyngjzometcoufifeuvbuc6gdik2"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-tennis-de",
+    "tvg_id": "",
+    "channel_name": "Sky Sport Tennis DE",
+    "channel_logo": "http://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-tennis-alt-de.png?raw=true",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n7k8iy6fcq/out/v1/b58874d47be74695806ce7b9e58fe48b/cenc.mpd",
+        "manifest_keys": "8a7c8437ab14cb75f8522fd0d4b7f2f8:dc9be1750410e91be85f96ef0efdacd7",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23v6qktkner2vye7e3ssgjuw3gjnle62tkscg2oxkvlno2g72sj5gkvgmnk5tfcvuwnf2jdidjt2qwteusxfowqt4tjvkfrddhkzokq55drvuktjeprwvlu2tij5fzswk2kfrewxcmxkpzzdvdnkqkthv2nchgjkctl6qfixdksvuibd3ksfggvhkqkpby7c3btsqvuundsgr2pewdjniz5icstvkkbqewlvrjzjc2s5lwes2ru54ixh25m5nv3jvaqrf2de4qr2qe3i24ugoizqu4tvge7hu5kjihdfumrorfeve6k2ivphk7xwqvgvm7tzkj3if4r6gi3he3vbi2ddsxjok4bikukgqkcs5aufxv2ytbtwhfw"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sport-top-event-de",
+    "tvg_id": "",
+    "channel_name": "Sky Sport Top Event DE",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "manifest_keys": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d23v6viww6asfygqs45nrxzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qtc4kfygtj5esgqgthvbxfhu5j2pkntjsv3bjolgo4epnkt2hdlivgsh6tdgvbkfgzsrrnoe2v3cpghy42u7tshkg2tqnbrkqwsrjrtgmx2unjkwy2vkschwvekmnk6zmyequcqkvikzmjmkrelnkbij3hkut5gvi3s3lojezh5jkctjfdcrmj4z42niropv2z23vvrvyvtbr2ri5genuvfy43fbufgvfhsntrgl4xk3szhuxh5buwh2nieoyfju6uspjzku2s6er5ojfg44vgtfndcyjnrmfh2rksqfgu5bj65zbgevtsofjhmyli"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-premier-league-de",
+    "channel_name": "Sky Sports Premier League DE",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "manifest_keys": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olovy3ifiuryezh4jjnfvkykvtv2wxg5xlnoy5d4nucokq2srkfuzfjuyrrjfczlajtcwu2u4twqe7ke7qvowaxspjnlu2wlknfvf46mstziffkutswhxjkdgkfoe7ds2kfhvnfs4ofuzfetjtssjc2domjs2ovspmslu4zlhsntxjd4nvjvkpjeruc5fwy3gjnngiw4lmfngczn2ucuz42suvji2k6dklbrwav4nk5svddc6r25jzh2tjoofjhnbobnwfd44twqfbiulkorf44kpjspfau47kkqw3fvglrfvuwmyjvgvlevjvno2nieurzovkw5nlnqjdim3u2qkpdkttohw6unbjzhkavfbuhbiwymqj5ikvhnjmgvkvef5tzie7icqkfhvdo4rrrpzzifekgqzmv2rr26e2tsujrkkau2uvvmq"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-action",
+    "channel_name": "Sky Sports Action",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://nfsnew.kiko2.ru/nfs/premium37/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olo6j5d5evj4zzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkwswlnggezewmr2knksnnggza2vjoff2mtlcj5fvkzlkvco2q6fkvgvgthuorzo3phvbmrfwg2mmucozpes2"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-action/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsqmjf2ux2ojnnhys3qskg3zevkuoty45d3kggvs73iozheyzc3lq/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olo6j5d5evj4zzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkucxmjmwiwstmjzzy2mnvkii7icrx6ufwyuvlgtz3c2mkbt2u7ulvkgy7dtitsph6zlgm6kvzdlbjnswfhk4xziy5dupu2gjfdwcnbouwtsvvjnwey2ll5k36tnir6hi5jussf2ga2crlzrvkucqjrvfgy3rjwijgtnkuwu2s42vkkgf6xkrj6tvgvs6msakvd4uj5ij6tvgojpu2te5tvhvoydfkztvg3sou6ggvjfjt6qihkderrn2jgu2tknvas2wpzovkw25lwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-cricket-uk",
+    "channel_name": "Sky Sports Cricket UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium65/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olo7i3je6uzyffh3spghizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwctczmr5ezknasju2njfgpkgkks23tfkfot3ejsp2q64nucukjefikfilu2lgm5kzuwk3m6ny3ee3o2qjjds5kvnv2xmi"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-cricket/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtdtnpghicrlryvkx25zkhkbdulusp2a3uqrnikaxnfljjwrikvke/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olo7i3je6uzyffh3spghizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwcws4lz3jzkfauoogtdnkqbjfzd44tjkfdc3ivkp2q7vgsrui5c5krwhx5klcjnlu2ukrm2ugtfkspkrziuu6jziy5dt7mnifaynbjzigqx2qujgihjnjrsju6tnir57ew2sqlzjvmvlgj5re2x3vr6py7kmlukr2i3smmnfwoysrm2ujex2zmv3j3h4qu6ii5c2nnsfuyttcljhvgwkvjnhgs5nfskg2jjuru2qluzlfmffwjdszu5jkdevjvno2nieurzovkw5ntrka"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-f1",
+    "channel_name": "Sky Sports F1",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium60/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpauyxlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvospnbtuywstl6ggiusznc6wtdmqnkjkjkm7xjhfcystknrvtjenrrjwq6nkngpi5ds5m5n22y24kzqy5iuotcnv4"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-f1/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuvvcskhhfkl6uj4xdpkrhz4ue7trhz5qunlvquytnhjwsv6wfhlm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpauyxlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvotcmbiu6vkxlfkwkwuwjn5jbd5akfhwth5axjtzbduvlviwldkmnfkuw74oncquy2ulnkihuzsysbiz3js3m5ivax2qpzjktimnugte3dudmrsu42favjmwmtdilfiidjfbushzdffcuf2vctkpkfovcvssl5ifjd4auvhzhh4lu2g2hbmsjrrj2ydkkzqje2s3m53zddeqssh2ti5fqjfu3d25kjifutnikjlgc4etngue5ectlvt2xhdkmjtv3gvetknzoyy"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-football",
+    "channel_name": "Sky Sports Football",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium35/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpa2vkuptvwguy43ssgjuw3gjnle62tkscg2oxkvlno2g72sj5gkvgmnmrkwitcwmkbgtjveu2ve22mnqctvsyszlggv42dcjzlve6cokbvkrkvjvjuw4s2stokizgstkvlgreutvnov3ga"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-football/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjstlnq2stlbnflvks3mrooi5d4qrnh2vqcmmzgvqwc2lrfuy2klj4/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpa2vkuptvwguy43ssgjuw3gjnle62tkscg2oxkvlno2g72sj5gkvgmnkjmvcwszlz4kbi44ngg2veepociixj2mj6gvpkmorrqwjbdir2f2vdmprzuhcz3gkfjewtc2rngyyw3iookffhsokghi5d3wjvhezhk2kzofizfhmfkxlkmmsnhu3keprz7ggtspk5je6ytekzke4y36r6t2tdcnr2h2o3lilvuv4vljtnguwtcvm3aj6t4mrwu2gtmrprnwi2tkkftf2y24u5kew4mqsrg2nj5fj5vhi2c3mjujus43mwkzpfe5vwtkbfeolvkvwxnnle"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-golf",
+    "channel_name": "Sky Sports Golf",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium70/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpbkvj5blw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzifowsulbkvbc2zmz3kutljrwigvevepfrkmtlcj5fvkzlkusqkq6fkvgvgthuorzo3phvbmrfwg2mmucozpes2"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-golf/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtdlnie6zkzkznf22lvtsh2gucqschjfpkljzue2u2okwtjmucxky/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpbkvj5blw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzqu6ycxknmwuvsyl24y3kuqr6qfct3jn5q2m2e7togvwt2wrzqu26unr6hgrivku6q3utvgkjkvix47k6gkgykmp6tizeuokku2ddlrmoiuy2cwjzowfenhknix5dvgski2jiner6avkxs7ljqfiwsmmzlj4u3wswtjlknbjvg2pakskjs2euldjnuuywcymnyyxjvhuwkzbicnqcggmzc5mbjfszk4mfmvnovevgp2be3jvbhibfvbvgii4ukrmfgjpku5vvozq"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-main-event-uk",
+    "channel_name": "Sky Sports Main Event UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://zekonew.kiko2.ru/zeko/premium38/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpejzjfjlnifaxdhlsgig44yvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevknyknkvjucjgtjveoztzdj3cl6gwivlejsku27navcsjbkcoknvhqz3fncle22k3tcuzteteocki4xkvlnov3ga"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-main-event/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjurmjhwsyszlrnfqut5tshi7je6j2vfe7lhlnfu6xdkkfqywvculm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpejzjfjlnifaxdhlsgig44yvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevmfwi7hfgtsukbi44xfggmus4j6tkfddbk2kwrpcmnkhknfdir2fxutcljsjvov2vjsvfmxtcpghwvc3kscvkhfgcloji6yk5mrjwsuditvtxddnbuzgy5e5fvf6fnc4lknqgsw2pkbrvox3ur6izjivbuwii26dem5igcy3jmrhews2oj2ai6uepr2r2iuvfocigtc26kjjz6ttfjvlf7acrsop2njvbrskieudckjkfpdkvjrqvm2fhpbhjau25m5nv3jtqkvjjxkumtkgf2"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-mix",
+    "channel_name": "Sky Sports Mix",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ddy6new.kiko2.ru/ddy6/premium449/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpekje25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnqwpisokfr2oucxmr5e22mnsbvj7h4uygtu6s2lk5hwctmruwt2q6fkvgvgthuorzo3phvbmrfwg2mmucozpes2"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-mix/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsnlbvvewvgkblj2zucjookfjepzkfy26uwofuvcxsnmjufeu3cmi/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olpekje25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfuvgynknbqgq7mprzukrjetnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2kmkzmfuydemjsf4ydwtwt2ktmvscpkk6thnjpvut3imrhv6yvcr6ajfkvbsciz5e4opfuwsusoj5rzwv3kkkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-premier-league-uk",
+    "channel_name": "Sky Sports Premier League UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://dokko1new.kiko2.ru/dokko1/premium130/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olovy3ifiuryezh4jjnfvkykvtwdhtg5xlnoy5d4nucokq2srkfuzfjuyrrjfczlajtcwu2u7vktknksmpfqu5j2zknivpkfhm5n2q35ku2tkutdkrogxa2likjjzxkm6rnveyvtixgpi5ds5m5nv3jtqkvjjxkumtkgf2"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-premier-league/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjunu6q2quvbrnnffc57jsoz6u2ltzhzzpesmgjffivkufmyxju3sa/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olovy3ifiuryezh4jjnfvkykvtwdhtg5xlnoy5d4nucokq2srkfuzfjuyrrjfczlajtcwu2u7tshzzju4pbqwoxuwlzgwcztcuooko35ankveytdkr2tijkksjvkv4zc3rvgwos3kosqi22fhucokfedqu5h2qw2zkbs2gxfitzgh5d5grsji4uvjuf6wa2ulmfsfewdjkws2e2t7r2hkneurusq2i72qlbqe4vtdlbsy62vcj2ajdhmnvgu2dim6ychwstcvm2tgdkdjmvvglbmvroqi5kfcuwqxczknmrnves3fmjrwnikmnrvkjkm7ucjwtkf6kglzxfemtjjvkvtiskj2wxk5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-racing-uk",
+    "channel_name": "Sky Sports Racing UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium554/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olowzzhvevfzj43eeskmjrddhkftuwxtyxkii3j25kvnv242sjngwdjuns5rwms2mm5yje2ngustkutljpvi2mucxljkjo2slkzjwnafikbie62vivkuxvkdcjrqy5deotbsfmz2mvvkvwxk5ta"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-racing/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsvtnye2utingrye2f5jsw3bc4nscp4axd5pvvxxadtkbxg2ukllq/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olowzzhvevfzj43eeskmjrddhkftuwxtyxkii3j25kvnv242sjngwdjuns5lf4zkpmrwkrifdtruy3kuqp5qy3emwkbjzos4ovkkuy5uunchixkunr6hlqtdalrlvuvmxnkugmvlfqrjj4tsrr2hi7jt4j5jjavssnjie7c3inbrxtdetj5g2rd4orz3e6tlgjzjwiydbmbjvutebr6uzjicnsch2i6k7kflexhswufieyzfblnxe7kmot2fu7hetn6iu6t26mrqe2vsrkbjfk4snsctkpj4mnkshsys4kwlfpklbukny3ee3o2qjjds5kvnv2xmi"
+      }
+    ]
+  },
+  {
+    "channel_id": "sky-sports-tennis",
+    "channel_name": "Sky Sports Tennis",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://windnew.kiko2.ru/wind/premium46/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfjwdhmimbuh3d4olox2bknjur7jzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkykplblgovs5u53kjjvkjvuy3edkqjswkymvlrvfctlgmzjzdqlkvcvktktjt2hh5hfdtwjfku3fm6nz7ee3vwma"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/sky-sports-tennis/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsnn6pwuumakjuia7ubushixksmkgr3a3mmlsjgas2qljtgk3lsrm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfjwdhmimbuh3d4olox2bknjur7jzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkucxmjmwiwstmjzzy2mnvkii7icrx6ufwyuvlgtz3c2mkbt2u7ulvkgy7dtir6qhs2dijskvzdlbjnswfhk4xziy5dupu2gjfdwcnbouwtsvvjnwey2ll5k36tnir6hi5jussf2ga2crlzrvkucqjrfvnd33skijbke4u2sza5c5rzjfex3jkzivkudbnj3kfdkotrhkrkfhpzsf4xtbtztvuucrkrmyy54orwugvjfjt6qihkderrn2jgu2tknvas2wpzovkw25lwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "spectrum-sportsnet-lakers",
+    "channel_name": "Spectrum Sportsnet Lakers",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-la-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://nfsnew.kiko2.ru/nfs/premium764/mono.css",
+        "manifest_keys": "",
+        "embed_url": "https://topembed.pw.datakameha.xyz/?p=szo2thdymgqzheeorfpfkxdfmjjhqw5orovi3d4ovfyffh4jj5kvgxdhtogzbg36r6g2bhfixkii2544tgozevdemjvezh4vvb42ddvjucjgtjveoztzdj3cl6gvqvcmrrqew4fiusikqusrj5vhqz3fncle22k3tcuzteteocki4xkvlnov3ga"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/spectrum-sportsnet-lakers/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjuoubhz7hfdsbnkbegdj5kfite6kopka4mqskgz5g22t2syyvm4ru/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpfkxdfmjjhqw5orovi3d4ovfyffh4jj5kvgxdhtogzbg36r6g2bhfixkii2544tgozevdemjvezh4vvbxzzd44u2okrifdnsufc2c3mbj2bjvhkvf2q6smjrvi5c5at2hx2ulevjqvytk4mzgews2rxctzzjvarwhgvc52kftgkz5blgn2itdilrshzeuokku2ddnbu26uwv3dkznwbivinjswctdwski2jiner6izi4tanfjfkx22kzqjaukomf7j3kngtwqkfh5fybrv2zs4j6tfgs2nkbhzc6emr2tkffkqujg32uurjrtwgzszuzfwnflgpgp2be3jvbhjau5nvkpzwwkpl5nzre4zsknyq"
+      }
+    ]
+  },
+  {
+    "channel_id": "spongebob-squarepants",
+    "tvg_id": "",
+    "channel_name": "SpongeBob SquarePants",
+    "channel_logo": "https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/a-f/esports1/logos/Spongebob_US._SL170_FMpng_.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n7vaganwdb/out/v1/d7ab24a6781b4c489d1a06ed57b54a4b/cenc.mpd",
+        "manifest_keys": "60c75395c69c1e1b5155440bbc7c9498:97059dda057be550c8ed9badaf9452a4",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpewz2ujn5xvhk3v2gjbhenubnv2zkrmghizduyjrsweytmvc5jbdnhlvkvxllgjniwaxncs6fwqzk4lo42pjerubuz5iljqjh2kxsxmkfuwvthrnlge73ku6ry22fjushx2z5gnflweu4xk5uves3hp6hgvh44r2rwvidzlotgphlck5hvsz3ejrn3vkuqr5vjctdkt7bf2ymltrf2nh5crzlzyxf7knkj6te4jni2a34rrznzxicxujmkqwclm5xgtkelt5owow25ozqvqtesu2mizjenlcozfpsukcpfcve6jsqlyxemr2nz7jfcvjnvoumqnzke6vctkvkfes6asvnwct44uopvqyvgtogw4u5at5kj3he7tryzlc4sujf2jdc5"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-360",
+    "tvg_id": "Sportsnet.360.ca",
+    "channel_name": "Sportsnet 360",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd",
+        "manifest_keys": "d770eb2ba9b734d1981671030e1abacd:a472809951c88a96b16d1ff1d449257b",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23jziuwxlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvotknbhuxf2utgvixdtcnbzkbdmoncije2elpvrkkxszjnfu2uktkzgko6nar5vkveepnki3zj2rvjqf4vexk5sy5iepxcfy3h3irvujctn2mjqeywexlfli3dndsngx3h3irvukhh3kur4wexcvszlwquuyvgmzezdqsshf2vk3lwpvfquolrn2etsxuvmjbke4mg6fiu2mkfjeys2oxnqzaxssjnmvfic6uwoyxq2lkrkfate6knjwzfmnlop2eve5krp2uterx5ke2ucstvozq"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-east",
+    "channel_name": "Sportsnet East",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-ch-01-prd-r-hd/index.mpd",
+        "manifest_keys": "8e3977c581333101a527776030e5d379:f726e9c49a640e932ec6a92685153772",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23ycoi5d25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhmntf4t4lkkgy3j4tjn5kfienrzujbetipngfxj2pkvlvswlgl5fwdonjuchwvkuqr5viddngjojvy2ssrnofde4nxruixdm7ncgwren5u5nv4ykurnfvfkvjt6vhxdm7ncgwri47nj2gqw3cncnewxswtogzbg3wucki4xkvlnovg4eltcij2tndu2uyzkfbr25uzhcqjvjfeusrxofy6yu3kcuz7imtkooyxqnakspe6ve4kfh3wymyrsre6wnalglkphuvybgfatsskjgv3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-ny",
+    "tvg_id": "SNY:.SportsNet.New.York.(Comcast).us",
+    "channel_name": "SportsNet New York USA",
+    "channel_logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Sportsnet_NY.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/SNY/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmgdxbd23zgqjew5uvj6whh3sqfvzvgu2tnufys3qtsulveenu5ovlk44m5ivyxdjusf2qu2ur242rkurucvktjnkqsuge2cttgexranikjlgc4etngue5ectlvt2xhdkmjtv3gvetknzoyy"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-one",
+    "tvg_id": "Sportsnet.One.ca",
+    "channel_name": "Sportsnet One",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd",
+        "manifest_keys": "ba16fb93934531bf931ae186d73fb2b7:f88ffdfbdd9ab75e8af374c588df6b0b",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23zku2axlhlowuws2ljnfuxb3fjngzfe5llwry7d4lrzkwvotknbhuxf2utgvixdtcnbzkbdmoncije2elpvrkkxszjnfu2uktkzgko6nar5vkveepnki3zj2rvjqf4vexk5sy5iesxcfy3h3irvujctn2mjqeywexlfli3dngsngx3h3irvukhh3kur4wexcvszlwquuyvgmzezdqsshf2vk3lwozzpeqlvn2phm7totjfke7lnyvitsmtsqeyu2rn6hzex2stznj7ic7uguf64m7ugoz7h2utso4fek4svhvfkm7uzoknkevn6qvdhkltvozq"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-ontario",
+    "tvg_id": "Sportsnet.(Ontario).ca",
+    "channel_name": "Sportsnet Ontario",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-02-prd-r-v2/dash-ch-02-prd-r-hd/index.mpd",
+        "manifest_keys": "afe8540f6d4d34529b91a2d30f4f1b77:3ce2343100c5a5c4365bc3e4c33bb473",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23zkuy7henur5jzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkwcpmbk2uvmtrw6wrdnkukqi3dtiqbh2itlckche2t26jzhwnbnat5u2tiepnkviauvgj6pzs2uznjfvlfk4onuewtlirogz62d5vfgyxfkqk5nvfksylcvlwtlirogz62ennbzwfjtgkzifgzumnjuuzg5xlno2nieurzovlk44mbpuxjfdukvf7i2msfxu4t2qjvkj2vcmnsgfxdfakksfbkk3usozhpu6ubgu4t2ojrf3ww4ml2nu3je3usjfoummobhz4tsotwou6uv6trka"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-pacific",
+    "channel_name": "Sportsnet Pacific",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-pacific-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-04-prd-r-v2/dash-ch-04-prd-r-hd/index.mpd",
+        "manifest_keys": "e2a52d3064c138ce9f5f65a9b40376ef:8331044e3361ad7e09d3a9474edb88d2",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23vooj5jfburxjzi45sjowixcvlzhikut5u5ovkw25uohy662ltgujkwcpmbk2uvmtrw6wrdnkukqi3dtiqbh2itlckche2t26jzhwnbnat5u2tiepnkviauvgj6pzs2uznjfvlfk4onuewt3irogz62d5vfgyxfkqk5nvfksylcvlwt3irogz62ennbzwfjtgkzifgzumnjuuzg5xlno2nieurzovlk44lsfu7h5kkkty3i44ls6e4u46ubkkcufbygiwbfssucujxi4pkzhjhq2ojzgewt2pubhl5eeqlzgkcu46ufq2qt4wx5je7ie7tvjvhh55trka"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-west",
+    "tvg_id": "Sportsnet.(West).-.Satellite/Digital.ca",
+    "channel_name": "Sportsnet West",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-03-prd-r-v2/dash-ch-03-prd-r-hd/index.mpd",
+        "manifest_keys": "0b0e105850f83460857d2b93a0311054:035ad3a787a568f6f0993f8683156704",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23wkqi5d25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhmntf4t4lkkgy3j4tjn5kfienrzujbetipngfxj2pkvlvswlgl5fwdonjuchwvkuqr5viddngjojvy2ssrnofde4nxzuixdm7ncgwren5u5nv4ykurnfvfkvjugvhxdm7ncgwri47nj2gqw3cncnewxswtogzbg3wucki4xkvlnouw3molshkbh5augvf7inbshauwu2qkkpu3hkuxzoy7de7toukdjutvgqze3e7j2ofeu2strimdfs5r5hjzh5fu5p2dhuvxzgfauksjnhv3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportsnet-world",
+    "tvg_id": "Sportsnet.World.ca",
+    "channel_name": "Sportsnet World",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd",
+        "manifest_keys": "a5dd62014be436a7bc25e7a1d1f3ae88:7c90ca01dc68c7ef54fc9a5326f91987",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fmftxbd23wkvi3j47lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzuvoysttflkvkncvj62vivarwhgreesxbhfcymwjniu2tk6kjvge33jvgqi62vksch3uueqvbrjo2c4k2ufqwfkxnjgrc4nt5ui22ebrstgct25kcmvozmoucilrc4nt5ui22fdt65gkzlbjnsi4wlkmglzjhnnu2qjjds5kvnv23erlnqz5hvitwtfwvu4rtazyuu5tzgvbicsnsgvxdsotvlvdiuvt6ovzrclt2oewte7tzi4gw4omjhj7jcqk6lfvg4mxvi2cvcmkrjvexmi"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportv-br",
+    "channel_name": "SporTV BR",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/b/b5/SporTV_2021.svg",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "manifest_keys": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews4fp2ou3lk5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkvkhy63nimntf4t4ojnkkozc5u5wkjelit2p2s2njobjkm2kyl2fvqukrm5k2q55esgqgvh44r2r3uylflskvpjksmvhuwwmlnwigvkuqr5vjctf2mkif4tfct6o2tfkxtoh36usojnkj2tfatxbizeemj5jfmusyrrkzkxdqvgpgtkelt5owpk44njrgoxm2usnjxjkslnxkdikojvjvjh2pychwdekmkcrvewdbkwri5pknjsp2ave4kwpl7fmpr5jkgv5fkskvktc6x2pewusnkcoz7h3nszrjdj5buwn2pg26"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportv2-br",
+    "channel_name": "SporTV2 BR",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/9/9f/SporTV2_2021.svg",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+        "manifest_keys": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews4fp2f2xpnnlvtvwxmor56wcydkqvpwuwuysomzezl7r6fy4vlknkvi673buvuvoysttblv7c25kc4zzjerncpj7kljpfquxkcnlzrzstdgmvrgrovhusi2a2u6u6sha2cljskvav23kkufmvs4xkpy5hcouojjbi3prwtgqw3arvqktkfdughg2t2ttzjz6vfats7yxdtcvco2rjkwrznjyw6akcoj5ifbkbvj44dimktvgxcurshj3f2zmkci4xkvlnou5h5axogjoyspkjnjwwellbhv64natzfu5hnajsplyw4xr2ue5kneujpvotdbyoofjhfakfje6u6bswgvwuu3vfi2lenekjn3wvcougpf3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "sportdigital-fussball-de",
+    "channel_name": "Sportdigital FUSSBALL DE",
+    "channel_logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "manifest_keys": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeorfpews3fjrthfjeptstvxqnqvzphzaejosghi4myvgmzetd7rwqjzkf2scg2plmut6nvqydelztzhdevnb7y7hlju6sjdidjnzqkkuc5tjlvkzfklbggponjuchwvimntruhszkljnkzstcvmrriyuljosqktd4onkpzzdttu5ogoumznfnvmystm5sxnjunnkvjbd3ksg6koys7ucn2vjnklrlz2x6bj5ie2ue5t6qvhqmnrsk2as5itwsfywvivbxkbkm6nguixh25w6pkczclmnuyzie5s6qf432pjnjuxhu7ugq4gw4nrvjjxku3u5n2piunynjkcs45jzhuwvn5s2gf7h46t5f2kysyj6g3zh47jnjzyue7kbwi3c26jsskrhkxswlwg"
+      }
+    ]
+  },
+  {
+    "channel_id": "tbs-usa",
+    "tvg_id": "TBS.-.East.us",
+    "channel_name": "TBS USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://mocef38798-fl.hf.space/tbs-east-usa/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqrwiphmgqf7k2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvkfkt2qkdpuwr2lkrf2wlkggku4wjr5zzhvankhz3dtioboveumtl5uu3c3gjnggfa3jvbhjau25m5n22y24kzqy5iuotcnv4"
+      }
+    ]
+  },
+  {
+    "channel_id": "tennis-channel",
+    "tvg_id": "",
+    "channel_name": "Tennis Channel",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqriuyz2smgou5i44vgu2bj25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlvuz7gslk5sgetcwmn5ji2m6vkugvl6algeiq3efnvyg23ehoz2kq5fjt6qjg2nij2imhhfdtwjfku3fm6nz7ee3vwma"
+      },
+      {
+        "manifest_url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqriuyz2smgou5i44vgu2bj25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhjnrfmwsplnlwkwswm5yko2fevghwrdu4pbfuyz2nl5izqwlkljgwnompsfvixj44sstxis2lu5jz2y5gtcuzteteocki4xkvlnov3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "tnt-sports-1-uk",
+    "tvg_id": "TNT.Sports.1.HD.uk",
+    "channel_name": "TNT Sports 1 UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "manifest_keys": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr4inhmimbuh3d4olngfxmgglw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzufyyc2tbhgmy2lu5xkc2mssjuzzjerxbnvwz4wljjwfc3jkfrku6ner6g2u2vhusixbj23lzqvjdkrjroiyxk7yoii5hfckbgka2t2kff2qxu3rvgfndcxubol4tcpugq2ct45tw6f2ymrt2r2tg5fsvj2cxdpjwpu42u6ucuz5oljj5qzfgeyrrhweytbtpcvwxm7joqu3icqn2fzqyu5trmz3is7u6tvw4kskjjfcu44jsog7fuyl2vfbjvguwgfrg4oogpkctsstrgfgvf3sfoy3hu4t6s2hc5iu6jg6us5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "tnt-sports-2-uk",
+    "tvg_id": "TNT.Sports.2.HD.uk",
+    "channel_name": "TNT Sports 2 UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+        "manifest_keys": "9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr4inhmimbuh3d4olngvxmgglw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzufyyc2tbhgmy2lu5xkc2mssjuzzjerxbnvwz4wljjwfc3jkfrku6ner6g2u2vhusixbj23lzqvjdkrjroiytunpsi2ndmntrj2k2t2kff2qxu3rvikex22t6ihcs2tkjifct5bkc6f2yerjspvth5krvluxen6ucpe62u6ucuz5oljj5qzfgeyrrhweytbtpcvwxkuufiezikon5ny3de7tvluxis3lcpi7q5ajwpvjh2mtzf36ys5l2vkdjcmk6h2qs4snrgfitspkbhzyvf4lnqjdj5at6p2kykxugghcvc5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "tnt-sports-3-uk",
+    "tvg_id": "TNT.Sports.3.HD.uk",
+    "channel_name": "TNT Sports 3 UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+        "manifest_keys": "a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr4inhmimbuh3d4olnhfxmgglw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzufyyc2tbhgmy2lu5xkc2mssjuzzjerxbnvwz4wljjwfc3jkfrku6ner6g2u2vhusixbj23lzqvjdkrjroiyvcmn6oi5hmruktzc2t2kff2qxu3rvgfrevfvbpl4uknkgpj6t2sjpbv2xk3kkr2itnfsvkz3dtpt2qfi2u6ucuz5oljj5qzfgeyrrhweytbtpcvwxm4krhj4te6nvqfwxcrkcvjxkemvbjf43smjzie6s46kfkl4ymol6vj4vvalfn2os4pyfke5ie5knhvfidrmcjfzj2qk6tfjfsvuchhdhs5ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "tnt-sports-4-uk",
+    "tvg_id": "TNT.Sports.4.HD.uk",
+    "channel_name": "TNT Sports 4 UK",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-4-uk.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "manifest_keys": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr4inhmimbuh3d4olnhvxmgglw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzufyyc2tbhgmy2lu5xkc2mssjuzzjerxbnvwz4wljjwfc3jkfrku6ner6g2u2vhusixbj23lzqvjdkrjroiyv4lpopkldkproqfa2t2kff2qxu3rws2tc2wu5qw2ucrt5jfat2ljzwzmyewj5g2qtndr2rj7dv3ufhfc2u6ucuz5oljj5qzfgeyrrhweytbtpcvwxkmkrgz2tcmxsivwxvauct2diuslcozbpkljnge2u2qj5khaydar2vkfknckwhkss27obhzzhm5tvge7hlqskhy2t45lffvqxsyucf4au25ta"
+      }
+    ]
+  },
+  {
+    "channel_id": "tnt-usa",
+    "tvg_id": "TNT.-.Eastern.Feed.us",
+    "channel_name": "TNT USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://mocef38798-fl.hf.space/tnt-east-usa/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr4inhmgqf7k2z23lwhi7dnatr4hotclkshkfduymvsvytl6kvvgvkfkt2qkdpuwr2lkrf2wlkggku4wjr5zzhvankh2td3ioboveumtl5uu3c3gjnggfa3jvbhjau25m5n22y24kzqy5iuotcnv4"
+      }
+    ]
+  },
+  {
+    "channel_id": "trutv-usa",
+    "tvg_id": "truTV.USA.-.Eastern.us",
+    "channel_name": "truTV USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://mocef38798-fl.hf.space/trutv-east-usa/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeomrogk4mdsbzf5pc5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkvcvj44daskkz3i5atfkgtc2yl64y5c44t2qgvd4nqbje3ksljnuwfdksnbh2q5fjt6qjg2nij2imhhfdtwjfku3fm6nz7ee3vwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "tsn-1",
+    "tvg_id": "TSN1.ca",
+    "channel_name": "TSN1",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+        "manifest_keys": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr5wzduxsso23duprwqjzkf2sb6wvimtschfaytgjvukvkf2vkhy7idju6sjc4filvuwpgtfl6gf4us6vjxj7kljvgqi62uln5lkiz2xmbvfpc3jkjpgfou6u6skbkmprzvg6xksmwku6tslrnjkvhelpoqyxd4ovbvkved7u5gy5fm3lfgvtdcxujqxdhcuubhu6u47knyzbeelucrvuusulsve6xdptzvj5ifjtzu2q63cuguzbdsrkfquzf5ktwwvficuksqvetspykjjoynauoqewwc7lkrf7qu5t6qfiuktt6p37euzs2ue6v5avkk2cummxvgu3icutsozziobrvojfinbucpkmyndkfok3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "tsn-2",
+    "tvg_id": "TSN2.ca",
+    "channel_name": "TSN2",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+        "manifest_keys": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr5wzc4xsso23duprwqjzkf2sb6wvimtschfaytgjvukvkf2vkhy7idju6sjc4filvuwpgtfl6gf4us6vjxj7kljvgqi62uln5lkiz2xmbvfpc3jkjpgfou6u6skbkmprzvg6xksmwku6tslrnh2mxuwqsq2suknurvkved7u5gy5fm4t6s2syviufq3wve7trhvdhknkpai6xk4kgskjikwlorjwxf7jnvj5ifjtzu2q63cuguzbdsrkfquzf5ktwwu4uknjvfu3ifaofnyyynhj6sjyvlclcpjdqclkrkfhhu6ubkhbfuzs2o2ivcqkzq2nimoyni2bhsqknjj6vf7rzoi2usqu5i2qysytsf23ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "tsn-3",
+    "tvg_id": "TSN3.ca",
+    "channel_name": "TSN3",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
+        "manifest_keys": "d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr5wzdexsso23duprwqjzkf2sb6wvimtschfaytgjvukvkf2vkhy7idju6sjc4filvuwpgtfl6gf4us6vjxj7kljvgqi62uln5lkiz2xmbvfpc3jkjpgfou6u6skbkmprzvg6xksmwku6tslrnvgoyleqshjdkupsnvkved7u5gy5fklksq2ffvdt5nw6u5bt5hvhh2nks7zexert2nvthvhsfl2rfv4j5vj5ifjtzu2q63cuguzbdsrkfquzf5ktwwz6vclkrjjyte5yjri7eksugs2njc3u6tv7pm5joqeyucqjzgmcyuzroo2hjvfuvrfos4nogouzhm6kbjfguv7rsivxhsouosvoyvbj6k23ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "tsn-4",
+    "tvg_id": "TSN4.ca",
+    "channel_name": "TSN4",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
+        "manifest_keys": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr5wzemxsso23duprwqjzkf2sb6wvimtschfaytgjvukvkf2vkhy7idju6sjc4filvuwpgtfl6gf4us6vjxj7kljvgqi62uln5lkiz2xmbvfpc3jkjpgfou6u6skbkmprzvg6xksmwku6tslrntgoxc7n6hi3jcmj5vkved7u5gy5fm3u2q2tc5bkgglyt5akrhu7im4ts7gfduwjon2rh5bscsvfdf5jzvj5ifjtzu2q63cuguzbdsrkfquzf5ktww2ate4trhz4t47nrqi3c5ctzlz5js7urhwfq2ljrhewt2ukcqgzdmzrspu4wu5kvrket4vn5fvgu5bkfgz2s54r2jjfg44lgn2vdvftslk3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "tsn-5",
+    "tvg_id": "TSN5.ca",
+    "channel_name": "TSN5",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-hd-ca.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd",
+        "manifest_keys": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqr5wzeuxsso23duprwqjzkf2sb6wvimtschfaytgjvukvkf2vkhy7idju6sjc4filvuwpgtfl6gf4us6vjxj7kljvgqi62uln5lkiz2xmbvfpc3jkjpgfou6u6skbkmprzvg6xksmwku6tslrnvgkxdaongj4t5aurvkved7u5gy5fndlff2jd5fkkhl6uksj5h2atm5ts6yxd4ptzfvphvgsvle4w3okbvj5ifjtzu2q63cuguzbdsrkfquzf5ktwwvhhvajvf2atm4x5ojeykmtssfdks6unfzfp2rksovfhu5j5jg2ymzr2pj2wm3vcgfphusn5fvavcstvge5in3rohi7he3kzjkjecxt5rk3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "ufc-plus",
+    "channel_name": "UFC Plus",
+    "channel_logo": "https://iili.io/KWCPXBS.png",
+    "streams": [
+      {
+        "manifest_url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+        "manifest_keys": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqnyhphmjkrjh4xlhlnoy5d4nubwgs5ssmjmjvje2tnivyul3rzkwu2vkr6hz3olknbhuxgszkcgfazewlz2jc2e6t6uwtknap6twgzlcs5hfkzsljskws5erubvj5j5eucux6s5gmfhv2uexkvtvrfmvpcjzfjnjungy7if2m5gfdflcu6l2pevdtwg36usukgpexhsptvygff4oj2rkks2wrstj7flpjopfhhdkt2qks3vimrguzdumr2mgivthjswvkw25trhvis2tybqjoykpt5j2bjk6kopwe4nbuff2bh44tzj35dtbrzhknjfauwlfoumsyoofgue6jniu3if6mboi2um4vgsvtenftzpxat2slwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "usa-network-east",
+    "tvg_id": "USA.Network.-.Eastern.Feed.us",
+    "channel_name": "USA Network",
+    "channel_logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqn5xthlljniyfkunuzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvkc54nuvvfkystk5gggtdhu5xkvkdkwcxlzowjkbzg5cecowgvktdbkzuko6cosbjv2z23lwthavkstovizgumlu"
+      },
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/usa-network/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjsnmjmvuvkmmzlvkxgcu6h2jfnaukqjdaclj5uwcycxjnhgutksjm/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqn5xthlljniyfkunuzowow25rz7uyxc6koewgxcotopzbg3tr6hyxdsvnjvj63csmbse6v2tkzm2oz2vkj72aukpngp2a2vkxsg2mutbjofvqvkrmrkuw5tkrnvjbkvdsrjg5c4njrqwauk5mngkivs7pwq2mtmosos2tdedskiwuxc5nfjwgt2sjzth7emuukq2ldvjvb2wstkslzkuwwlanfrvsvlst2ifdi2nuwq2s3crnjhfuucxjnhghjs3kbxjjhutuwu2hiuqp5rvey2ttfhvqvtcmglgvpuqknowow25u2qiis5bsoii5gtj"
+      }
+    ]
+  },
+  {
+    "channel_id": "willow-cricket",
+    "tvg_id": "Willow.Cricket.HDTV.(WILLOWHD).us",
+    "channel_name": "Willow Cricket",
+    "channel_logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png",
+    "streams": [
+      {
+        "manifest_url": "https://datakameha.route64.de/o11/willow-cricket/p/uohy7c36sstkqws7nfrfk2sxjnqx42mtsskwvifitvygfjtbugpfjhkvswrj3fwbtwpexifakoo2dpc5sghj4ts2tnkf5j2pmi/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqvku42kmlwou5dnet2tkbd25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlnpfys2rjvgweukpu562veepubiu62m7octwndu7tfsvkttjjro2u3unuspkniepnkf3uulgmvt2cwm3urggqxdepsji4uvjugg2djv5jnlwgvs3mcrkq2tfmfghneurusq2jd4rsrzga2krkjpvkxsumnivst36skg2ktvbskoy7asolrkvousxknfwrj2mjvxfbdvcuosu7d4oxvjgkzcot5jjy2tkkkkwm6m7ucjwtkcosbj23ku7tnmu6x23tcjzteu3ra"
+      },
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqvku42kmlwou5dnet2tkbd25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhlvuz7gslk5sgetcwmn5ji2m6vkugvmwek6fim4efnwfhk54eoz6kq5fjt6qjg2nij2imhhfdtwjfku3fm6nz7ee3vwma"
+      }
+    ]
+  },
+  {
+    "channel_id": "willow-tv",
+    "channel_name": "Willow TV",
+    "channel_logo": "https://iili.io/3PxYFXp.png",
+    "streams": [
+      {
+        "manifest_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+        "manifest_keys": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqvku42kmlwov7mk5m5nv3duprvyf2zdylnpezdfatwlvqul7rohfk2tkvkhy64fimntf4t4okbhfnc25kc4zzjerncpj7kljpfquxkcxjnkjstdgmvrgrovhusi2a2u6u6sha2cljskvav23kkufmvs4xkqvcs5grsqi5edzj6tgqw3arvqktkc2tsgmbie7kkoews5bks7y6w3ckkqktifblosz4yodufg2dhksjnvj44dimktvgxcurshj3f2zmkci4xkvlnouyussyrnzdecsunkj5i4qlkqvw3cltzkj5hsmtwo4ixmysfjkgvvek5okmuk7x2ovevcnkoqz2vdqrzqi4s2puzg2ew5gt2hxcs44koqf3ga"
+      }
+    ]
+  },
+  {
+    "channel_id": "yes-network-usa",
+    "channel_name": "Yes Network USA",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/yes-network-us.png",
+    "streams": [
+      {
+        "manifest_url": "https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8",
+        "manifest_keys": "",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeop5iwphlljniyfkunuzn3blv4lw3z5ikmlrpfgtknpbtge2nnkvnv3i4pr6fy5rnhuzpvjg4olffu6vsvm522vfdjt2vkq2vukbvxnb3lqccxpceerrlwo35asnu2qtuqkno3phvbmrfwg2mmucozpes2"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-2-nl",
+    "tvg_id": "Ziggo.Sport.2.nl",
+    "channel_name": "Ziggo Sport 2 NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "manifest_keys": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5nu2w6jy6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufgs2vt2t2ozk6kw4yxdm7nghzc2nkn5svw2ewljgjoy3furhjdqcptzhvdd4sjvi4ddmqscukjjehrwhkfhmlyngfitsmkfvkxr27octjlhuzvkoknkfiukf3ytkpjrifcs3kj26yzeeltsn2hifku5hgayoktspj5kuqvgh2i6lam2ngm2ugtsgi2w3vmvgezp6bj6hjdsvvpnhiuvkss5sjs3damspzdp46t2qe6t2mjvgg5eesroukav43u5q2nhesxzhvitvakcpfhgn4o56wuvc7un7fkt3ron3htqfeks23vq5tjvzgpct6jsoim5uhkjqyvct2ysplzm46tsjljal7sbveww3vl2ugfcvcqzw2hjmrunjkaucuochv3d2mkkuvfjmqkoriy3cojvfu2t44t5i4eyepl6p2gvclubzik4njvvtvwxngucki4xoft2qyyuksk6tkjc5gj2h4as2pjni2bhnbkfwjew4ojnf2lg5dl6tj3c6fjnie4t5akjhve3upr5n2divejvmzbj47rvyezhnbjzgfite7oghkcwq"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-3-nl",
+    "tvg_id": "Ziggo.Sport.3.nl",
+    "channel_name": "Ziggo Sport 3 NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-3-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+        "manifest_keys": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548c",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5nu4w6jy6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufgs2vt2ukozk6kw4yxdm7nghzc2nkn5svw2ewljgjoy3furhjdqcptzhvdd4sj5f4femmr6ozzjmhrwgkdh4qxzjuytcmnkv4pl3bu6ly7fm6vkrixdfhukhl2t2mkbgey2sojw6y3emrt6p2phmmnjuuzgdmt2pkvefjr6sks4lhsrlwnavktcvfoyt6m25z7sftj6sj5ssqkzozqyvhtzzx2vdaugui5pnajspeys2pj6q4eyusskozzjvau2ikos4mocqfivfaufhzstlpnsazm24xmzzgm2d2kj3hotcrktdz3hwfrobxcxtqpz3gitcvoj6ia2ltykq4tmfbu6f2halkngeffh4gjv2wkylckjik7ngcksgj5hu6nrqiyxe3j2tkdjk3koozfo2pucpvfie6kcolyys3sct2ivveqvyxrfe3w5nv3jvasshf2vnltsfwcuspk6rfrevet6ggyt44trgjzicots6zdc4rkfikhhfil5mj3e3mknhe2tvatrkfi3mmloh2fhfijwtjkvu7lnxe2usojvgz6ucpynn2cwq"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-4-nl",
+    "tvg_id": "Ziggo.Sport.4.nl",
+    "channel_name": "Ziggo Sport 4 NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-4-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7Eu0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481%7E-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013557%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013557%2C3103_SP1T%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205757900&RTS=1717205758&from=11&hms_devid=538&online=1717205758&mag_hms=538",
+        "manifest_keys": "b5c04cfb6da84104ba5bbe51cd065b12:d96561be4819d3ed4e5f4f54015baaca",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5nu6w6jy6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufgs2vt2u2ozk6kw4yxdm7nghzc2nkn5svw2ewljgjoy3furhjdqcptzhvdd4skbg35eeyrsoj7jmhvgk2tkemx5hu2u2unkv4pl3bu6ly7fm6vkrixdfhukhl2t2mkfie22sojw6y3emrt6rkhhemnjuuzgefvku2bkvbughka74zr6puyt3gknme22fdr24fes2ljnqy5ienqfsweys4mnufdhmosnlvy65et5mfgulbtspg4z2mm5ogax26kwnkvdtjosukjd5bu6ijgwfyrwowsv2xj5rfmuthuovlyympucuzzkmpyrxzteuoucozmtkxlrgfwz37usu2dksymbjmbmepprx2fgvisgryezvamnwmhl44jpek7snsxslew64blsaf7kl6kwoja4kojrgfiue5ubimffs4mkp2fkkru6ivvj3cybiffh2pknggausqvffyew32ursxdenerki4jj54xktzhmmsjz6yzdklnnziwulrrkhjzb5ywsw33l5jxws3g4ecmoe2cy2nnvlxzcd4l5zu4ukstwuktrnbockzfc46ucukfjk6kwtzbq2sj5gu2tspksqxcymmszi2au44ksrki24cqoh4jknbvjik3kv6obhu27ktqnqwoy5hk5gxxdfqvotkyycox6yiw64rj6pfjhcxsvmexdv6j2qu6tsljviz7o3bskhffjfktrmjljm5sgye5pcnjngu6s2rxogy7dvbt6rz7fmmpj5xcttajw7eys2ljnglxdusrsrkhku4vcrko4mvyjuu2tcnnfge6s5zrwhi5c46pgokvc5fuch3wtcljrhfaucsmc6xxeuoucox264kr2cyxc2ojrfuws2mjnfu5pumtcf2fhuttr32vkulrnhewycnxzggatn6wcgifivcnwvjdkd4vcpy3pv2v2f2vdmpjrql2644rnyy7ktlvcrko4moxnfuws2lj5hu6t57rohyzc46pgpjlc3yt6g3ws2ljngvas2qjo6zddfcujww44tvknwgyyf5zgx3itwisxajewcurcfxmztll5wgg3s5q5p3iycox5qe3ptaxv5zzc3rt6jzy54os2rhyugjx5q4fee4rwpva2dcoftvyu5jvcpxzi4oyjgfetklkbjfauwer2hz7auargu2tefktwf3wucskbjwdimnvj4jteeorzkeww33mflf4ztplbie4u3bvku2o5dilsnj7inht6ui3ju5slbwdke4uk5khkeozcizffmstcmiyt3cmjqzxrk3lwovbhslj6phcxenmfh2jje5vkivot4snwo2aucmt2puwuoalsiixksqt6qkld5kkjrl6u2mkspu5ie7j5yjcxmrj2p2jhvjsjlu6xtotrozq"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-5-nl",
+    "tvg_id": "Ziggo.Sport.5.nl",
+    "channel_name": "Ziggo Sport 5 NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-5-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,",
+        "manifest_keys": "3fb40d85724942f994d86943f48021db:a6da8742502c8a2153067f5f2a70fb02",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5nvaw6jy6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufgs2vt2tkozk6kw4yxdm7nghzc2nkn5svw2ewljgjoy3furhjdqcptzhvdd4skni4bemxr6uj5h4hrwk2vj4vxvge2vcnnkv4pl3bu6ly7fm6vkrixdfhukhl2t2mkfgew2sojw6y3emrt6rkphumnjuuzgdmt2pkvefjr6sks4lhsrlwnavktcvfo3lwns62xpokkchzji4lybkja3klujwuy6d6uniwdqu4j6qj4tsqtzh37fmrr2pkcwvfu6ikgs4pn6q2ctkujzgztplfj6iwc235obpy3bvkqbxe5qndksrmfe56zcauzcegnjiwwuubpzlkpdn3rssvhj2rtsvlgydwtbpfqy4kubyzm5t3q2affkn7vvh2ct2tyohy3du3jwqjwvk6urhzk3vaubiz7h2ojzgl5d3csffu4u5eqvyxrfe3w5nv3jvasshf2vnltsjf6uvavbjkfeveuki4it2nufkfit47kpazlc4mj2qkbhvirzkvfe3mkgpzyu2sj5gvbo4mmkku7hvhugty3i45l7akctm4kjf2dhklxwofi"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-6-nl",
+    "tvg_id": "Ziggo.Sport.6.nl",
+    "channel_name": "Ziggo Sport 6 NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-6-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,",
+        "manifest_keys": "1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5nvcw6jy6w2vh43mfqguukznj6fws3xlvkvwxndr6hyw7uuu2ufgs2vt2t2ozk6kw4yxdm7nghzc2nkn5svw2ewljgjoy3furhjdqcptzhvdd4sjrf33eupr2t2jjnfpoiknhmpynivgukrnkv4pl3bu6ly7fm6vkrixdfhukhl2t2mkbguy2sojw6y3emrt6p2vhmmnjuuzgdmt2pkvefjr6sks4lhsrlwnavktcvfpbucm5h3vhfbscvi5mwdof2yzcdllofim22qknhy3pe6kooj4ucrt2q37emqrzge7knfk6fvrhc6x2pjzhknkjjztjdbk2fggutak2ofgvl4jr3fddgenciy6uf6j5hfdet4owbxivealzsj47dku3fe3l2nskue5o3ajzuj6tleokuwaz4fmk62xdncv6ru6u2tyghwfde7ugsvbj24vcojlp2njnheyuknj2pg3dc4rwpe3h5eqvyxrfe3w5nv3jvasshf2vnltsif5icskzg2ldfhj5pl2t2uknhvis2tjxawdek7tzf2th2usbmkpe3mkopkbhsnkkoz5qtcroikphe7josvxkkmsvyu6usotvhu5ictn6ofi"
+      }
+    ]
+  },
+  {
+    "channel_id": "ziggo-sport-nl",
+    "tvg_id": "Ziggo.Sport.nl",
+    "channel_name": "Ziggo Sport NL",
+    "channel_logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-nl.png",
+    "streams": [
+      {
+        "manifest_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+        "manifest_keys": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+        "embed_url": "https://bloodstone-welcomer.pages.dev/simple.html?p=szo2thdymgqzheeoqjkvgycmsbwhxkunr5n4tr25m6vzyusrmjhvowl3kjtvjg6flno2hd4prohflovhmrpe3hfjtbte6ymwjv6z62mpsfu2vh5en5t2kz2utfsvni27uwnzc3spkghzeusqjri4hdmxswczpju4uof2fkenynjwvk6hv6ywuu6bu6iyxhezvgokrdvhtshmavclnjhe2tkmjw7y3dewucnewxswtbpvkz3qvkq2ddvar5mexmlclrhvsttilooy5du5rw5uwymoucgzdje6objfqtklu6tzauk4nflwdsctkfqzzhu6vkihsuslkzqe7g45sruveu3gp6q2peetlbueyylxmvsgmxcqmnoj3kvkrzixbkm4vgh4jh2yj26i5eu7j5gvsv3fm5svoz3rvjmgauwambjmaymmuwgyxiltlvmfy2d2mvvklmcqxzkl3hvvn2kyzfslrfsu2vmruvjjdq2rkkou4t2mkkogzd4nlonvawu4kzpkpic7obhvdhtaklamnnmfojxgg4vem5zksu2vjvnvljnnvoy4prntnb7xbd2ok55j67dyqv4ikzt6udbi3dviv6xk25ler6hvk4lumjzws2mbpro4fsusyfhfctkrnzqi7fm3jwukmvunu6ofzqvaj6ojzim6jrjw5c4rsgojze47owbgcxegpgq2uufnvjhldc33n5uhew25kkofctljl5zfxjvmmbhl6ycox67v3elbujg2as2vr2ukcx57jzfu2um7joqe5pc4s6f2etvaukrzdfvbp26uwtkpjniuwtclxsgjpc5hr6uw3blrpcfywtsmjnfuwtcljnhl5deyrorj5e44o6k2jfulxrgwstcpjnuuyuv4ugixziu4vkrkvd5jt6g3ytktjvkgatn6j26i5etyqf6ko64vrn4j7dn3jngews2ojzgvjpmmsgrke3mltwkyw6fauk634tdajw7gatn6wcgifc4ltz4zxkmnvccwy65krwhuyycnxzql2644rnyz5e44o6hktienxnfu6t2pj5hu4s56ugixziepvjv2tdnjucg3wtkqjniewtkqkcyizauhnrxwe53wmctxm4lej3ejlqeszck4jpmilgff26sspfrypbmhuk7l6ycnxzqe3ptaxv5yzivcnwtzdkd4oz3idmocscoi3h6avgpf6vkpmkrz5ft4qzwj5h4qxrje2s2qjzfviylrjrtgvi43u6ife2tiqvqxbenet5meys2lkoywozljk5nfhknjscvj3c53kbhewvdbvcoke2tgmrgkhg5it2rktke7r23u4s2qmg5fqtcsxshzddm3twvjzjelvkjktk25u2qjjds5kvn22yk5rsoewu5fvfn2ktulx5gfbictj5hfjhn5lvny5ie7kop2nfnbvkf36tsnj5jz6u47uc6gaxmvkgqvtincsblexc53kbje4tcskbgu5lkz"
+      }
+    ]
+  }
+]
