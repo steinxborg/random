@@ -1,0 +1,852 @@
+[
+    {
+        "name": "TNT Sports 1 UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+        "stream_id": "tnt-sports-1-uk",
+        "event_name": "Australia - A-League : Melbourne City vs Macarthur",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T08:15:00+00:00",
+        "et_time": "12/23/25 3:15 AM",
+        "ph_time": "12/23/25 4:15 PM"
+    },
+    {
+        "name": "Sky Sport 2 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-2-nz.png",
+        "stream_id": "sky-sport-2-nz",
+        "event_name": "Australia - A-League : Melbourne City vs Macarthur",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T08:15:00+00:00",
+        "et_time": "12/23/25 3:15 AM",
+        "ph_time": "12/23/25 4:15 PM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Congo DR vs Benin",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T12:30:00+00:00",
+        "et_time": "12/23/25 7:30 AM",
+        "ph_time": "12/23/25 8:30 PM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Congo DR vs Benin",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T12:30:00+00:00",
+        "et_time": "12/23/25 7:30 AM",
+        "ph_time": "12/23/25 8:30 PM"
+    },
+    {
+        "name": "Astro Grandstand",
+        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",
+        "stream_id": "astro-grandstand-my",
+        "event_name": "Asia - AFC Champions League Elite : Al Sadd vs Shabab Al Ahli",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T16:00:00+00:00",
+        "et_time": "12/23/25 11:00 AM",
+        "ph_time": "12/24/25 12:00 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Senegal vs Botswana",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T15:00:00+00:00",
+        "et_time": "12/23/25 10:00 AM",
+        "ph_time": "12/23/25 11:00 PM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Senegal vs Botswana",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T15:00:00+00:00",
+        "et_time": "12/23/25 10:00 AM",
+        "ph_time": "12/23/25 11:00 PM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Nigeria vs Tanzania",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T17:30:00+00:00",
+        "et_time": "12/23/25 12:30 PM",
+        "ph_time": "12/24/25 1:30 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Nigeria vs Tanzania",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T17:30:00+00:00",
+        "et_time": "12/23/25 12:30 PM",
+        "ph_time": "12/24/25 1:30 AM"
+    },
+    {
+        "name": "Sky Sports Main Event UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",
+        "stream_id": "sky-sports-main-event-uk",
+        "event_name": "England - League Cup : Arsenal vs Crystal Palace",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "Astro Football",
+        "logo": "https://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png",
+        "stream_id": "astro-football-my",
+        "event_name": "England - League Cup : Arsenal vs Crystal Palace",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "Astro Grandstand",
+        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",
+        "stream_id": "astro-grandstand-my",
+        "event_name": "England - League Cup : Arsenal vs Crystal Palace",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "Sky Sport Top Event DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png",
+        "stream_id": "sky-sport-top-event-de",
+        "event_name": "England - League Cup : Arsenal vs Crystal Palace",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "ESPN Brazil",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
+        "stream_id": "espn-1-br",
+        "event_name": "England - League Cup : Arsenal vs Crystal Palace",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Tunisia vs Uganda",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Tunisia vs Uganda",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:00:00+00:00",
+        "et_time": "12/23/25 3:00 PM",
+        "ph_time": "12/24/25 4:00 AM"
+    },
+    {
+        "name": "Ziggo Sport 2 NL",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/ziggo-sport-2-nl.png",
+        "stream_id": "ziggo-sport-2-nl",
+        "event_name": "Portugal - Primeira Liga : Vitória Guimarães vs Sporting CP",
+        "category": "SOCCER",
+        "utc_time": "2025-12-23T20:45:00+00:00",
+        "et_time": "12/23/25 3:45 PM",
+        "ph_time": "12/24/25 4:45 AM"
+    },
+    {
+        "name": "Willow Cricket",
+        "logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png",
+        "stream_id": "willow-cricket",
+        "event_name": "Big Bash League : Adelaide Strikers vs Melbourne Stars",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T08:15:00+00:00",
+        "et_time": "12/23/25 3:15 AM",
+        "ph_time": "12/23/25 4:15 PM"
+    },
+    {
+        "name": "Sky Sports Cricket UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png",
+        "stream_id": "sky-sports-cricket-uk",
+        "event_name": "Big Bash League : Adelaide Strikers vs Melbourne Stars",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T08:15:00+00:00",
+        "et_time": "12/23/25 3:15 AM",
+        "ph_time": "12/23/25 4:15 PM"
+    },
+    {
+        "name": "Sky Sport 1 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png",
+        "stream_id": "sky-sport-1-nz",
+        "event_name": "Big Bash League : Adelaide Strikers vs Melbourne Stars",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T08:15:00+00:00",
+        "et_time": "12/23/25 3:15 AM",
+        "ph_time": "12/23/25 4:15 PM"
+    },
+    {
+        "name": "Sky Sport 3 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-3-nz.png",
+        "stream_id": "sky-sport-3-nz",
+        "event_name": "2nd T20 : India W vs Sri Lanka W",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T13:20:00+00:00",
+        "et_time": "12/23/25 8:20 AM",
+        "ph_time": "12/23/25 9:20 PM"
+    },
+    {
+        "name": "Willow Cricket",
+        "logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png",
+        "stream_id": "willow-cricket",
+        "event_name": "International League T20 : Gulf Giants vs MI Emirates",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T14:30:00+00:00",
+        "et_time": "12/23/25 9:30 AM",
+        "ph_time": "12/23/25 10:30 PM"
+    },
+    {
+        "name": "Sky Sports Cricket UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png",
+        "stream_id": "sky-sports-cricket-uk",
+        "event_name": "International League T20 : Gulf Giants vs MI Emirates",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T14:30:00+00:00",
+        "et_time": "12/23/25 9:30 AM",
+        "ph_time": "12/23/25 10:30 PM"
+    },
+    {
+        "name": "Sky Sport 2 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-2-nz.png",
+        "stream_id": "sky-sport-2-nz",
+        "event_name": "International League T20 : Gulf Giants vs MI Emirates",
+        "category": "CRICKET",
+        "utc_time": "2025-12-23T14:30:00+00:00",
+        "et_time": "12/23/25 9:30 AM",
+        "ph_time": "12/23/25 10:30 PM"
+    },
+    {
+        "name": "ESPN USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "stream_id": "espn",
+        "event_name": "NCAA FBS : Louisville vs Toledo",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T19:00:00+00:00",
+        "et_time": "12/23/25 2:00 PM",
+        "ph_time": "12/24/25 3:00 AM"
+    },
+    {
+        "name": "TSN1",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-hd-ca.png",
+        "stream_id": "tsn-1",
+        "event_name": "NCAA FBS : Louisville vs Toledo",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T19:00:00+00:00",
+        "et_time": "12/23/25 2:00 PM",
+        "ph_time": "12/24/25 3:00 AM"
+    },
+    {
+        "name": "ESPN Deportes",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png",
+        "stream_id": "espn-deportes",
+        "event_name": "NCAA FBS : Louisville vs Toledo",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T19:00:00+00:00",
+        "et_time": "12/23/25 2:00 PM",
+        "ph_time": "12/24/25 3:00 AM"
+    },
+    {
+        "name": "ESPN USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "stream_id": "espn",
+        "event_name": "NCAA FBS : Southern Miss vs Western Kentucky",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T22:30:00+00:00",
+        "et_time": "12/23/25 5:30 PM",
+        "ph_time": "12/24/25 6:30 AM"
+    },
+    {
+        "name": "TSN1",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-hd-ca.png",
+        "stream_id": "tsn-1",
+        "event_name": "NCAA FBS : Southern Miss vs Western Kentucky",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T22:30:00+00:00",
+        "et_time": "12/23/25 5:30 PM",
+        "ph_time": "12/24/25 6:30 AM"
+    },
+    {
+        "name": "ESPN Deportes",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png",
+        "stream_id": "espn-deportes",
+        "event_name": "NCAA FBS : Southern Miss vs Western Kentucky",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-23T22:30:00+00:00",
+        "et_time": "12/23/25 5:30 PM",
+        "ph_time": "12/24/25 6:30 AM"
+    },
+    {
+        "name": "ESPN USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "stream_id": "espn",
+        "event_name": "NCAA FBS : Ohio vs UNLV Rebels",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "TSN1",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-1-hd-ca.png",
+        "stream_id": "tsn-1",
+        "event_name": "NCAA FBS : Ohio vs UNLV Rebels",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "ESPN Deportes",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png",
+        "stream_id": "espn-deportes",
+        "event_name": "NCAA FBS : Ohio vs UNLV Rebels",
+        "category": "AM. FOOTBALL (NCAAF)",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "NBA TV USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-icon-us.png",
+        "stream_id": "nba-tv-usa",
+        "event_name": "NBL : Melbourne United vs Tasmania JackJumpers",
+        "category": "BASKETBALL",
+        "utc_time": "2025-12-23T09:00:00+00:00",
+        "et_time": "12/23/25 4:00 AM",
+        "ph_time": "12/23/25 5:00 PM"
+    },
+    {
+        "name": "FOX Sports 1 USA",
+        "logo": "https://iili.io/KYJqv0G.png",
+        "stream_id": "fox-sports-1-usa",
+        "event_name": "NCAA : Harvard vs St. John's N.Y.",
+        "category": "NCAA BASKETBALL",
+        "utc_time": "2025-12-23T23:00:00+00:00",
+        "et_time": "12/23/25 6:00 PM",
+        "ph_time": "12/24/25 7:00 AM"
+    },
+    {
+        "name": "ESPN2 USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",
+        "stream_id": "espn2",
+        "event_name": "Boys High School Basketball City of Palms Classic, Third-Place Game: Teams TBA",
+        "category": "NCAA BASKETBALL",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "ESPN2 USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",
+        "stream_id": "espn2",
+        "event_name": "Boys High School Basketball City of Palms Classic, Championship: Teams TBA",
+        "category": "NCAA BASKETBALL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "NBCS Philadelphia USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-philadelphia-us.png",
+        "stream_id": "nbc-sports-philadelphia",
+        "event_name": "NBA : Philadelphia 76ers vs Brooklyn Nets",
+        "category": "NBA",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "Sportsnet One",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-hd-ca.png",
+        "stream_id": "sportsnet-one",
+        "event_name": "NBA : Miami Heat vs Toronto Raptors",
+        "category": "NBA",
+        "utc_time": "2025-12-24T00:30:00+00:00",
+        "et_time": "12/23/25 7:30 PM",
+        "ph_time": "12/24/25 8:30 AM"
+    },
+    {
+        "name": "Sky Sports Main Event UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",
+        "stream_id": "sky-sports-main-event-uk",
+        "event_name": "NBA : Dallas Mavericks vs Denver Nuggets",
+        "category": "NBA",
+        "utc_time": "2025-12-24T01:00:00+00:00",
+        "et_time": "12/23/25 8:00 PM",
+        "ph_time": "12/24/25 9:00 AM"
+    },
+    {
+        "name": "TSN4",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-hd-ca.png",
+        "stream_id": "tsn-4",
+        "event_name": "NBA : San Antonio Spurs vs Oklahoma City Thunder",
+        "category": "NBA",
+        "utc_time": "2025-12-24T01:30:00+00:00",
+        "et_time": "12/23/25 8:30 PM",
+        "ph_time": "12/24/25 9:30 AM"
+    },
+    {
+        "name": "TSN3",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-hd-ca.png",
+        "stream_id": "tsn-3",
+        "event_name": "NBA : San Antonio Spurs vs Oklahoma City Thunder",
+        "category": "NBA",
+        "utc_time": "2025-12-24T01:30:00+00:00",
+        "et_time": "12/23/25 8:30 PM",
+        "ph_time": "12/24/25 9:30 AM"
+    },
+    {
+        "name": "Sportsnet One",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-one-hd-ca.png",
+        "stream_id": "sportsnet-one",
+        "event_name": "NBA : Sacramento Kings vs Detroit Pistons",
+        "category": "NBA",
+        "utc_time": "2025-12-24T03:00:00+00:00",
+        "et_time": "12/23/25 10:00 PM",
+        "ph_time": "12/24/25 11:00 AM"
+    },
+    {
+        "name": "Sky Sports Main Event UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",
+        "stream_id": "sky-sports-main-event-uk",
+        "event_name": "NBA : Los Angeles Clippers vs Houston Rockets",
+        "category": "NBA",
+        "utc_time": "2025-12-24T03:30:00+00:00",
+        "et_time": "12/23/25 10:30 PM",
+        "ph_time": "12/24/25 11:30 AM"
+    },
+    {
+        "name": "Sky Sport Mix DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png",
+        "stream_id": "sky-sport-mix-de",
+        "event_name": "NBA : Los Angeles Clippers vs Houston Rockets",
+        "category": "NBA",
+        "utc_time": "2025-12-24T03:30:00+00:00",
+        "et_time": "12/23/25 10:30 PM",
+        "ph_time": "12/24/25 11:30 AM"
+    },
+    {
+        "name": "Sky Sport Top Event DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png",
+        "stream_id": "sky-sport-top-event-de",
+        "event_name": "NBA : Los Angeles Clippers vs Houston Rockets",
+        "category": "NBA",
+        "utc_time": "2025-12-24T03:30:00+00:00",
+        "et_time": "12/23/25 10:30 PM",
+        "ph_time": "12/24/25 11:30 AM"
+    },
+    {
+        "name": "TNT Sports 1 UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+        "stream_id": "tnt-sports-1-uk",
+        "event_name": "Zolder Telenet Superprestige",
+        "category": "CYCLING",
+        "utc_time": "2025-12-23T12:30:00+00:00",
+        "et_time": "12/23/25 7:30 AM",
+        "ph_time": "12/23/25 8:30 PM"
+    },
+    {
+        "name": "Sky Sport 1 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png",
+        "stream_id": "sky-sport-1-nz",
+        "event_name": "PDC World Darts Championship 4x Second Round - Alexandra Palace, London",
+        "category": "DARTS",
+        "utc_time": "2025-12-23T12:30:00+00:00",
+        "et_time": "12/23/25 7:30 AM",
+        "ph_time": "12/23/25 8:30 PM"
+    },
+    {
+        "name": "Sky Sport 1 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png",
+        "stream_id": "sky-sport-1-nz",
+        "event_name": "PDC World Darts Championship 4x Second Round - Alexandra Palace, London",
+        "category": "DARTS",
+        "utc_time": "2025-12-23T19:00:00+00:00",
+        "et_time": "12/23/25 2:00 PM",
+        "ph_time": "12/24/25 3:00 AM"
+    },
+    {
+        "name": "Sky Sports Racing UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-uk.png",
+        "stream_id": "sky-sports-racing-uk",
+        "event_name": "Live racing from around the UK",
+        "category": "HORSE RACING",
+        "utc_time": "2025-12-23T13:00:00+00:00",
+        "et_time": "12/23/25 8:00 AM",
+        "ph_time": "12/23/25 9:00 PM"
+    },
+    {
+        "name": "TNT USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",
+        "stream_id": "tnt-usa",
+        "event_name": "NHL : Pittsburgh Penguins vs Toronto Maple Leafs",
+        "category": "NHL",
+        "utc_time": "2025-12-23T21:00:00+00:00",
+        "et_time": "12/23/25 4:00 PM",
+        "ph_time": "12/24/25 5:00 AM"
+    },
+    {
+        "name": "truTV USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",
+        "stream_id": "trutv-usa",
+        "event_name": "NHL : Pittsburgh Penguins vs Toronto Maple Leafs",
+        "category": "NHL",
+        "utc_time": "2025-12-23T21:00:00+00:00",
+        "et_time": "12/23/25 4:00 PM",
+        "ph_time": "12/24/25 5:00 AM"
+    },
+    {
+        "name": "Sportsnet Ontario",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-hd-ca.png",
+        "stream_id": "sportsnet-ontario",
+        "event_name": "NHL : Pittsburgh Penguins vs Toronto Maple Leafs",
+        "category": "NHL",
+        "utc_time": "2025-12-23T21:00:00+00:00",
+        "et_time": "12/23/25 4:00 PM",
+        "ph_time": "12/24/25 5:00 AM"
+    },
+    {
+        "name": "Sky Sport Mix DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png",
+        "stream_id": "sky-sport-mix-de",
+        "event_name": "NHL : Pittsburgh Penguins vs Toronto Maple Leafs",
+        "category": "NHL",
+        "utc_time": "2025-12-23T21:00:00+00:00",
+        "et_time": "12/23/25 4:00 PM",
+        "ph_time": "12/24/25 5:00 AM"
+    },
+    {
+        "name": "TNT USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",
+        "stream_id": "tnt-usa",
+        "event_name": "NHL : Dallas Stars vs Detroit Red Wings",
+        "category": "NHL",
+        "utc_time": "2025-12-23T23:30:00+00:00",
+        "et_time": "12/23/25 6:30 PM",
+        "ph_time": "12/24/25 7:30 AM"
+    },
+    {
+        "name": "truTV USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",
+        "stream_id": "trutv-usa",
+        "event_name": "NHL : Dallas Stars vs Detroit Red Wings",
+        "category": "NHL",
+        "utc_time": "2025-12-23T23:30:00+00:00",
+        "et_time": "12/23/25 6:30 PM",
+        "ph_time": "12/24/25 7:30 AM"
+    },
+    {
+        "name": "Sky Sport Mix DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-mix-alt-de.png",
+        "stream_id": "sky-sport-mix-de",
+        "event_name": "NHL : Dallas Stars vs Detroit Red Wings",
+        "category": "NHL",
+        "utc_time": "2025-12-23T23:30:00+00:00",
+        "et_time": "12/23/25 6:30 PM",
+        "ph_time": "12/24/25 7:30 AM"
+    },
+    {
+        "name": "Sky Sport Top Event DE",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png",
+        "stream_id": "sky-sport-top-event-de",
+        "event_name": "NHL : Dallas Stars vs Detroit Red Wings",
+        "category": "NHL",
+        "utc_time": "2025-12-23T23:30:00+00:00",
+        "et_time": "12/23/25 6:30 PM",
+        "ph_time": "12/24/25 7:30 AM"
+    },
+    {
+        "name": "TSN5",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-5-hd-ca.png",
+        "stream_id": "tsn-5",
+        "event_name": "NHL : Buffalo Sabres vs Ottawa Senators",
+        "category": "NHL",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "Sportsnet East",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-hd-ca.png",
+        "stream_id": "sportsnet-east",
+        "event_name": "NHL : New York Rangers vs Washington Capitals",
+        "category": "NHL",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "Sportsnet Ontario",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-hd-ca.png",
+        "stream_id": "sportsnet-ontario",
+        "event_name": "NHL : New York Rangers vs Washington Capitals",
+        "category": "NHL",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "TSN2",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-hd-ca.png",
+        "stream_id": "tsn-2",
+        "event_name": "NHL : Montreal Canadiens vs Boston Bruins",
+        "category": "NHL",
+        "utc_time": "2025-12-24T00:00:00+00:00",
+        "et_time": "12/23/25 7:00 PM",
+        "ph_time": "12/24/25 8:00 AM"
+    },
+    {
+        "name": "Sportsnet East",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-hd-ca.png",
+        "stream_id": "sportsnet-east",
+        "event_name": "NHL : Calgary Flames vs Edmonton Oilers",
+        "category": "NHL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "Sportsnet Ontario",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-ontario-hd-ca.png",
+        "stream_id": "sportsnet-ontario",
+        "event_name": "NHL : Calgary Flames vs Edmonton Oilers",
+        "category": "NHL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "Sportsnet 360",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-360-hd-ca.png",
+        "stream_id": "sportsnet-360",
+        "event_name": "NHL : Calgary Flames vs Edmonton Oilers",
+        "category": "NHL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "TNT USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tnt-us.png",
+        "stream_id": "tnt-usa",
+        "event_name": "NHL : Philadelphia Flyers vs Chicago Blackhawks",
+        "category": "NHL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "truTV USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tru-tv-us.png",
+        "stream_id": "trutv-usa",
+        "event_name": "NHL : Philadelphia Flyers vs Chicago Blackhawks",
+        "category": "NHL",
+        "utc_time": "2025-12-24T02:00:00+00:00",
+        "et_time": "12/23/25 9:00 PM",
+        "ph_time": "12/24/25 10:00 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Burkina Faso vs Equatorial Guinea",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T12:30:00+00:00",
+        "et_time": "12/24/25 7:30 AM",
+        "ph_time": "12/24/25 8:30 PM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Burkina Faso vs Equatorial Guinea",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T12:30:00+00:00",
+        "et_time": "12/24/25 7:30 AM",
+        "ph_time": "12/24/25 8:30 PM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Algeria vs Sudan",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T15:00:00+00:00",
+        "et_time": "12/24/25 10:00 AM",
+        "ph_time": "12/24/25 11:00 PM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Algeria vs Sudan",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T15:00:00+00:00",
+        "et_time": "12/24/25 10:00 AM",
+        "ph_time": "12/24/25 11:00 PM"
+    },
+    {
+        "name": "ESPN Brazil",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
+        "stream_id": "espn-1-br",
+        "event_name": "Asia - AFC Champions League Two : Al Nassr vs Al Zawra'a",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T16:00:00+00:00",
+        "et_time": "12/24/25 11:00 AM",
+        "ph_time": "12/25/25 12:00 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Côte d'Ivoire vs Mozambique",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T17:30:00+00:00",
+        "et_time": "12/24/25 12:30 PM",
+        "ph_time": "12/25/25 1:30 AM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Côte d'Ivoire vs Mozambique",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T17:30:00+00:00",
+        "et_time": "12/24/25 12:30 PM",
+        "ph_time": "12/25/25 1:30 AM"
+    },
+    {
+        "name": "Sportdigital FUSSBALL DE",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fu%C3%9Fball_stacked.svg",
+        "stream_id": "sportdigital-fussball-de",
+        "event_name": "Africa Cup of Nations : Cameroon vs Gabon",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T20:00:00+00:00",
+        "et_time": "12/24/25 3:00 PM",
+        "ph_time": "12/25/25 4:00 AM"
+    },
+    {
+        "name": "beIN Sports Malaysia",
+        "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",
+        "stream_id": "bein-sports-1-my",
+        "event_name": "Africa Cup of Nations : Cameroon vs Gabon",
+        "category": "SOCCER",
+        "utc_time": "2025-12-24T20:00:00+00:00",
+        "et_time": "12/24/25 3:00 PM",
+        "ph_time": "12/25/25 4:00 AM"
+    },
+    {
+        "name": "Willow Cricket",
+        "logo": "https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Willowsport.png",
+        "stream_id": "willow-cricket",
+        "event_name": "International League T20 : Dubai Capitals vs Sharjah Warriors",
+        "category": "CRICKET",
+        "utc_time": "2025-12-24T14:30:00+00:00",
+        "et_time": "12/24/25 9:30 AM",
+        "ph_time": "12/24/25 10:30 PM"
+    },
+    {
+        "name": "Sky Sports Cricket UK",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png",
+        "stream_id": "sky-sports-cricket-uk",
+        "event_name": "International League T20 : Dubai Capitals vs Sharjah Warriors",
+        "category": "CRICKET",
+        "utc_time": "2025-12-24T14:30:00+00:00",
+        "et_time": "12/24/25 9:30 AM",
+        "ph_time": "12/24/25 10:30 PM"
+    },
+    {
+        "name": "Sky Sport 1 NZ",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/new-zealand/sky-sport-1-nz.png",
+        "stream_id": "sky-sport-1-nz",
+        "event_name": "International League T20 : Dubai Capitals vs Sharjah Warriors",
+        "category": "CRICKET",
+        "utc_time": "2025-12-24T14:30:00+00:00",
+        "et_time": "12/24/25 9:30 AM",
+        "ph_time": "12/24/25 10:30 PM"
+    },
+    {
+        "name": "TBS USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tbs-us.png",
+        "stream_id": "tbs-usa",
+        "event_name": "All Elite Wrestling AEW : Dynamite",
+        "category": "WWE (AEW)",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    },
+    {
+        "name": "TSN2",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-2-hd-ca.png",
+        "stream_id": "tsn-2",
+        "event_name": "All Elite Wrestling AEW : Dynamite",
+        "category": "WWE (AEW)",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    },
+    {
+        "name": "ESPN USA",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",
+        "stream_id": "espn",
+        "event_name": "NCAA FBS : Hawaii vs California",
+        "category": "AM. FOOTBALL",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    },
+    {
+        "name": "TSN3",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-3-hd-ca.png",
+        "stream_id": "tsn-3",
+        "event_name": "NCAA FBS : Hawaii vs California",
+        "category": "AM. FOOTBALL",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    },
+    {
+        "name": "TSN4",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tsn-4-hd-ca.png",
+        "stream_id": "tsn-4",
+        "event_name": "NCAA FBS : Hawaii vs California",
+        "category": "AM. FOOTBALL",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    },
+    {
+        "name": "ESPN Deportes",
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-deportes-us.png",
+        "stream_id": "espn-deportes",
+        "event_name": "NCAA FBS : Hawaii vs California",
+        "category": "AM. FOOTBALL",
+        "utc_time": "2025-12-25T01:00:00+00:00",
+        "et_time": "12/24/25 8:00 PM",
+        "ph_time": "12/25/25 9:00 AM"
+    }
+]
