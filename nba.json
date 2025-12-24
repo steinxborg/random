@@ -1,0 +1,798 @@
+[
+    {
+        "game_id": "0022500409",
+        "home_team": "Charlotte Hornets",
+        "away_team": "Washington Wizards",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:00:00Z",
+        "home_score": 126,
+        "away_score": 109,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500409was1000444chaV_Jitp_Reach_HD",
+                "stream_title": "WAS @ CHA - Mobile View | 2025-12-23 (2h 27m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500409was1000444chaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=7ce95341-f57d-4a34-9555-abee4d1ac454",
+                "manifest_keys": "73b71ca5b92599f439ce7a58ec4b06a2:72d3557fba3154120873a9c8a0e8e896"
+            },
+            {
+                "stream_id": "NBA_g0022500409was1000477chaV_Jitp_Reach_HD",
+                "stream_title": "WAS @ CHA - Wizards Away | 2025-12-23 (2h 27m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500409was1000477chaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=73676677-16b7-425a-8e35-0235093d7407",
+                "manifest_keys": "f64a4c61ce0135bd7d467448ede66d49:34af4e4336b33a7734cbcfd2e8422937"
+            },
+            {
+                "stream_id": "NBA_g0022500409was1000451chaV_Jitp_Reach_HD",
+                "stream_title": "WAS @ CHA - Hornets Home | 2025-12-23 (2h 27m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500409was1000451chaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=1e977195-cc75-41e3-bcc2-9a5801aa544b",
+                "manifest_keys": "d5a21895c6d7e78c907c87ff0fd49440:dd62486d95230251beafbb123f31d159"
+            },
+            {
+                "stream_id": "NBA_BC98E3C836F8008505EA6FEA4156BF98093DC928_Jitp_Reach_HD",
+                "stream_title": "Washington Wizards Best Plays vs. Charlotte Hornets (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_BC98E3C836F8008505EA6FEA4156BF98093DC928/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=946baeea-51b2-4d4a-b540-224bcb655a77",
+                "manifest_keys": "a362990e6734350602c545dc3bbe7017:3ca527c16a8d22be5c30c2bfc5dc789c"
+            },
+            {
+                "stream_id": "NBA_18238C6411DEE64705FCC01A58BF3BF8CFF4B6CC_Jitp_Reach_HD",
+                "stream_title": "WAS vs. CHA Highlights (2m 1s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_18238C6411DEE64705FCC01A58BF3BF8CFF4B6CC/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=6c352509-a192-49bd-8656-d43b22e8b43f",
+                "manifest_keys": "05c628ff27967d08458ec42978a64112:26f536a3203376cf10196cff6af9f6bd"
+            },
+            {
+                "stream_id": "NBA_00377E3CC65767BAA77D1215DF38636700E4FB5D_Jitp_Reach_HD",
+                "stream_title": "Charlotte Hornets Best Plays vs. Washington Wizards (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_00377E3CC65767BAA77D1215DF38636700E4FB5D/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=1fe06935-eadc-4f23-bf80-38ed9169b0d7",
+                "manifest_keys": "188081f80260e2d2458af3f50b1f6511:152b24b621b39e9d76f06cbb35b59ed5"
+            },
+            {
+                "stream_id": "NBA_2E4BE6D082A8539D9ACC4E31DE63D6D2525390EE_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Washington Wizards @ Charlotte Hornets (40m 24s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_2E4BE6D082A8539D9ACC4E31DE63D6D2525390EE/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=d7561f3e-e2a8-42e7-b37b-a3388ac84d36",
+                "manifest_keys": "a082fe2ce5dd85306bb80a0884156857:89fa6e41bf9271f32e684e9a5976e19b"
+            },
+            {
+                "stream_id": "NBA_ED0ECB4E082087452FDFDB91148F1A7EB2412763_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Washington Wizards @ Charlotte Hornets (16m 4s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_ED0ECB4E082087452FDFDB91148F1A7EB2412763/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=254e7936-ed75-4d37-b1aa-b582fdb53e89",
+                "manifest_keys": "b2faa32d9d2ca4bbef21ff51dcb65cec:69e4ef1d1ac9d2ec1c892fbb71793652"
+            },
+            {
+                "stream_id": "NBA_202512232237NBA_____VIDEOS__NBAE_2876541_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Hornets 126, Wizards 109 (2m 13s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232237NBA_____VIDEOS__NBAE_2876541/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=b5df879f-47cb-43b1-be88-0f5229f54c9d",
+                "manifest_keys": "e7a8cdc3cd1d9b10165884ad32d73835:4cd7d0bbc6bf6f8860660e0fe9b40e7c"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500410",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Brooklyn Nets",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:00:00Z",
+        "home_score": 106,
+        "away_score": 114,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500410bkn1000450phiV_Jitp_Reach_HD",
+                "stream_title": "BKN @ PHI - Nets Away | 2025-12-23 (2h 47m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500410bkn1000450phiV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=4b12045c-6bcd-4982-a310-a1391b72d24f",
+                "manifest_keys": "23a0fa4098e895f97a66d697802cc84e:6781475457ed9b1bc2724a1c364095b1"
+            },
+            {
+                "stream_id": "NBA_g0022500410bkn1000470phiV_Jitp_Reach_HD",
+                "stream_title": "BKN @ PHI - 76ers Home | 2025-12-23 (2h 44m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500410bkn1000470phiV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=6757e671-1fe7-4a6c-a15d-6515703ede2e",
+                "manifest_keys": "a115b260341ea527614f4b436d089b8d:6faec0ee08f4c4bd56e6ce03999d6ad0"
+            },
+            {
+                "stream_id": "NBA_g0022500410bkn1000444phiV_Jitp_Reach_HD",
+                "stream_title": "BKN @ PHI - Mobile View | 2025-12-23 (2h 44m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500410bkn1000444phiV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=d832442e-7201-4445-96a9-9f22111af007",
+                "manifest_keys": "3f7538dc51961f51fa920a7ca47d86bd:52b2d786e3adf9b165aadcb24ec56b99"
+            },
+            {
+                "stream_id": "NBA_A49BF83CF1173DC315C73187E6135086B8FB693D_Jitp_Reach_HD",
+                "stream_title": "BKN vs. PHI Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_A49BF83CF1173DC315C73187E6135086B8FB693D/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=392fae4e-fce9-4f5c-a400-e7a228afa8ae",
+                "manifest_keys": "1c7353b29944e4b44dd2b80293a87288:d2333ae1d13de6484b8b1cea80c89c8a"
+            },
+            {
+                "stream_id": "NBA_EFAAFA2A663175585823FD61221B9E5A4C075651_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Brooklyn Nets @ Philadelphia 76ers (42m 21s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_EFAAFA2A663175585823FD61221B9E5A4C075651/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=34dcb264-e401-44c4-bb3e-ff333823c09b",
+                "manifest_keys": "db4090060bc232df6af317c597834e69:00fd0a1e92543de52e6945d3b357e8ca"
+            },
+            {
+                "stream_id": "NBA_243B5ADDC310AD5141E63EA9047456B9A397E7B8_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Brooklyn Nets @ Philadelphia 76ers (14m 53s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_243B5ADDC310AD5141E63EA9047456B9A397E7B8/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5cdf034f-01bd-439f-b74b-8d866503140f",
+                "manifest_keys": "a681a3d8417b6ef40fd2d2177dcef103:dc0ff84759ebfe1114aa5da17342981b"
+            },
+            {
+                "stream_id": "NBA_84871E84E5C0B2962872D19098C2C33A44085773_Jitp_Reach_HD",
+                "stream_title": "Philadelphia 76ers Best Plays vs. Brooklyn Nets (4m 55s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_84871E84E5C0B2962872D19098C2C33A44085773/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5c44e08c-c046-4ee9-80af-f4d606a26908",
+                "manifest_keys": "383a969ae606d8243bb51083d7ba56ab:340ece8f3641520a44ca906ccfc40ba1"
+            },
+            {
+                "stream_id": "NBA_806252137BD66E146B1C7F4C9A8256D681C65CEB_Jitp_Reach_HD",
+                "stream_title": "Brooklyn Nets Best Plays vs. Philadelphia 76ers (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_806252137BD66E146B1C7F4C9A8256D681C65CEB/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=c979bdc6-9f6e-4cfe-9738-bfc98e22e030",
+                "manifest_keys": "7cf1fb69402204e8a47f724e67500783:53a9424786c2997641ad410afe629987"
+            },
+            {
+                "stream_id": "NBA_202512232335NBA_____VIDEOS__NBAE_2876637_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Nets 114, 76ers 106 (2m 14s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232335NBA_____VIDEOS__NBAE_2876637/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=fa8999da-bc9f-401d-b9a1-ab6dc6df89c1",
+                "manifest_keys": "6697ab871100a4a7bb6d7cd48d917e45:4228a430f95b04703f81122650ab393a"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500411",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Chicago Bulls",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:30:00Z",
+        "home_score": 123,
+        "away_score": 126,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500411chi1000444atlV_Jitp_Reach_HD",
+                "stream_title": "CHI @ ATL - Mobile View | 2025-12-23 (2h 40m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500411chi1000444atlV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=b849ac6e-53b8-4469-a577-66d93834a0cf",
+                "manifest_keys": "fdf6a9c509e7ecbcd871b4915957fe09:167c764f4eff8f7743c5c80c08ca82c6"
+            },
+            {
+                "stream_id": "NBA_g0022500411chi1000448atlV_Jitp_Reach_HD",
+                "stream_title": "CHI @ ATL - Hawks Home | 2025-12-23 (2h 40m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500411chi1000448atlV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5dbd56c3-c2aa-4b6b-a64f-06e639926356",
+                "manifest_keys": "41d6c1321ec5f48085de335dfca25417:0cf97dfdea821d7e3f8946f5e959f156"
+            },
+            {
+                "stream_id": "NBA_g0022500411chi1000452atlV_Jitp_Reach_HD",
+                "stream_title": "CHI @ ATL - Bulls Away | 2025-12-23 (2h 43m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500411chi1000452atlV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=d7e4be90-e8d3-48cd-bf81-fca24a2f1a46",
+                "manifest_keys": "c217239326dfcde0e9ea6a59a6bec4b8:01a6697940d765f8bc38cf7b5a58d2c9"
+            },
+            {
+                "stream_id": "NBA_FCB93CB65949B1DC1510D7BBD36DB7EB69A811D4_Jitp_Reach_HD",
+                "stream_title": "Atlanta Hawks Best Plays vs. Chicago Bulls (4m 59s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_FCB93CB65949B1DC1510D7BBD36DB7EB69A811D4/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=ce518391-18a5-4722-b830-ae01a8b1a1be",
+                "manifest_keys": "0f2a2fab5e388f76bd0fb01773d208e1:ce72b0e7fff54964b95728bf34dc930f"
+            },
+            {
+                "stream_id": "NBA_44B61061DD8140ADAFECA476432A6B3BC14141D5_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Chicago Bulls @ Atlanta Hawks (15m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_44B61061DD8140ADAFECA476432A6B3BC14141D5/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=98d90283-85aa-45f3-8772-d08a1256748d",
+                "manifest_keys": "01cd7fc64e9ec52ddf6d9e8ad9b413bc:d03f1f06513ee16e1fc37e708622759f"
+            },
+            {
+                "stream_id": "NBA_DF139B3047841855AB5BE8F9D0A8AA46BDCFE793_Jitp_Reach_HD",
+                "stream_title": "Chicago Bulls Best Plays vs. Atlanta Hawks (4m 52s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_DF139B3047841855AB5BE8F9D0A8AA46BDCFE793/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=a3496268-11dd-45b1-9e23-52d3ea2054e2",
+                "manifest_keys": "bcca0db776d79308efcfdb295b3d6331:c6508856edab68eb7dcc5b6db0764a31"
+            },
+            {
+                "stream_id": "NBA_E95F6B93644381E4366F1492A7D866D1CF4B77F3_Jitp_Reach_HD",
+                "stream_title": "CHI vs. ATL Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_E95F6B93644381E4366F1492A7D866D1CF4B77F3/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=0a6a82ba-07fd-482c-a0c9-c7156bf9b7f7",
+                "manifest_keys": "eb53bb64461ac0b52cb6cef673ddd824:982d8a234b0ca8d93d3db843d3c426fe"
+            },
+            {
+                "stream_id": "NBA_9F3C1FC7111D44223E6E7EFEBC0781FC4E63E338_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Chicago Bulls @ Atlanta Hawks (40m 38s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_9F3C1FC7111D44223E6E7EFEBC0781FC4E63E338/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=dd932b7d-ff44-43d0-a525-e7e26d455a33",
+                "manifest_keys": "4b018f167ed6d7e1b54d9d7ddeedcc52:ff80f867b0ce9765f132574ae8247197"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500412",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "New Orleans Pelicans",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:30:00Z",
+        "home_score": 141,
+        "away_score": 118,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500412nop1000453cleV_Jitp_Reach_HD",
+                "stream_title": "NOP @ CLE - Cavaliers Home | 2025-12-23 (2h 24m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500412nop1000453cleV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5df40cdd-08ed-41fe-9302-8d060a7eb29e",
+                "manifest_keys": "146b79db9e9d607f8b5d58e62f5692ae:c0c115bb0e3e6936e466c87473de0eb1"
+            },
+            {
+                "stream_id": "NBA_g0022500412nop1000444cleV_Jitp_Reach_HD",
+                "stream_title": "NOP @ CLE - Mobile View | 2025-12-23 (2h 24m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500412nop1000444cleV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=cdcc68bb-17e3-4b52-a13f-1a27ff47922a",
+                "manifest_keys": "4ca6cd4e948f810c99642a7e5ba796b0:43a78b6c0b952279abe42a6b12ae35aa"
+            },
+            {
+                "stream_id": "NBA_g0022500412nop1000466cleV_Jitp_Reach_HD",
+                "stream_title": "NOP @ CLE - Pelicans Away | 2025-12-23 (2h 22m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500412nop1000466cleV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=076769cf-c6b5-4537-b2a0-dde290be69d7",
+                "manifest_keys": "78e8bd644390ad09388844a0619c17cb:983c33f9a73d6cd130f54287b9481647"
+            },
+            {
+                "stream_id": "NBA_0A0E75FE33BB06AF9EC5F0A06BD8585B45D68B11_Jitp_Reach_HD",
+                "stream_title": "NOP vs. CLE Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_0A0E75FE33BB06AF9EC5F0A06BD8585B45D68B11/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=f5146a57-192d-45b5-8225-3eb7b61bfa40",
+                "manifest_keys": "aaa7a6a0611fafd6c3cc779abb0f6ca6:d2ab831592fecee5cc8326e8dd7b966a"
+            },
+            {
+                "stream_id": "NBA_CFC9C41EE3D8260A347C7FF9FE773E3EBDABA9B2_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: New Orleans Pelicans @ Cleveland Cavaliers (15m 57s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_CFC9C41EE3D8260A347C7FF9FE773E3EBDABA9B2/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=2e1a1fa3-cd37-4d22-ac85-07767d3b2793",
+                "manifest_keys": "c08c46ab2fce79feb2f3a729d5fcef5c:8ff41448cbd4bc21ff768b7112dd20b7"
+            },
+            {
+                "stream_id": "NBA_F34C9196E9250403969ECFB96CAAD017E28B52A7_Jitp_Reach_HD",
+                "stream_title": "All Possessions: New Orleans Pelicans @ Cleveland Cavaliers (39m 25s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_F34C9196E9250403969ECFB96CAAD017E28B52A7/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=52ced621-d0c4-49a0-8c02-e8c76610d34c",
+                "manifest_keys": "21036b0f3181357ec8e4376c74e66a44:d9373785dfcf94d61ff578cebca49f76"
+            },
+            {
+                "stream_id": "NBA_C4816DE0AC3822783394AB770888F6FFA7F7B94A_Jitp_Reach_HD",
+                "stream_title": "Cleveland Cavaliers Best Plays vs. New Orleans Pelicans (4m 59s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_C4816DE0AC3822783394AB770888F6FFA7F7B94A/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=99660bad-b059-4329-9d4a-d5673814b826",
+                "manifest_keys": "049febb6655a70ef4d043cd0138834ab:9b5ae8dc822d7d476d47dac706bfc8c4"
+            },
+            {
+                "stream_id": "NBA_C5ADCB0C10F45F349DC8D03B53201792B66603AB_Jitp_Reach_HD",
+                "stream_title": "New Orleans Pelicans Best Plays vs. Cleveland Cavaliers (4m 54s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_C5ADCB0C10F45F349DC8D03B53201792B66603AB/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=75b60d5e-e783-4e05-98c4-fb44fd14a3c4",
+                "manifest_keys": "edf3804f943c96ac1ed555a9cc0c0ee8:4c440987e148b893bbe021d96bfd8b69"
+            },
+            {
+                "stream_id": "NBA_202512232321NBA_____VIDEOS__NBAE_2876628_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Cavaliers 141, Pelicans 118 (2m 14s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232321NBA_____VIDEOS__NBAE_2876628/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=32b77c7c-ec73-404c-919a-eb46e0de8316",
+                "manifest_keys": "e7df7bdd055e8252766e4b75befbd07e:b4ef103cbae17f3a9bb7b0268a92eeb7"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500413",
+        "home_team": "Indiana Pacers",
+        "away_team": "Milwaukee Bucks",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:30:00Z",
+        "home_score": 94,
+        "away_score": 111,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500413mil1000459indV_Jitp_Reach_HD",
+                "stream_title": "MIL @ IND - Pacers Home | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500413mil1000459indV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=28875e14-a7f6-4e8c-be53-e9f0a4e1b5f1",
+                "manifest_keys": "92d399c48f2d32f1cda9a36181430d9e:807d1e50cff874b2ec652e2e3942d9ac"
+            },
+            {
+                "stream_id": "NBA_g0022500413mil1000444indV_Jitp_Reach_HD",
+                "stream_title": "MIL @ IND - Mobile View | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500413mil1000444indV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5b8a9119-8e04-45f5-8638-75ca7acab8d4",
+                "manifest_keys": "01b681d53838a150cffe5ae0d7cc88ed:fd24495b5da48a6eb6fcf6592676bf09"
+            },
+            {
+                "stream_id": "NBA_g0022500413mil1000464indV_Jitp_Reach_HD",
+                "stream_title": "MIL @ IND - Bucks Away | 2025-12-23 (2h 33m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500413mil1000464indV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=5aabfa07-238c-4f32-8844-0c99a1232566",
+                "manifest_keys": "699665501743314ca2826e186a736cb2:61b6ba1d28f4b4b2e43244d24916cca9"
+            },
+            {
+                "stream_id": "NBA_B661E6192BAF4ECAEDFF368A3737DF565652ADBF_Jitp_Reach_HD",
+                "stream_title": "MIL vs. IND Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_B661E6192BAF4ECAEDFF368A3737DF565652ADBF/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=d972f8c8-13df-4bfc-a9d2-d386b7ddde64",
+                "manifest_keys": "ce77b7141999f84af95fc910afcccf89:ffc39f8f7df6cd6446f87d7efdd272ed"
+            },
+            {
+                "stream_id": "NBA_DC75DDA8430FE426E8667C82C72B1DDA520B218E_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Milwaukee Bucks @ Indiana Pacers (42m 22s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_DC75DDA8430FE426E8667C82C72B1DDA520B218E/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=d3f3bc9d-ada0-4339-bf90-547824f0e63e",
+                "manifest_keys": "a6dd171a15c442f2049b35bd77eb0adf:0408a4b6d2e4cfdca149f7e205f77ef0"
+            },
+            {
+                "stream_id": "NBA_B4602E7C784C7EBF3068F14C78F25DCFE879B19A_Jitp_Reach_HD",
+                "stream_title": "Indiana Pacers Best Plays vs. Milwaukee Bucks (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_B4602E7C784C7EBF3068F14C78F25DCFE879B19A/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=1b05c10d-ab86-429e-a9ef-871beaf97037",
+                "manifest_keys": "10a48a8bc1d67cdb1e1b6cb6da074931:f8d91c71e480078f013d939afdac0db4"
+            },
+            {
+                "stream_id": "NBA_B00D6303696EC2DFA6F8BA4A3CDCF4781441D307_Jitp_Reach_HD",
+                "stream_title": "Milwaukee Bucks Best Plays vs. Indiana Pacers (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_B00D6303696EC2DFA6F8BA4A3CDCF4781441D307/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=388000fb-6936-47e6-b1ec-8ee79f7237dd",
+                "manifest_keys": "dc99370e2f2907cb0626f77b0ae39203:9c409855361f27d0955748ca1c8335a5"
+            },
+            {
+                "stream_id": "NBA_FB6FFB71A0B8C3E9572AE0174312D51F1C651356_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Milwaukee Bucks @ Indiana Pacers (15m 27s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_FB6FFB71A0B8C3E9572AE0174312D51F1C651356/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=2453a5fb-e548-48b0-882d-f314ec3e959b",
+                "manifest_keys": "1cd699939e310fab1f87729d14566f89:d4e9ccc7a388c66c32aa8f05ca4a2727"
+            },
+            {
+                "stream_id": "NBA_202512232258NBA_____VIDEOS__NBAE_2876579_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Bucks 111, Pacers 94 (2m 19s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232258NBA_____VIDEOS__NBAE_2876579/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=b4992f22-5b22-4a76-8723-bcdbb034b133",
+                "manifest_keys": "90c94b6d946582f260a40d913ec27e73:c06fec9a5c57e286409b5319abe5b246"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500414",
+        "home_team": "Miami Heat",
+        "away_team": "Toronto Raptors",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T00:30:00Z",
+        "home_score": 91,
+        "away_score": 112,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500414tor1000444miaV_Jitp_Reach_HD",
+                "stream_title": "TOR @ MIA - Mobile View | 2025-12-23 (2h 32m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500414tor1000444miaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=849f99ef-0912-4f19-830c-00500cc8dd06",
+                "manifest_keys": "efe560410dccd7b7164ba4fab79aab50:0a47e094c03102978bed81d717f18324"
+            },
+            {
+                "stream_id": "NBA_g0022500414tor1000475miaV_Jitp_Reach_HD",
+                "stream_title": "TOR @ MIA - Raptors Away | 2025-12-23 (2h 30m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500414tor1000475miaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=8c72c03b-5780-4438-81e2-172e3844fcec",
+                "manifest_keys": "488b55d45455846c89ee30f7568f3d17:01714a2513ce918734c22beee6cf9ba2"
+            },
+            {
+                "stream_id": "NBA_g0022500414tor1000463miaV_Jitp_Reach_HD",
+                "stream_title": "TOR @ MIA - Heat Home | 2025-12-23 (2h 32m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500414tor1000463miaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=75aefe3a-b612-41af-a642-340a8187f496",
+                "manifest_keys": "078e105308868070eb1eefd855a75577:b08722dbe88fa3366f32b7887bd7b362"
+            },
+            {
+                "stream_id": "NBA_B9730CE4A776CD6577270A5C51D9ADD9591FC99B_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Toronto Raptors @ Miami Heat (36m 1s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_B9730CE4A776CD6577270A5C51D9ADD9591FC99B/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=1ee8f473-6918-4d47-8fb2-c6a189dcff9e",
+                "manifest_keys": "17058e627e510264004fff520afd807d:ef525e32d74119b992d762979a713898"
+            },
+            {
+                "stream_id": "NBA_A5988C539C64970598B01A48978E9F7423CF2B37_Jitp_Reach_HD",
+                "stream_title": "TOR vs. MIA Highlights (1m 56s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_A5988C539C64970598B01A48978E9F7423CF2B37/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=1b34bfec-9d51-42d9-9e6c-52a1e260acd3",
+                "manifest_keys": "84a97d7112299140a8b8ba85d6bcc143:cddcf82e204b725b7ffe35b138eba127"
+            },
+            {
+                "stream_id": "NBA_814F9C9BD6726831495DD831CAD0CC7D93702661_Jitp_Reach_HD",
+                "stream_title": "Toronto Raptors Best Plays vs. Miami Heat (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_814F9C9BD6726831495DD831CAD0CC7D93702661/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=7886c9f6-29cb-4743-9d27-173b9c91f96d",
+                "manifest_keys": "1eaa1509910ad4e7632f7bf57d7e8183:39925de5af8bd292c93a43483bfe8029"
+            },
+            {
+                "stream_id": "NBA_CF8F343057D90B03D57A81BBF497B27E8152987E_Jitp_Reach_HD",
+                "stream_title": "Miami Heat Best Plays vs. Toronto Raptors (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_CF8F343057D90B03D57A81BBF497B27E8152987E/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=548598a2-345b-4ccf-a003-5ff5b761fa76",
+                "manifest_keys": "edfd883b4591b3deeb828c419bcbd703:fcca1078b060a117d12dab4ea770a8cd"
+            },
+            {
+                "stream_id": "NBA_32A48EDA84BAEB5CDCB55571389770908AE3DF24_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Toronto Raptors @ Miami Heat (15m 22s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_32A48EDA84BAEB5CDCB55571389770908AE3DF24/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=36a64492-de5c-44dc-a0c8-20a734dfe9ec",
+                "manifest_keys": "4cea656d694d57a39e2913efe454ff64:0eee5e97ac4affdb9aa11fd413a99706"
+            },
+            {
+                "stream_id": "NBA_202512232338NBA_____VIDEOS__NBAE_2876645_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Raptors 112, Heat 91 (2m 28s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232338NBA_____VIDEOS__NBAE_2876645/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=fbb96d80-bdbd-413b-bc27-95642209b7bd",
+                "manifest_keys": "9a6d744652afbd04fba0826202ddcdfa:f41e3fde79ebd8f3ef5f2c550daab58d"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500415",
+        "home_team": "Dallas Mavericks",
+        "away_team": "Denver Nuggets",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T01:00:00Z",
+        "home_score": 131,
+        "away_score": 130,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500415den1001590dalV_Jitp_Reach_HD",
+                "stream_title": "DEN @ DAL - Spanish Mexico (prime Video) | 2025-12-23 (2h 36m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500415den1001590dalV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=0c061b9b-910d-49c8-b6e0-35d66bf95653",
+                "manifest_keys": "208109ee65accef11d94ab60704ea396:2643c1a90c5c587334deea99e663783e"
+            },
+            {
+                "stream_id": "NBA_g0022500415den1001457dalV_Jitp_Reach_HD",
+                "stream_title": "DEN @ DAL - Nbc | 2025-12-23 (2h 30m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500415den1001457dalV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=b4e06b64-d91f-4896-a770-6f7281a67c08",
+                "manifest_keys": "15f0cc967cc03561c2d6c4ce09d394d9:181a61eb4689d03a025bf5ef8b38ccb7"
+            },
+            {
+                "stream_id": "NBA_g0022500415den1001591dalV_Jitp_Reach_HD",
+                "stream_title": "DEN @ DAL - Portuguese Brazil (prime Video) | 2025-12-23 (2h 34m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500415den1001591dalV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=379df109-9fd7-43f0-aee7-6ef11b251440",
+                "manifest_keys": "af2b221c5d51b3b863eb3c386c599343:6269ffb1583cd8952c90a95dd39b705e"
+            },
+            {
+                "stream_id": "NBA_g0022500415den1000444dalV_Jitp_Reach_HD",
+                "stream_title": "DEN @ DAL - Mobile View | 2025-12-23 (2h 30m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500415den1000444dalV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=aacbd1fd-1c96-440d-8fdd-81bd123de3aa",
+                "manifest_keys": "04a90fd4cf18c6f20b929dc4dee466a4:45c645822af83cb321c49b5a99f432e0"
+            },
+            {
+                "stream_id": "NBA_A1FA0EC40216198335B7B8705F156A9ABFA77010_Jitp_Reach_HD",
+                "stream_title": "Denver Nuggets Best Plays vs. Dallas Mavericks (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_A1FA0EC40216198335B7B8705F156A9ABFA77010/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=64bb81c1-6c62-412f-bc6b-91c0ec1d00b4",
+                "manifest_keys": "48685df8349888d2ce164dbe9e10a4e0:8062ef1f21418d448354ddc38a1f111f"
+            },
+            {
+                "stream_id": "NBA_4654C0530F79F6B48A53BB10C036E14CA0117C03_Jitp_Reach_HD",
+                "stream_title": "Dallas Mavericks Best Plays vs. Denver Nuggets (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_4654C0530F79F6B48A53BB10C036E14CA0117C03/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=a7194e37-c151-468a-9401-6c627331e650",
+                "manifest_keys": "670d658ea72cb966bd282ff31aada18c:eef13d4cbcfa61f9a975597b8c35d668"
+            },
+            {
+                "stream_id": "NBA_C32C89913B80ADD56FCFB9086CBE375E59B8EFF2_Jitp_Reach_HD",
+                "stream_title": "DEN vs. DAL Highlights (2m 1s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_C32C89913B80ADD56FCFB9086CBE375E59B8EFF2/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=8704d8e8-4f39-4021-b351-00bfbeb3823c",
+                "manifest_keys": "ff082cad9020c421c8588736395be910:12b92d2d3ed4e9296c08cdc2e2e1e729"
+            },
+            {
+                "stream_id": "NBA_6A40F6839CB71511D5B284A06E7401FF72A73C73_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Denver Nuggets @ Dallas Mavericks (36m 21s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_6A40F6839CB71511D5B284A06E7401FF72A73C73/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=eee184d3-cf44-4c53-b42e-da16c8251aec",
+                "manifest_keys": "391b60df91098a9de63ed1cd4692f976:d1411bf3e814d76174aed7fc1ef83f62"
+            },
+            {
+                "stream_id": "NBA_30E5AB9D58BE051387149F26E669B19DDBB90657_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Denver Nuggets @ Dallas Mavericks (17m 51s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_30E5AB9D58BE051387149F26E669B19DDBB90657/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=9bf2cd64-d884-4f18-9615-ada04b3e7929",
+                "manifest_keys": "82f7abca2991641792f167a3379f5391:deca44749cecd92bc7d73508164e401b"
+            },
+            {
+                "stream_id": "NBA_202512232343NBA_____VIDEOS__NBAE_2876660_Jitp_Reach_HD",
+                "stream_title": "Game Recap: Mavericks 131, Nuggets 130 (2m 25s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_202512232343NBA_____VIDEOS__NBAE_2876660/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=cb79c7fb-2f6a-4fa5-903e-405d87313e81",
+                "manifest_keys": "f6b21de91d12db23a9389f7d60fdee74:63232cca0b3e348421be64027f8119be"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500416",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "New York Knicks",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T01:00:00Z",
+        "home_score": 115,
+        "away_score": 104,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500416nyk1000467minV_Jitp_Reach_HD",
+                "stream_title": "NYK @ MIN - Knicks Away | 2025-12-23 (2h 37m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500416nyk1000467minV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=f9df948b-f1ec-4ac1-b611-e5c393994d55",
+                "manifest_keys": "012fc42e414e47f93379908d15b996c5:8ba09bab8b2040c40ada110871b139b7"
+            },
+            {
+                "stream_id": "NBA_g0022500416nyk1000465minV_Jitp_Reach_HD",
+                "stream_title": "NYK @ MIN - Timberwolves Home | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500416nyk1000465minV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=66c4d1b2-6353-4951-96d0-a60ab744bfdf",
+                "manifest_keys": "d7bf55fb76d10398bf2b64b3ce6d35b8:c0f1a1761376470d433b3a5b4fe39ad2"
+            },
+            {
+                "stream_id": "NBA_g0022500416nyk1000444minV_Jitp_Reach_HD",
+                "stream_title": "NYK @ MIN - Mobile View | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500416nyk1000444minV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=04041860-b2bd-4470-9181-bd090132be87",
+                "manifest_keys": "7759b3c50f13da26ca776a336a779143:c0b2296e3f5eb9f9d29a457c4ae661e9"
+            },
+            {
+                "stream_id": "NBA_2D4B012E2A69FA07F29064DA760F71985A874763_Jitp_Reach_HD",
+                "stream_title": "NYK vs. MIN Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_2D4B012E2A69FA07F29064DA760F71985A874763/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=0317b213-e698-4d43-9657-ecb302e1a64c",
+                "manifest_keys": "c0b65229b3d7f567889f19a30e7a564c:1431ee39078040ccb65f0dd6200f59ec"
+            },
+            {
+                "stream_id": "NBA_6FE7561403D8FB1B5054CF6F756AB3831547E755_Jitp_Reach_HD",
+                "stream_title": "Minnesota Timberwolves Best Plays vs. New York Knicks (4m 59s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_6FE7561403D8FB1B5054CF6F756AB3831547E755/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=679a1d5c-937c-41f2-a916-45fd673b07ee",
+                "manifest_keys": "04f00f872e9a083296947eca606b6c85:ae113e52d76044cde977dfc50b1738e3"
+            },
+            {
+                "stream_id": "NBA_84924466EFF1BD59D1B83DC9667E435D61D093C1_Jitp_Reach_HD",
+                "stream_title": "New York Knicks Best Plays vs. Minnesota Timberwolves (4m 59s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_84924466EFF1BD59D1B83DC9667E435D61D093C1/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=49ba2634-d057-456f-9f14-3c536e16a912",
+                "manifest_keys": "59f822ee6aaab369da2d48b62b3a4dac:8364b81a0202ccb97014960fa932e40b"
+            },
+            {
+                "stream_id": "NBA_FDB9C6DF40B3A71E3DB098BD0D0EF6EAC76AF935_Jitp_Reach_HD",
+                "stream_title": "All Possessions: New York Knicks @ Minnesota Timberwolves (38m 41s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_FDB9C6DF40B3A71E3DB098BD0D0EF6EAC76AF935/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=8fcb02f8-580a-473c-98b4-36d7f6e39083",
+                "manifest_keys": "9f559692ebbfda715331469c26452726:3f16741513efd08f4ff1e774d7730291"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500417",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Oklahoma City Thunder",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T01:30:00Z",
+        "home_score": 130,
+        "away_score": 110,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500417okc1000444sasV_Jitp_Reach_HD",
+                "stream_title": "OKC @ SAS - Mobile View | 2025-12-23 (2h 27m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500417okc1000444sasV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=01e63fb2-5d10-4860-9cfb-3c8122ebdb4e",
+                "manifest_keys": "36e8aad37d44fa832e28210f550d4538:811a16406b0743e774a95e299e13e57d"
+            },
+            {
+                "stream_id": "NBA_g0022500417okc1000474sasV_Jitp_Reach_HD",
+                "stream_title": "OKC @ SAS - Spurs Home | 2025-12-23 (2h 27m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500417okc1000474sasV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=0138574b-a6a5-4505-8eb1-5c7ebc86f740",
+                "manifest_keys": "6bcf4790f24c085c69bf7a995179df18:93657094d991c786c7aa820c1eae23b6"
+            },
+            {
+                "stream_id": "NBA_g0022500417okc1000468sasV_Jitp_Reach_HD",
+                "stream_title": "OKC @ SAS - Thunder Away | 2025-12-23 (2h 22m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500417okc1000468sasV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=764afe6c-f3ac-4b0f-ac6b-c4ba23bdcb46",
+                "manifest_keys": "28030397af7dbb3aae05c6d8fb57a498:4f09faf5c0e639cace626536c2ae2173"
+            },
+            {
+                "stream_id": "NBA_A96C284A81BC0BA4B8F3C95BC9B003E6D45F7312_Jitp_Reach_HD",
+                "stream_title": "OKC vs. SAS Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_A96C284A81BC0BA4B8F3C95BC9B003E6D45F7312/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=8cc447c2-e22c-4567-94eb-e42c65a709a0",
+                "manifest_keys": "55222efedc357e199d61f583ab5354d7:7a37e092b523c6befa1dcc01c9da3b43"
+            },
+            {
+                "stream_id": "NBA_CAEBE7CB1696B4AA9B7A17E3182055140DEC7D85_Jitp_Reach_HD",
+                "stream_title": "All Possessions: Oklahoma City Thunder @ San Antonio Spurs (36m 16s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_CAEBE7CB1696B4AA9B7A17E3182055140DEC7D85/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=7314fe8d-92f4-44d7-968e-6260356989ad",
+                "manifest_keys": "ad820af63c4fae01b90cb9c0d62cb16f:4d3d802f780f83909f3533f4fa9f1a0f"
+            },
+            {
+                "stream_id": "NBA_F247FF0F5E6EA33159CECA108252F8B2AE4D2EE1_Jitp_Reach_HD",
+                "stream_title": "San Antonio Spurs Best Plays vs. Oklahoma City Thunder (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_F247FF0F5E6EA33159CECA108252F8B2AE4D2EE1/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=a52c6048-bfee-4b5d-8d1b-438eb5b40e90",
+                "manifest_keys": "262d2d50dc59eeb410348698238ff839:66ba6b1617d084d4ab03640a872a9dfa"
+            },
+            {
+                "stream_id": "NBA_C7AD3BDD38FAA5BEE67D616AEB3ADE51B0EE8DEC_Jitp_Reach_HD",
+                "stream_title": "Oklahoma City Thunder Best Plays vs. San Antonio Spurs (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_C7AD3BDD38FAA5BEE67D616AEB3ADE51B0EE8DEC/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=0501769c-feff-4b14-ae0b-80a726c83acd",
+                "manifest_keys": "82303908992df4983a44b6b8aa897bd1:984e9ed5718606268cdaa2e9b34a96ab"
+            },
+            {
+                "stream_id": "NBA_36568945EB911609132363E9EDA8601AC95FF27A_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Oklahoma City Thunder @ San Antonio Spurs (16m 51s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_36568945EB911609132363E9EDA8601AC95FF27A/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=3bf4f05c-3b35-43c0-a341-00daf7511d98",
+                "manifest_keys": "ebc7a19a56ddd7cc8e1c3e6e9556d67a:1787229eaf610333cee6a0fcda4b8154"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500418",
+        "home_team": "Phoenix Suns",
+        "away_team": "Los Angeles Lakers",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T02:00:00Z",
+        "home_score": 132,
+        "away_score": 108,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500418lal1000471phxV_Jitp_Reach_HD",
+                "stream_title": "LAL @ PHX - Suns Home | 2025-12-23 (2h 28m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500418lal1000471phxV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=f4a1b4cd-0573-4cd3-a7c1-781c2941d713",
+                "manifest_keys": "53d7a1db2525d7d664644db33e731d2c:e2ef6a746c6008d5650ca3d136748f26"
+            },
+            {
+                "stream_id": "NBA_g0022500418lal1000444phxV_Jitp_Reach_HD",
+                "stream_title": "LAL @ PHX - Mobile View | 2025-12-23 (2h 28m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500418lal1000444phxV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=cca64541-2a1a-46a3-91c2-cb4074d84069",
+                "manifest_keys": "69ebaf50c125d0d4d2eb5fcc1a64e3db:8a8a21f19626a2b623a901515d6593f2"
+            },
+            {
+                "stream_id": "NBA_g0022500418lal1000461phxV_Jitp_Reach_HD",
+                "stream_title": "LAL @ PHX - Lakers Away | 2025-12-23 (2h 25m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500418lal1000461phxV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=81a4d573-d3cf-4925-81b4-00cf23542805",
+                "manifest_keys": "3f72c277be585f4bbe2d76a4f3dc50d5:35544b8ba44ea8ccaeed6cafee4367ab"
+            },
+            {
+                "stream_id": "NBA_5122ECA08E92D4EFCB6E9A013B8271DE0E86BE50_Jitp_Reach_HD",
+                "stream_title": "LAL vs. PHX Highlights (2m 2s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_5122ECA08E92D4EFCB6E9A013B8271DE0E86BE50/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=a8e13cc3-7b69-48e2-b8f8-5e9df8f38f78",
+                "manifest_keys": "42e1a48306a3daf452c55a0e4d72fda9:080e4b2e07cf4ce8b229d944f820ca5c"
+            },
+            {
+                "stream_id": "NBA_AEF209007E9EF2BB9A299593972A33EF82199B69_Jitp_Reach_HD",
+                "stream_title": "Phoenix Suns Best Plays vs. Los Angeles Lakers (5m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_AEF209007E9EF2BB9A299593972A33EF82199B69/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=03cd051a-e3fe-47a7-9744-0224606e639d",
+                "manifest_keys": "f81d6cca1e3df7aeb2a99f3f99f2f32f:fffe4e04231cb76ecca6f0991cc5daea"
+            },
+            {
+                "stream_id": "NBA_4F37C5EA30BDB6F43BB311F688A55063686B482C_Jitp_Reach_HD",
+                "stream_title": "Los Angeles Lakers Best Plays vs. Phoenix Suns (4m 58s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_4F37C5EA30BDB6F43BB311F688A55063686B482C/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=afbd5c2b-fc9b-4ff1-ac1f-29f2b6a8f5ae",
+                "manifest_keys": "4449d61c93d140e2e6d60dbe27daafe2:387cd3506fbea5bc322f2844d4d57b8c"
+            },
+            {
+                "stream_id": "NBA_F8BF285252720B78E26B624B1206618296290779_Jitp_Reach_HD",
+                "stream_title": "Full Game Highlights: Los Angeles Lakers @ Phoenix Suns (16m 40s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_F8BF285252720B78E26B624B1206618296290779/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=023034c7-bea0-488f-82ef-0b2149d692a3",
+                "manifest_keys": "cb2daebd292de29bd18cdd4092165cf5:b10bed6454bb6d55ff400d9289c6ba39"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500419",
+        "home_team": "Utah Jazz",
+        "away_team": "Memphis Grizzlies",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T02:00:00Z",
+        "home_score": 128,
+        "away_score": 137,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500419mem1000476utaV_Jitp_Reach_HD",
+                "stream_title": "MEM @ UTA - Jazz Home | 2025-12-23 (2h 33m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500419mem1000476utaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=2477b2a8-e0cc-490e-9a1b-6b045275c0d0",
+                "manifest_keys": "ee8660e322a88341e316eea408a2e751:a5364bd48c180b482d157cb984be59db"
+            },
+            {
+                "stream_id": "NBA_g0022500419mem1000444utaV_Jitp_Reach_HD",
+                "stream_title": "MEM @ UTA - Mobile View | 2025-12-23 (2h 33m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500419mem1000444utaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=80c233a8-6b64-4b66-b7d7-60ecfb0538cd",
+                "manifest_keys": "b1d2b1c60840adc6e5e156da7e7f0e8f:87b868d13bfc3f6825a5e46162ab8717"
+            },
+            {
+                "stream_id": "NBA_g0022500419mem1000462utaV_Jitp_Reach_HD",
+                "stream_title": "MEM @ UTA - Grizzlies Away | 2025-12-23 (2h 37m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500419mem1000462utaV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=b875c696-31f3-4996-87fd-9684cfd14f1e",
+                "manifest_keys": "e83945ee68b6382170adb0a6fd69b959:a3dea4765fa56351b34bd51c618caa07"
+            },
+            {
+                "stream_id": "NBA_810A21EA1694F79A2AB36107BEE6951A7331B58E_Jitp_Reach_HD",
+                "stream_title": "MEM vs. UTA Highlights (2m 0s)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_810A21EA1694F79A2AB36107BEE6951A7331B58E/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=653e3707-f083-4a43-9628-0b2d4c7f3e2b",
+                "manifest_keys": "102b4c80c2290c77b924411cea5c4f95:6ee1d0c611319751f070ef640e7b8a05"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500420",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Orlando Magic",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T03:00:00Z",
+        "home_score": 106,
+        "away_score": 110,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500420orl1000469porV_Jitp_Reach_HD",
+                "stream_title": "ORL @ POR - Magic Away | 2025-12-23 (2h 28m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500420orl1000469porV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=c63b865b-172f-4cf9-b3f3-2fa77b33549c",
+                "manifest_keys": "bb5f203b0f3465e9803df2866df345e6:c49aa1bab73a2232098e01761ef74072"
+            },
+            {
+                "stream_id": "NBA_g0022500420orl1000444porV_Jitp_Reach_HD",
+                "stream_title": "ORL @ POR - Mobile View | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500420orl1000444porV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=30e51a30-f6f1-40c6-996a-2934afb23b0e",
+                "manifest_keys": "178ad16d935b3014e5b433043358c143:49818eadaa1935368c981a5a7e86b9cd"
+            },
+            {
+                "stream_id": "NBA_g0022500420orl1000472porV_Jitp_Reach_HD",
+                "stream_title": "ORL @ POR - Trail Blazers Home | 2025-12-23 (2h 35m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500420orl1000472porV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=96535d1a-e801-458b-b404-c1709679fda5",
+                "manifest_keys": "6fdb2dedcca171432f6116be71d8899c:38ea53d8f2d75eb5fa712947f8543d36"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500421",
+        "home_team": "Sacramento Kings",
+        "away_team": "Detroit Pistons",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T03:00:00Z",
+        "home_score": 127,
+        "away_score": 136,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500421det1000444sacV_Jitp_Reach_HD",
+                "stream_title": "DET @ SAC - Mobile View | 2025-12-23 (2h 43m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500421det1000444sacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=42fcf8a8-5a61-430f-a089-7e564e36b970",
+                "manifest_keys": "11a5f510ce0e36f77ed53de1c555ed6b:f970885c2ce0b5d451914d2c1b1de2ec"
+            },
+            {
+                "stream_id": "NBA_g0022500421det1000473sacV_Jitp_Reach_HD",
+                "stream_title": "DET @ SAC - Kings Home | 2025-12-23 (2h 43m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500421det1000473sacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=4efa0711-d709-4f8f-af90-90360b555498",
+                "manifest_keys": "99a0a58073b6bd901ddf953ba47a1249:9cc0a08fc3f5c79f312554d27cbef4b5"
+            },
+            {
+                "stream_id": "NBA_g0022500421det1000456sacV_Jitp_Reach_HD",
+                "stream_title": "DET @ SAC - Pistons Away | 2025-12-23 (2h 47m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500421det1000456sacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=163495bf-9164-44f1-a2f8-39c87de4890b",
+                "manifest_keys": "2f2e835304546ec056603fa5abcb8682:9f0f36546f1394b92699f03ae2c34ff3"
+            }
+        ]
+    },
+    {
+        "game_id": "0022500422",
+        "home_team": "LA Clippers",
+        "away_team": "Houston Rockets",
+        "home_logo": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+        "away_logo": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+        "time": "Final",
+        "game_timestamp": "2025-12-24T03:30:00Z",
+        "home_score": 128,
+        "away_score": 108,
+        "live_streams": [],
+        "vods": [
+            {
+                "stream_id": "NBA_g0022500422hou1001591lacV_Jitp_Reach_HD",
+                "stream_title": "HOU @ LAC - Portuguese Brazil (prime Video) | 2025-12-23 (2h 34m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500422hou1001591lacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=281dc0ee-6d72-4827-9ccf-98b45a486f11",
+                "manifest_keys": "2686f1bc5b249ac7b9aca69ca380f54a:4e135ac0785323e537ad8ac3e6e41dc1"
+            },
+            {
+                "stream_id": "NBA_g0022500422hou1000458lacV_Jitp_Reach_HD",
+                "stream_title": "HOU @ LAC - Rockets Away | 2025-12-23 (2h 32m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500422hou1000458lacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=f59a1fee-63a0-47f3-a2d0-d183857e6fc4",
+                "manifest_keys": "61a98e3dc0e739a00e83fcb6041f7b23:da4062b67f46af5ecb815cd13960a8c9"
+            },
+            {
+                "stream_id": "NBA_g0022500422hou1001590lacV_Jitp_Reach_HD",
+                "stream_title": "HOU @ LAC - Spanish Mexico (prime Video) | 2025-12-23 (2h 37m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500422hou1001590lacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=eeb2baba-2d30-459d-937e-e0e50497d550",
+                "manifest_keys": "e0bbcdc457e2dd17832decef81a26cea:b4762790e448cbff006de30d1e3a984f"
+            },
+            {
+                "stream_id": "NBA_g0022500422hou1000444lacV_Jitp_Reach_HD",
+                "stream_title": "HOU @ LAC - Mobile View | 2025-12-23 (2h 31m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500422hou1000444lacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=f4d301e9-3a97-4343-892c-8b2011975bdc",
+                "manifest_keys": "7eb9313be4106c04f49824f925f0fd0d:aafbb734dfe5b462e7e6a870120e95f8"
+            },
+            {
+                "stream_id": "NBA_g0022500422hou1001457lacV_Jitp_Reach_HD",
+                "stream_title": "HOU @ LAC - Nbc | 2025-12-23 (2h 31m)",
+                "manifest_url": "https://lpnba.akamaized.net/vod-pz/p/hls-wvpr/NBA_g0022500422hou1001457lacV/index.m3u8?vpmute=0&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F135.0.0.0+Safari%2F537.36+Edg%2F135.0.0.0&dai-debug=false&sessionId=ef73a091-8352-42bd-954d-2805141b28d9",
+                "manifest_keys": "e44c72cb8b730db84534dd8e45e12c10:6e33329a329b18d77633fa432ce43cf5"
+            }
+        ]
+    }
+]
