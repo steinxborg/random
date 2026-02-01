@@ -1,0 +1,25 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.peacocktv.com	TRUE	/	FALSE	1804549473	OTGPPConsent	DBABLA~BVQVAAAAAACA.YA
+www.peacocktv.com	FALSE	/	FALSE	1801525473	usprivacy	1YYN
+.peacocktv.com	TRUE	/	TRUE	1802252389	deviceid	c8708303-0d82-4334-8fb7-0c1cacaf4a53
+.peacocktv.com	TRUE	/	TRUE	1797304779	OTGPPSections	7
+www.peacocktv.com	FALSE	/	FALSE	1801525473	OneTrustWPCCPAGoogleOptOut	true
+.peacocktv.com	TRUE	/	FALSE	1804549479	s_fid	15415F93A49F0578-31F643AE20E8B057
+.peacocktv.com	TRUE	/	TRUE	1802252282	NBCU_UUID	a5eb4a2c-edc3-4b96-8065-eb33f05618d9
+.peacocktv.com	TRUE	/	TRUE	1783209630	skyCEsidmesso01	S1-a6d3d12bbedbda80d7b48688972605e5883cf7675c310569b55c0df257fb9a7e
+.peacocktv.com	TRUE	/	TRUE	1783209630	idsession	E0-AAAADA9FR/ImSnvhLr0zQSkoJSve+o/1nSfT6NlMSmR/5DV8yCHC7s4ytZvhyp3sJNNX+E/E4OGDz3+QlttC/enA2VMrOdbBGYCp7ymfVbeX+dxz/0UBAx95ynPRJ9w555O5
+.peacocktv.com	TRUE	/	TRUE	1783209630	idsessionstate	aa159784-13db-4545-b4c4-46ff95e4678c
+.peacocktv.com	TRUE	/	TRUE	1783209630	skyCEsidextrk01	WSTeKQPw8iGkdEFn1u+vin2romyWiYEqB9XvU+5getg=
+.peacocktv.com	TRUE	/	FALSE	1770284390	customerSegmentation	PREMIUM
+www.peacocktv.com	FALSE	/	FALSE	1801546420	ktlvDW7IG5ClOcxYTbmY	a
+www.peacocktv.com	FALSE	/	FALSE	1770421469	sky_aud_segment	92
+.peacocktv.com	TRUE	/	FALSE	1804549468	LyQ6hKkP	BUaGWxecAQAA71ZMuGALMTnmBsRXDNPWqhB3WeiyoIZHzE7WuNzqhE7ZsJ02JJzC6ZviF323guqiwn23JgEEBoUAgGAg0dPdXVOuug|1|0|4f4cbd7b897a01a8b35eb7ab8a382fea374ef376
+www.peacocktv.com	FALSE	/	FALSE	1801476770	_dd_s	aid=20d36223-cda9-47b1-990b-6fb9682bb0c6&rum=2&id=bf878766-e2f7-49a9-a2e7-a5f5c77fcd1b&created=1769940730766&expire=1769941670954
+.peacocktv.com	TRUE	/	TRUE	1801525470	consentManagementData	{"consent_management_id":"746c9ffbbcf0368e66af6921e00ace1f087235a7","access_token":"eyJraWQiOiIxMmZhOWFhMi0zNGIzLTQ4ZGYtOTg1Mi05MDM1NzFkYWM4MzIiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI3NDZjOWZmYmJjZjAzNjhlNjZhZjY5MjFlMDBhY2UxZjA4NzIzNWE3IiwiYXVkIjoiNGZmNDIzNjgtMTE1NS00MTllLTkxZjQtNmNlNmQ4NTUwZTYyIiwic2NvcGUiOlsib25lVHJ1c3QiXSwicHJvcG9zaXRpb24iOiJOQkNVT1RUIiwiaXNzIjoiaHR0cDovL29hdXRoc2VydmVyLmlkZW50aXR5LW9hdXRoLXByb2Quc3ZjLmNsdXN0ZXIubG9jYWwuIiwiZXhwIjoxNzY5OTQ0ODkxLCJpYXQiOjE3Njk5NDEyOTEsImp0aSI6IjgyNzM2NTFhLTRhMjktNGU3Ny05ZmRkLTY4NWNmMDY3ZjdiMyIsInRlcnJpdG9yeSI6IlVTIn0.eWvIg3pG4oeBUrD-G3bqLFDmgA3ewFTsw3DRDzPEVg8PDjMYY18UH9tJpBbQ1rpS_7PUmxX8J7c1KX41q25d_w_aMBEOcVKs9I1pmbLJkSFPV-KFftHqLX4jj_AZuY4INxsHI8La66ru2nMUbMeh1WLmHVlFcujkWz9QwDdmSEIF3EOOdvPSewh11kpiMTCrwHeBzcc_Meq6uStZWen48yhBKrZ-w9J4ZmH7yhKw0DnGVx7zCnZUl2Uf7KFTVcvL4DvXsFgBK1yzqQxN4nOxDfYTKe3H8Dxoslty8dp1ZbgKCbcR7dJZDjeIgvHPzAS9BXuguv_5-B2_v1rex03Yug"}
+.peacocktv.com	TRUE	/	FALSE	1804549473	OptanonConsent	isGpcEnabled=1&datestamp=Mon+Feb+02+2026+07%3A44%3A33+GMT%2B0800+(Philippine+Standard+Time)&version=202508.2.0&browserGpcFlag=1&isIABGlobal=false&consentId=746c9ffbbcf0368e66af6921e00ace1f087235a7&identifierType=Cookie+Unique+Id&isAnonUser=0&hosts=&interactionCount=1&landingPath=NotLandingPage&GPPCookiesCount=1&gppSid=7&groups=1%3A1%2C8%3A1%2C5%3A1%2C2%3A1%2C7%3A1%2CSPD_BG%3A0%2CUSP%3A0%2C4%3A0%2COOF%3A1&AwaitingReconsent=false
+.peacocktv.com	TRUE	/	FALSE	0	AMCVS_2C5D27FF5CFA30F20A495E81%40AdobeOrg	1
+.peacocktv.com	TRUE	/	FALSE	1804549476	AMCV_2C5D27FF5CFA30F20A495E81%40AdobeOrg	1585540135%7CMCIDTS%7C20486%7CMCMID%7C56143712385873897689146229441068707465%7CMCOPTOUT-1769996675s%7CNONE%7CvVersion%7C4.4.0%7CMCAID%7CNONE
+.peacocktv.com	TRUE	/	FALSE	0	s_sq	nbcssott%3D%2526pid%253Dhttps%25253A%25252F%25252Fwww.peacocktv.com%25252Fwatch%25252Fhome%25253Forig_ref%25253Ddirect%2526oid%253DfunctionJr%252528%252529%25257B%25257D%2526oidt%253D2%2526ot%253DBUTTON
