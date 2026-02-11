@@ -3,7 +3,7 @@ name: Solver
 on:
   workflow_dispatch: # Manual trigger
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   solve-turnstile:
