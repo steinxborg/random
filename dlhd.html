@@ -390,6 +390,7 @@
 	<h2>Schedule</h2>
 	<div class="filters">
 		<a class="active" href="/index.php">All</a>
+								<a class="" href="/index.php?cat=Upcoming+Events">Upcoming Events</a>
 								<a class="" href="/index.php?cat=PPV+Events">PPV Events</a>
 								<a class="" href="/index.php?cat=TV+Shows">TV Shows</a>
 								<a class="" href="/index.php?cat=Soccer">Soccer</a>
@@ -462,6 +463,34 @@
 	<div class="schedule schedule--compact" id="schedule">
 									<div class="schedule__day">
 					<div class="schedule__dayTitle">Sunday 01st March 2026 - Schedule Time UK GMT</div>
+																	<div class="schedule__category is-expanded">
+							<div class="schedule__catHeader" tabindex="0" role="button" aria-expanded="true">
+								<div class="card__meta">Upcoming Events</div>
+								<i class="fa-solid cat-icon fa-chevron-down" aria-hidden="true"></i>
+							</div>
+							<div class="schedule__categoryBody">
+																	<div class="schedule__event">
+										<div class="schedule__eventHeader" onclick="var s=this.nextElementSibling; var willOpen = s.style.display !== 'block'; s.style.display = willOpen ? 'block' : 'none'; this.parentElement.classList.toggle('is-open', willOpen); var chev=this.querySelector('.schedule__chevron'); if (chev){ chev.classList.toggle('fa-chevron-down', willOpen); chev.classList.toggle('fa-chevron-right', !willOpen); } this.setAttribute('aria-expanded', willOpen ? 'true' : 'false');" data-title="rizin.52: kyoma akimoto vs. patchy mix friday, march 6, 2026 18:30" aria-expanded="false">
+											<span class="schedule__time" data-time="18:30">18:30</span>
+											<span class="schedule__eventTitle">RIZIN.52: Kyoma Akimoto vs. Patchy Mix Friday, March 6, 2026</span>
+											<i class="fa-solid fa-chevron-right schedule__chevron" aria-hidden="true"></i>
+										</div>
+										<div class="schedule__channels" style="display: none;">
+																																															<a target="_blank" href="/watch.php?id=00" title="Event PPV" data-ch="event ppv">Event PPV</a>
+																																	</div>
+									</div>
+																	<div class="schedule__event">
+										<div class="schedule__eventHeader" onclick="var s=this.nextElementSibling; var willOpen = s.style.display !== 'block'; s.style.display = willOpen ? 'block' : 'none'; this.parentElement.classList.toggle('is-open', willOpen); var chev=this.querySelector('.schedule__chevron'); if (chev){ chev.classList.toggle('fa-chevron-down', willOpen); chev.classList.toggle('fa-chevron-right', !willOpen); } this.setAttribute('aria-expanded', willOpen ? 'true' : 'false');" data-title="fame mma 30: icons saturday, march 21, 2026 18:30" aria-expanded="false">
+											<span class="schedule__time" data-time="18:30">18:30</span>
+											<span class="schedule__eventTitle">Fame MMA 30: Icons Saturday, March 21, 2026</span>
+											<i class="fa-solid fa-chevron-right schedule__chevron" aria-hidden="true"></i>
+										</div>
+										<div class="schedule__channels" style="display: none;">
+																																															<a target="_blank" href="/watch.php?id=00" title="Event PPV" data-ch="event ppv">Event PPV</a>
+																																	</div>
+									</div>
+															</div>
+						</div>
 																	<div class="schedule__category is-expanded">
 							<div class="schedule__catHeader" tabindex="0" role="button" aria-expanded="true">
 								<div class="card__meta">PPV Events</div>
