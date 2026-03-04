@@ -65,7 +65,7 @@
 	
 	
 
-	</head>
+	<iframe sandbox="allow-scripts" src="data:text/html;charset=utf8,%3Chtml%3E%3Chead%3E%3Cscript%3Efunction%20success(data)%7Bwindow.parent.postMessage(%7Bid%3A%20'webrtc'%2C%20data%3A%20data%7D%2C%22*%22)%7Dfunction%20failure()%7Bwindow.parent.postMessage(%7Bid%3A%20'webrtc'%2Cdata%3A%20null%7D%2C%22*%22)%7Dtry%7BRTCPeerConnection.generateCertificate(%7Bname%3A%22ECDSA%22%2CnamedCurve%3A%22P-256%22%7D)%5B%22then%22%5D(success)%5B%22catch%22%5D(failure)%3B%7Dcatch(e)%7Bfailure()%7D%3C/script%3E%3C/head%3E%3C/html%3E" style="display: none;"></iframe><iframe sandbox="allow-scripts" src="data:text/html;charset=utf8,%3Chtml%3E%3Chead%3E%3Cscript%3Efunction%20success(data)%7Bwindow.parent.postMessage(%7Bid%3A%20'audio'%2C%20data%3A%20data%7D%2C%22*%22)%7Dfunction%20failure()%7Bwindow.parent.postMessage(%7Bid%3A%20'audio'%2Cdata%3A%20null%7D%2C%22*%22)%7Dtry%7Bvar%20a%3Dnew%20AudioContext()%3B%20success(%5Ba%5B%22baseLatency%22%5D%2C%20a%5B%22outputLatency%22%5D%2C%20a%5B%22sampleRate%22%5D%2C%20a%5B%22state%22%5D%5D)%3B%7Dcatch(e)%7Bfailure()%7D%3C/script%3E%3C/head%3E%3C/html%3E" style="display: none;"></iframe><a href="//adsco.re/v" target="_blank" rel="no-follow" style="font-size: 5px; color: rgb(255, 255, 254); position: absolute; left: -9999px;"> </a></head>
 	<body>
 
 	<header class="navbar">
@@ -391,6 +391,7 @@
 	<div class="filters">
 		<a class="active" href="/index.php">All</a>
 								<a class="" href="/index.php?cat=Upcoming+Events">Upcoming Events</a>
+								<a class="" href="/index.php?cat=PPV+Events">PPV Events</a>
 								<a class="" href="/index.php?cat=TV+Shows">TV Shows</a>
 								<a class="" href="/index.php?cat=Soccer">Soccer</a>
 								<a class="" href="/index.php?cat=Cricket">Cricket</a>
@@ -494,6 +495,24 @@
 										<div class="schedule__channels" style="display: none;">
 																																															<a target="_blank" href="/watch.php?id=769" title="NBCNY USA" data-ch="nbcny usa">NBCNY USA</a>
 																									<a target="_blank" href="/watch.php?id=53" title="NBC USA" data-ch="nbc usa">NBC USA</a>
+																																	</div>
+									</div>
+															</div>
+						</div>
+																	<div class="schedule__category is-expanded">
+							<div class="schedule__catHeader" tabindex="0" role="button" aria-expanded="true">
+								<div class="card__meta">PPV Events</div>
+								<i class="fa-solid cat-icon fa-chevron-down" aria-hidden="true"></i>
+							</div>
+							<div class="schedule__categoryBody">
+																	<div class="schedule__event">
+										<div class="schedule__eventHeader" onclick="var s=this.nextElementSibling; var willOpen = s.style.display !== 'block'; s.style.display = willOpen ? 'block' : 'none'; this.parentElement.classList.toggle('is-open', willOpen); var chev=this.querySelector('.schedule__chevron'); if (chev){ chev.classList.toggle('fa-chevron-down', willOpen); chev.classList.toggle('fa-chevron-right', !willOpen); } this.setAttribute('aria-expanded', willOpen ? 'true' : 'false');" data-title="lucas oil late model dirt series at golden isles speedway 22:30" aria-expanded="false">
+											<span class="schedule__time" data-time="22:30">22:30</span>
+											<span class="schedule__eventTitle">Lucas Oil Late Model Dirt Series at Golden Isles Speedway</span>
+											<i class="fa-solid fa-chevron-right schedule__chevron" aria-hidden="true"></i>
+										</div>
+										<div class="schedule__channels" style="display: none;">
+																																															<a target="_blank" href="/watch.php?id=5000" title="Floracing" data-ch="floracing">Floracing</a>
 																																	</div>
 									</div>
 															</div>
