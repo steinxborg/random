@@ -25,7 +25,7 @@ browser = Chromium(co)
 page = browser.get_tabs()[-1]
 
 print("Navigating to dlhd.dad...")
-page.get("https://dlhd.dad/")
+page.get("https://dlstreams.top/")
 print("✓ Page loaded")
 
 def getTurnstileToken():
