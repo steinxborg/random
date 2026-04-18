@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+www.thesportsdb.com	FALSE	/	FALSE	0	PHPSESSID	ad3b829c63bcafaca8f723c6900b6f6c
+www.thesportsdb.com	FALSE	/	FALSE	1790311971	user	%7B%22username%22%3A%22whatpigs%22%2C%22hash%22%3A%22600933b3d582%22%2C%22cookie_secure%22%3Atrue%2C%22samesite%22%3A%22lax%22%2C%22cookie_httponly%22%3Atrue%7D
